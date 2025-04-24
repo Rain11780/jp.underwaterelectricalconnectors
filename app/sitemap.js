@@ -15,13 +15,13 @@ export default function sitemap() {
       priority: 1,
     },
     ...collection.map((item) => ({
-      url: `${process.env.ROOT_URL}/collection/${item.slug}`,
+      url: `${process.env.ROOT_URL}/collection${item.slug}`,
       lastModified: currentDate,
       changeFrequency: "monthly",
       priority: 0.8,
     })),
     ...product.map((item) => ({
-      url: `${process.env.ROOT_URL}/product/${item.slug}`,
+      url: `${process.env.ROOT_URL}/product${item.slug}`,
       lastModified: currentDate,
       changeFrequency: "monthly",
       priority: 0.8,
