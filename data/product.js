@@ -1,2716 +1,2354 @@
 export const product = [
 	{
-  "title": "MCIL1M 1Pin Underwater Connector",
-  "focus": "MCIL1M",
-  "slug": "/mcil1m-1pin-underwater-connector",
-  "collection": "Micro Underwater Connectors",
-  "description": "IP67 micro underwater coaxial connector with 316L stainless steel housing, ideal for ROVs, marine power transmissions, and subsea instrumentation applications.",
-  "main_image": "https://image.underwaterelectricalconnectors.com/product/mcil1m-underwater-connector-1.jpg",
-  "image_list": [
-    "https://image.underwaterelectricalconnectors.com/product/mcil1m-underwater-connector-2.jpg",
-    "https://image.underwaterelectricalconnectors.com/product/mcil1m-underwater-connector-3.jpg",
-    "https://image.underwaterelectricalconnectors.com/product/mcil1m-underwater-connector-4.jpg",
-    "https://image.underwaterelectricalconnectors.com/product/mcil1m-underwater-connector-5.jpg"
-  ],
-  "product_description": [
-    "The MCIL1M 1Pin IP67 Micro Underwater Connector offers high-performance connectivity for underwater coaxial applications. Engineered with 316L stainless steel for superior corrosion resistance, this connector is designed for demanding subsea environments including ROVs, unmanned underwater vehicles, marine research, and offshore equipment. Its gold-plated copper alloy contacts provide stable signal or power transmission, while the injection-molded structure ensures long-lasting waterproof sealing. Featuring BNC type circular design and operating at low frequency up to 10A, this connector guarantees reliability in submerged conditions, making it an ideal replacement for Subconn-style connectors."
-  ],
-  "product_parameter": [
-    "Brand: HYSF",
-    "Model Number: MCIL1M",
-    "Type: BNC Coaxial Docking Connector",
-    "Application: Power transmission for underwater equipment including ROVs, subsea instruments, and AUVs",
-    "Rated Current: 10A",
-    "Working Frequency: Low frequency",
-    "Contact Material: Copper alloy (gold plated)",
-    "Insulator Material: Chloroprene rubber",
-    "Housing Material: 316L Stainless Steel",
-    "Shape: Circular",
-    "IP Rating: IP67",
-    "Workmanship: Injection molding",
-    "Color: Black",
-    "Place of Origin: Shandong, China"
-  ],
-  "faq": [
+	  "title": "MCIL1M 1ピン水中コネクタ",
+	  "focus": "MCIL1M",
+	  "slug": "/mcil1m-1pin-underwater-connector",
+	  "collection": "Micro Underwater Connectors",
+	  "description": "316Lステンレス鋼ハウジングを備えたIP67マイクロ水中同軸コネクタで、ROV、海洋電力伝送、深海計装用途に最適です。",
+	  "main_image": "https://image.underwaterelectricalconnectors.com/product/mcil1m-underwater-connector-1.jpg",
+	  "image_list": [
+		"https://image.underwaterelectricalconnectors.com/product/mcil1m-underwater-connector-2.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/mcil1m-underwater-connector-3.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/mcil1m-underwater-connector-4.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/mcil1m-underwater-connector-5.jpg"
+	  ],
+	  "product_description": [
+		"MCIL1M 1ピンIP67マイクロ水中コネクタは、水中同軸用途向けの高性能接続性を提供します。優れた耐腐食性を備えた316Lステンレス鋼で設計されており、ROV、無人水中車両、海洋研究、オフショア機器など、要求の厳しい深海環境向けに作られています。金メッキされた銅合金接点により、安定した信号または電力伝送が可能で、射出成形構造により長期間の防水シールが保証されます。BNCタイプの円形デザインを特徴とし、低周波で最大10Aの動作が可能なこのコネクタは、水没条件下での信頼性を保証し、Subconnスタイルのコネクタの理想的な代替品です。"
+	  ],
+	  "product_parameter": [
+		"ブランド: HYSF",
+		"モデル番号: MCIL1M",
+		"タイプ: BNC同軸ドッキングコネクタ",
+		"用途: ROV、深海計器、AUVを含む水中機器の電力伝送",
+		"定格電流: 10A",
+		"動作周波数: 低周波",
+		"接点材料: 銅合金（金メッキ）",
+		"絶縁材料: クロロプレンゴム",
+		"ハウジング材料: 316Lステンレス鋼",
+		"形状: 円形",
+		"IP等級: IP67",
+		"製作方法: 射出成形",
+		"色: 黒",
+		"原産地: 中国山東省"
+	  ],
+	  "faq": [
+		{
+		  "question": "MCIL1MコネクタはSubconn製品と互換性がありますか？",
+		  "answer": "はい、このコネクタは同様の仕様を持つ標準Subconnコネクタの直接代替品として設計されています。"
+		},
+		{
+		  "question": "このコネクタはどのような水中用途に適していますか？",
+		  "answer": "ROV、水中探査システム、海洋モニタリング、オフショア掘削機器、深海ロボットに最適です。"
+		},
+		{
+		  "question": "長期間の水中使用における耐腐食性を確保する材料は何ですか？",
+		  "answer": "316Lステンレス鋼とクロロプレンゴム絶縁体を使用しており、腐食や海水劣化に対する優れた耐性を提供します。"
+		},
+		{
+		  "question": "カスタム構成やケーブル長を注文できますか？",
+		  "answer": "はい、OEMサービスを提供し、コネクタのデザイン、ピンの構成、ケーブル長を特定のプロジェクトニーズに合わせてカスタマイズできます。"
+		},
+		{
+		  "question": "最小注文数量と価格はいくらですか？",
+		  "answer": "最小注文数量は50個です。価格は注文数量に応じて17.00ドルから22.00ドルの範囲です。"
+		}
+	  ]
+	},
+	{
+	  "title": "MCIL2M MCBH2F 2ピン水中コネクタ",
+	  "focus": "MCIL2M",
+	  "slug": "/mcil2m-2pin-underwater-connector",
+	  "collection": "Micro Underwater Connectors",
+	  "description": "スレッドカップリングを備えたIP68 2ピンSubconnスタイル水中コネクタで、10Aの電力をサポートし、ROV、海洋カメラ、最大7000mの深海機器に最適です。",
+	  "main_image": "https://image.underwaterelectricalconnectors.com/product/mcil2m-2pin-underwater-connector-2.jpg",
+	  "image_list": [
+		"https://image.underwaterelectricalconnectors.com/product/mcil2m-2pin-underwater-connector-1.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/mcil2m-2pin-underwater-connector-3.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
+	  ],
+	  "product_description": [
+		"MCIL2M 2ピン深海水中コネクタは、海洋環境での高性能動作向けに設計されています。IP68防水保護と堅牢なスレッドカップリングデザインを備え、要求の厳しい深海用途向けに最大10Aの定格電力をサポートします。このプラガブルコネクタセット（MCIL2MオスとMCBH2Fメス）は、ROV、モータードライブ、海洋カメラ、最大7000メートルの深さで動作する深海ロボットに適しています。500回以上の嵌合サイクルに耐え、-50℃から100℃の温度範囲で確実に機能する耐久性のある設計です。コンパクトなデザインと優れたシール性能により、湿式接続環境での安定した電力伝送に最適です。"
+	  ],
+	  "product_parameter": [
+		"ブランド: HYSF",
+		"モデル番号: MCIL2M MCBH2F",
+		"タイプ: 水中電力コネクタ",
+		"用途: ROV、海洋カメラ、潜水ロボット、深海電力システム",
+		"定格電流: 10A",
+		"耐電圧: 800V AC",
+		"抵抗: 200MΩ-199.9Ω",
+		"性別: オス/メス",
+		"IP等級: IP68",
+		"挿抜回数: >500回",
+		"動作温度: -50℃~100℃",
+		"スレッドカップリング: 7/16-20UNF",
+		"水中深度能力: 最大7000メートル",
+		"形状: 円形",
+		"原産地: 中国山東省"
+	  ],
+	  "faq": [
+		{
+		  "question": "このコネクタは深海用途に使用できますか？",
+		  "answer": "はい、MCIL2Mコネクタは最大7000メートルの水中での動作に対応し、信頼性の高い電気シールと性能を提供します。"
+		},
+		{
+		  "question": "ROVや海洋カメラに適している理由は何ですか？",
+		  "answer": "IP68防水等級、10Aの電力容量、堅牢な耐久性を備えており、海洋環境での連続電力供給に最適です。"
+		},
+		{
+		  "question": "このコネクタはSubconnコネクタと互換性がありますか？",
+		  "answer": "はい、このモデルはSubconnスタイルのコネクタとして設計されており、同様の2ピン構成の代替品として使用できます。"
+		},
+		{
+		  "question": "湿式接続/切断用途に適していますか？",
+		  "answer": "もちろんです。このコネクタは湿式接続および切断操作を可能にし、厳しい水中環境でもIP68シールを維持します。"
+		},
+		{
+		  "question": "製品の予想寿命はどのくらいですか？",
+		  "answer": "このコネクタは500回以上の挿抜サイクルと深海用途での長期使用向けに設計されています。"
+		}
+	  ]
+	},
+	{
+	  "title": "MCIL2F MCBH2M 2ピン水中コネクタ",
+	  "focus": "MCIL2F",
+	  "slug": "/mcil2f-2pin-underwater-connector",
+	  "collection": "Micro Underwater Connectors",
+	  "description": "ステンレス鋼バルクヘッドとネオプレンインラインボディを備えたIP68定格MCIL2F 2ピン円形水中コネクタで、ROV、深海電力、深海海洋機器に最適です。",
+	  "main_image": "https://image.underwaterelectricalconnectors.com/product/mcil2f-2pin-underwater-connector-2.jpg",
+	  "image_list": [
+		"https://image.underwaterelectricalconnectors.com/product/mcil2f-2pin-underwater-connector-1.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/mcil2f-2pin-underwater-connector-3.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
+	  ],
+	  "product_description": [
+		"MCIL2F 2ピン水中コネクタは、海洋および海洋学環境向けに設計された高性能深海接続ソリューションです。最大7000メートルの深さでの動作をサポートするIP68定格のこのコネクタは、ネオプレンインラインメスコンポーネントとステンレス鋼バルクヘッドオスペア（MCBH2M1）で構成されています。7/16-20UNFスレッドカップリングと耐久性のある材料により、信頼性の高い防水シールと機械的完全性を保証します。水中ROVシステム、カメラ、深海計器の電力伝送に最適で、-50℃から100℃の過酷な条件下でも安定した接続を維持します。"
+	  ],
+	  "product_parameter": [
+		"ブランド: HYSF",
+		"モデル番号: MCIL2F",
+		"タイプ: 円形水中コネクタ",
+		"用途: ROV、海洋機器、深海電力システム、水中カメラ",
+		"定格電流: 10A",
+		"接点材料: 銅合金（金メッキ）",
+		"ハウジング材料: ネオプレン（インライン）、ステンレス鋼（バルクヘッド）",
+		"取付スレッド: 7/16-20UNF",
+		"温度範囲: -50℃~100℃",
+		"水中深度能力: 最大7000メートル",
+		"ゴム直径: 15.75mm",
+		"IP等級: IP68",
+		"性別: オス/メス",
+		"形状: 円形",
+		"原産地: 中国山東省",
+		"認証: TUV、CE、CCC"
+	  ],
+	  "faq": [
+		{
+		  "question": "MCIL2Fコネクタは深海海洋用途に適していますか？",
+		  "answer": "はい、最大7000メートルの深さで使用可能で、高圧下での優れたシールと耐久性を提供します。"
+		},
+		{
+		  "question": "このコネクタの水密性を確保するものは何ですか？",
+		  "answer": "IP68等級と7/16-20UNFスレッドカップリングにより、水中環境での安全で防水の嵌合が保証されます。"
+		},
+		{
+		  "question": "MCIL2Fコネクタは過酷な温度条件下で使用できますか？",
+		  "answer": "もちろんです。-50℃から100℃の間で確実に動作し、北極や熱帯の海洋プロジェクトに適しています。"
+		},
+		{
+		  "question": "このコネクタはどのような水中機器と互換性がありますか？",
+		  "answer": "ROV、UAV、海洋カメラ、深海電力ツール、その他の海洋学計器に最適です。"
+		},
+		{
+		  "question": "カスタマイズや大量購入の価格設定は提供されていますか？",
+		  "answer": "はい、OEMカスタマイズをサポートし、数量や仕様に応じた競争力のある価格を提供します。"
+		}
+	  ]
+	},
     {
-      "question": "Is the MCIL1M connector compatible with Subconn products?",
-      "answer": "Yes, this connector is designed to be a direct replacement for standard Subconn connectors with similar specifications."
-    },
-    {
-      "question": "What type of underwater applications is this connector suited for?",
-      "answer": "It is perfect for use in ROVs, underwater exploration systems, marine monitoring, offshore drilling equipment, and subsea robotics."
-    },
-    {
-      "question": "What materials ensure corrosion resistance for long-term underwater use?",
-      "answer": "The connector is built with 316L stainless steel and chloroprene rubber insulation, which provide excellent resistance to corrosion and saltwater degradation."
-    },
-    {
-      "question": "Can I order custom configurations or cable lengths?",
-      "answer": "Yes, we provide OEM services and can customize the connector design, pin configuration, and cable length to meet your specific project needs."
-    },
-    {
-      "question": "What is the minimum order quantity and pricing?",
-      "answer": "The MOQ is 50 pieces. Pricing ranges from $17.00 to $22.00 depending on order volume."
-    }
-  ]
-},
-{
-	"title": "MCIL2M MCBH2F 2Pin Underwater Connector",
-	"focus": "MCIL2M",
-	"slug": "/mcil2m-2pin-underwater-connector",
-	"collection": "Micro Underwater Connectors",
-	"description": "IP68 2-pin Subconn-style underwater connector with thread coupling, supports 10A power, ideal for ROVs, marine cameras, and deep-sea equipment to 7000m depth.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/mcil2m-2pin-underwater-connector-2.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/mcil2m-2pin-underwater-connector-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/mcil2m-2pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
-	],
-	"product_description": [
-	  "The MCIL2M 2Pin Subsea Underwater Connector is engineered for high-performance operation in marine environments. Featuring IP68 waterproof protection and a rugged thread coupling design, it supports up to 10A rated power for demanding subsea applications. This pluggable connector set (MCIL2M male and MCBH2F female) is suitable for ROVs, motor drives, marine cameras, and subsea robots operating in depths up to 7000 meters. Designed for durability, it withstands over 500 mating cycles and functions reliably in temperature ranges from -50℃ to 100℃. Its compact design and superior sealing make it ideal for wet-connection environments requiring stable power transmission."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: MCIL2M MCBH2F",
-	  "Type: Underwater Power Connector",
-	  "Application: ROVs, marine cameras, submarine robots, and subsea power systems",
-	  "Rated Current: 10A",
-	  "Withstand Voltage: 800V AC",
-	  "Resistance: 200MΩ-199.9Ω",
-	  "Gender: Male/Female",
-	  "IP Rating: IP68",
-	  "Insertion/Extraction: >500 times",
-	  "Operating Temperature: -50℃~100℃",
-	  "Thread Coupling: 7/16-20UNF",
-	  "Water Depth Capability: up to 7000 meters",
-	  "Shape: Round",
-	  "Place of Origin: Shandong, China"
-	],
-	"faq": [
-	  {
-		"question": "Can this connector be used for deep-sea applications?",
-		"answer": "Yes, the MCIL2M connector is rated for operation up to 7000 meters underwater with reliable electrical sealing and performance."
-	  },
-	  {
-		"question": "What makes this connector suitable for ROV and marine cameras?",
-		"answer": "It features IP68 waterproof rating, 10A power capacity, and rugged resistance, making it ideal for continuous power delivery in marine environments."
-	  },
-	  {
-		"question": "Is this connector compatible with Subconn connectors?",
-		"answer": "Yes, this model is designed as a Subconn-style connector and can replace similar 2-pin connector configurations."
-	  },
-	  {
-		"question": "Is it suitable for wet mate/disconnect applications?",
-		"answer": "Absolutely. The connector allows wet mate and unmate operations, maintaining its IP68 seal even in harsh underwater environments."
-	  },
-	  {
-		"question": "What is the expected product lifespan?",
-		"answer": "The connector is designed for over 500 insertion/removal cycles and long-term use in subsea applications."
-	  }
-	]
+    "title": "MCIL8F MCBH8M 8ピン水中コネクタ",
+    "focus": "MCIL8F MCBH8M",
+    "slug": "/mcil8f-mcbh8m-8pin-underwater-connector",
+    "collection": "Micro Underwater Connectors",
+    "description": "MCIL8F MCBH8M 8ピンのSubconnスタイルIP68水中コネクタセット。ROV、水中カメラ、海底ロボット用に設計。7000mの深さまで信頼性があり、堅牢なシーリングとプラグ式設計。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/mcil8f-mcbh8m-8pin-underwater-connector-1.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/mcil8f-mcbh8m-8pin-underwater-connector-2.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/mcil8f-mcbh8m-8pin-underwater-connector-3.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
+    ],
+    "product_description": [
+      "MCIL8F MCBH8M 8ピン水中コネクタセットは、ROV、水中カメラ、海洋ロボットシステムを対象とした海底ミッション向けの高性能接続を提供します。メスインラインプラグ（MCIL8F）とオスバルクヘッドコネクタ（MCBH8M）を備えたこのSubconnスタイルの防水システムは、IP68保護を提供し、7000mの深さで信頼性の高い動作が可能です。ウェットメイトアプリケーションでの電力または信号伝送に対応し、7/16-20UNFねじ込みインターフェース、高品質のネオプレンとステンレス鋼構造を採用し、優れた抵抗値（200MΩ-199.9Ω）を提供します。耐久性と再利用可能な海底ケーブルソリューションを求める海洋専門家に最適です。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: MCIL8F MCBH8M",
+      "タイプ: マイクロサークラーSubconnスタイル水中コネクタ",
+      "用途: 水中ROV、海底カメラ、海洋ロボット、電力および信号システム",
+      "定格電流: 10A",
+      "接点素材: 銅合金（金メッキ）",
+      "ハウジング素材: ネオプレン（MCIL8F）、ステンレス鋼（MCBH8M）",
+      "性別: メス（MCIL8F）、オス（MCBH8M）",
+      "カラー: ブラック",
+      "IP等級: IP68",
+      "耐水深: 最大7000m",
+      "耐電圧: 800V AC",
+      "抵抗: 200MΩ–199.9Ω",
+      "ゴム直径: 15.75mm",
+      "取り付けねじ: 7/16-20UNF",
+      "温度範囲: -50℃ ～ 100℃",
+      "挿抜回数: 500回以上",
+      "原産地: 中国、山東省",
+      "認証: TUV、CE、CCC",
+      "最小発注数量: 1セット"
+    ],
+    "faq": [
+      {
+        "question": "MCIL8F MCBH8Mコネクタはどのデバイスに適していますか？",
+        "answer": "このコネクタセットは、海底ROVシステム、水中ロボットカメラ、海洋計測機器、電力伝送デバイスに最適です。"
+      },
+      {
+        "question": "深海環境で使用できますか？",
+        "answer": "はい、IP68等級で、7000mの深さまで完全な機能を発揮するように設計されています。"
+      },
+      {
+        "question": "防水にはどのようなシーリングが使用されていますか？",
+        "answer": "高品質のネオプレンゴムボディと7/16-20UNFねじ込みシステムを採用し、強力な防水シーリングを提供します。"
+      },
+      {
+        "question": "この構成でサポートされるピンの数は？",
+        "answer": "このモデルは8ピンをサポートし、海洋環境でのマルチチャンネル電力または信号使用が可能です。"
+      },
+      {
+        "question": "国際認証は付属していますか？",
+        "answer": "はい、製品はTUV、CE、CCC認証を取得しており、業界基準と安全基準を満たしています。"
+      }
+    ]
   },
   {
-	"title": "MCIL2F MCBH2M 2Pin Underwater Connector",
-	"focus": "MCIL2F",
-	"slug": "/mcil2f-2pin-underwater-connector",
-	"collection": "Micro Underwater Connectors",
-	"description": "IP68 rated MCIL2F 2-pin circular underwater connector with stainless steel bulkhead and neoprene inline body, perfect for ROVs, subsea power, and deep-sea marine equipment.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/mcil2f-2pin-underwater-connector-2.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/mcil2f-2pin-underwater-connector-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/mcil2f-2pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
-	],
-	"product_description": [
-	  "The MCIL2F 2Pin Underwater Connector is a high-performance subsea connection solution engineered for marine and oceanographic environments. Designed to support operations at depths up to 7000 meters, this IP68-rated connector consists of a neoprene inline female component and a stainless steel bulkhead male pair (MCBH2M1). With its 7/16-20UNF threaded coupling and durable materials, the MCIL2F ensures a reliable waterproof seal and mechanical integrity. Ideal for power transmission in underwater ROV systems, cameras, and subsea instruments, this connector operates in harsh conditions ranging from -50℃ to 100℃ while maintaining stable connections."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: MCIL2F",
-	  "Type: Circular Underwater Connector",
-	  "Application: ROVs, marine equipment, subsea power systems, underwater cameras",
-	  "Rated Current: 10A",
-	  "Contact Material: Copper alloy (gold plated)",
-	  "Housing Material: Neoprene (inline), stainless steel (bulkhead)",
-	  "Mounting Thread: 7/16-20UNF",
-	  "Temperature Range: -50℃~100℃",
-	  "Water Depth Capability: up to 7000 meters",
-	  "Rubber Diameter: 15.75mm",
-	  "IP Rating: IP68",
-	  "Gender: Male/Female",
-	  "Shape: Round",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC"
-	],
-	"faq": [
-	  {
-		"question": "Is the MCIL2F connector suitable for deep-sea marine applications?",
-		"answer": "Yes, it is rated for use at depths of up to 7000 meters and offers excellent sealing and durability under high pressure."
-	  },
-	  {
-		"question": "What ensures the water-tightness of this connector?",
-		"answer": "It features an IP68 rating along with a 7/16-20UNF threaded coupling for secure and waterproof mating in underwater environments."
-	  },
-	  {
-		"question": "Can the MCIL2F connector be used in harsh temperature conditions?",
-		"answer": "Absolutely. It performs reliably between -50℃ and 100℃, making it suitable for both arctic and tropical marine projects."
-	  },
-	  {
-		"question": "What type of underwater equipment is this connector compatible with?",
-		"answer": "It is ideal for ROVs, UAVs, marine cameras, subsea power tools, and other oceanographic instruments."
-	  },
-	  {
-		"question": "Do you offer customization or bulk pricing?",
-		"answer": "Yes, we support OEM customization and offer competitive pricing for bulk orders depending on volume and specifications."
-	  }
-	]
+    "title": "MCIL8M MCBH8F 8ピン水中コネクタ",
+    "focus": "MCIL8M MCBH8F",
+    "slug": "/mcil8m-mcbh8f-8pin-underwater-connector",
+    "collection": "Micro Underwater Connectors",
+    "description": "MCIL8M MCBH8F Subconnスタイル8ピンIP68防水コネクタセット。円形BNCインターフェースを備え、ROV、水中電力システム、海底信号ルーティングに最適で、7000mの深さまで対応。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/mcil8m-mcbh8f-8pin-underwater-connector-1.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/mcil8m-mcbh8f-8pin-underwater-connector-2.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/mcil8m-mcbh8f-8pin-underwater-connector-3.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
+    ],
+    "product_description": [
+      "MCIL8M MCBH8F 8ピン水中コネクタは、水中ROV、海洋車両、海底電気アプリケーション向けの高品質Subconnスタイル円形電力コネクタシステムです。IP68等級を備え、オスインラインプラグ（MCIL8M）とメスバルクヘッド（MCBH8F）の構成は、海洋深さ7000mまで信頼性の高い使用が可能です。真鍮接点、堅牢なハウジング、7/16-20UNFねじ込み取り付けインターフェースを備え、過酷な環境での多用途な電力または信号接続をサポートします。カスタムケーブル長、終端プラグタイプ、マルチピン構成を必要とするプロジェクトに最適です。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: MCIL8M MCBH8F",
+      "タイプ: マイクロサークラーSubconnスタイルBNC水中コネクタ",
+      "用途: ROVシステム、海底電力、海洋計測機器、水中ロボティクス",
+      "定格電流: 10A",
+      "ピンの数: 8P",
+      "接点素材: 真鍮（金メッキ）",
+      "ハウジング素材: ネオプレンゴムおよび陽極酸化アルミニウム/ステンレス鋼",
+      "性別: オス（MCIL8M）、メス（MCBH8F）",
+      "形状: 円形",
+      "カラー: ブラック",
+      "IP等級: IP68",
+      "耐水深: 最大7000m",
+      "耐電圧: 800V AC",
+      "抵抗: 200MΩ–199.9Ω",
+      "ゴム直径: 15.75mm",
+      "取り付けねじ: 7/16-20UNF",
+      "温度範囲: -50℃ ～ 100℃",
+      "挿抜回数: 500回以上",
+      "原産地: 中国、山東省",
+      "認証: TUV、CE、CCC",
+      "最小発注数量: 1セット"
+    ],
+    "faq": [
+      {
+        "question": "MCIL8M MCBH8Fコネクタは何に使用されますか？",
+        "answer": "このコネクタは、深海アプリケーションで8ピンの電力または信号接続を必要とするROV、海洋機器、海底システムに使用されます。"
+      },
+      {
+        "question": "高圧や極端な水中深さに耐えられますか？",
+        "answer": "はい、IP68等級で、7000mの水中操作向けに設計されています。"
+      },
+      {
+        "question": "接点とハウジングにはどのような素材が使用されていますか？",
+        "answer": "耐腐食性の高導電性真鍮接点（金メッキ）と、ネオプレン/アルミニウムハウジングを採用し、耐久性を確保しています。"
+      },
+      {
+        "question": "カスタムケーブル長やピンの構成をリクエストできますか？",
+        "answer": "はい、2P/3P/4P/8Pなどのカスタム長ケーブルや接点/ピンのオプションがリクエストに応じて利用可能です。"
+      },
+      {
+        "question": "コネクタは再利用可能ですか？",
+        "answer": "はい、500回以上の嵌合サイクルをサポートし、過酷な海洋環境での現場サービスや長期展開に最適です。"
+      }
+    ]
   },
   {
-	"title": "MCDC2M 2-8Pin Underwater Connector",
-	"focus": "MCDC2M",
-	"slug": "/mcdc2m-2-8pin-underwater-connector",
-	"collection": "Micro Underwater Connectors",
-	"description": "MCDC2M micro circular underwater connector with 2–8 pins, IP68 rated, male straight cable plug ideal for power and signal in marine, ROV, and subsea applications up to 7000m.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/mcdc2m-2-8pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/mcdc2m-2-8pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/mcdc2m-2-8pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
-	],
-	"product_description": [
-	  "The MCDC2M 2–8 Pin Micro Underwater Connector is engineered for flexible connectivity in marine and subsea environments. Designed with a durable BNC-type male plug and a straight cable configuration, it supports power or signal transmission to equipment at depths up to 7000 meters. Rated IP68, it offers outstanding waterproof protection and high voltage resistance (800V AC), ensuring safe and reliable use under pressure. With a 7/16-20UNF mounting thread, 200MΩ resistance, and over 500 mating cycles, it is ideal for ROVs, subsea instruments, and underwater communication systems. The connector operates within a wide temperature range of -50℃ to 100℃."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: MCDC2M",
-	  "Type: BNC Micro Circular Male Plug",
-	  "Pin Options: 2/3/4/5/6/8 pins",
-	  "Application: Subsea power and signal transmission, ROVs, underwater instruments",
-	  "Gender: Male",
-	  "IP Rating: IP68",
-	  "Water Depth Capability: up to 7000 meters",
-	  "Withstand Voltage: 800V AC",
-	  "Resistance: 200MΩ-199.9Ω",
-	  "Mounting Thread: 7/16-20UNF",
-	  "Insertion/Extraction Cycles: >500 times",
-	  "Operating Temperature: -50℃~100℃",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC"
-	],
-	"faq": [
-	  {
-		"question": "Can the MCDC2M connector handle multi-pin configurations?",
-		"answer": "Yes, this connector is available in 2 to 8-pin options for flexible power or signal transmission needs underwater."
-	  },
-	  {
-		"question": "Is this connector suitable for deep-sea use?",
-		"answer": "Absolutely. It's IP68 rated and designed to operate at depths up to 7000 meters while withstanding voltage up to 800V AC."
-	  },
-	  {
-		"question": "What applications can this connector be used for?",
-		"answer": "It is ideal for subsea robots, marine electronics, underwater cameras, and ROV power or data systems."
-	  },
-	  {
-		"question": "Can it be reused multiple times without compromising sealing?",
-		"answer": "Yes. The connector is rated for over 500 insertion and extraction cycles with consistent waterproof performance."
-	  },
-	  {
-		"question": "Does the connector come with certifications?",
-		"answer": "Yes, all units are certified with TUV, CE, and CCC, ensuring compliance with international quality standards."
-	  }
-	]
+    "title": "MCIL10M MCBH10F 10ピン水中コネクタ",
+    "focus": "MCIL10M MCBH10F",
+    "slug": "/mcil10m-mcbh10f-10pin-underwater-connector",
+    "collection": "Micro Underwater Connectors",
+    "description": "MCIL10M MCBH10F Subconnスタイル10ピンIP68防水コネクタ。ドローン、ROV、HOV用に設計。316Lステンレス鋼とネオプレンを使用し、防水海底電力システムに対応。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/mcil10m-mcbh10f-10pin-underwater-connector-1.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/mcil10m-mcbh10f-10pin-underwater-connector-2.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/mcil10m-mcbh10f-10pin-underwater-connector-3.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
+    ],
+    "product_description": [
+      "MCIL10M MCBH10F 10ピン水中コネクタは、ドローン、HOV、ROV、その他の海底アプリケーション向けに設計されたコンパクトで防水の電気インターフェースです。このSubconnスタイルのコネクタは、オスインライン（MCIL10M）とメスバルクヘッド（MCBH10F）の構成を備え、耐久性のあるネオプレンボディと316Lステンレス鋼の位置決めピンを採用しています。IP68等級（旧IP69k）で、10Aシングルコア電力に対応し、水中電力分配に最適です。金メッキUNS-C36000銅合金ピンとカスタマイズ可能な1mリードを備え、過酷な海洋条件下で長期的な信頼性を提供します。嵌合サイクルは500回以上です。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: MCIL10M MCBH10F",
+      "タイプ: マイクロサークラーSubconnスタイル水中コネクタ",
+      "用途: ROV、ドローン、HOV、海底電力システム",
+      "定格電流: ピンあたり10A",
+      "ピンの数: 10P",
+      "接点素材: UNS-C36000（真鍮、金メッキ）",
+      "プラグボディ: ネオプレンゴム",
+      "位置決めピン: 316Lステンレス鋼",
+      "性別: オス（MCIL10M）、メス（MCBH10F）",
+      "IP等級: IP68",
+      "耐水深: 最大7000m",
+      "抵抗: 200MΩ–199.9Ω",
+      "ワイヤー長: 1m（カスタマイズ可能）",
+      "温度範囲: -4℃ ～ +60℃",
+      "挿抜回数: 500回以上",
+      "カラー: ブラック",
+      "原産地: 中国、山東省",
+      "認証: TUV、CE、CCC",
+      "最小発注数量: 2セット"
+    ],
+    "faq": [
+      {
+        "question": "MCIL10M MCBH10Fコネクタはドローンや水中用途に適していますか？",
+        "answer": "はい、深海圧力下でも、ドローン、ROV、HOV向けの高信頼性電力アプリケーション向けに設計されています。"
+      },
+      {
+        "question": "このコネクタの構造にはどのような素材が使用されていますか？",
+        "answer": "ネオプレンプラグボディ、316Lステンレス鋼の位置決めピン、金メッキ真鍮（UNS-C36000）接点を採用しています。"
+      },
+      {
+        "question": "コネクタはIP69k認証を取得していますか？",
+        "answer": "コネクタはIP68基準を満たし、IP69k相当の水中シーリングおよび耐圧性を備えています。"
+      },
+      {
+        "question": "このコネクタのワイヤー長をカスタムできますか？",
+        "answer": "はい、デフォルトのワイヤー長は1mですが、プロジェクト要件に応じてカスタマイズ可能です。"
+      },
+      {
+        "question": "コネクタはどのくらい再利用可能ですか？",
+        "answer": "500回以上の挿抜サイクルに対応し、現場での操作に非常に耐久性があり再利用可能です。"
+      }
+    ]
   },
   {
-	"title": "MCBH4M MCIL4F 4Pin Underwater Connector",
-	"focus": "MCBH4M",
-	"slug": "/mcbh4m-4pin-underwater-connector",
-	"collection": "Micro Underwater Connectors",
-	"description": "MCBH4M 4-pin stainless steel Subconn-style underwater bulkhead connector, IP68 rated, ideal for marine ROVs, wet pluggable applications, and subsea power environments up to 7000m.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/mcbh4m-4pin-underwater-connector-2.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/mcbh4m-4pin-underwater-connector-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/mcbh4m-4pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
-	],
-	"product_description": [
-	  "The MCBH4M 4Pin Underwater Connector is a robust bulkhead mount solution designed for demanding subsea and marine applications. Constructed with high-grade 316L stainless steel and compliant with IP68-rated waterproofing, this connector guarantees reliable performance at depths reaching 7000 meters. It features a sturdy BNC-style interface and a 7/16-20UNF mounting thread for secure coupling. Ideal for ROVs, underwater robots, and marine power systems, the MCBH4M manages up to 10A of current with a withstand voltage of 800V AC. Engineered for durability and over 500 mating cycles, it ensures long-term performance in harsh underwater environments."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: MCBH4M",
-	  "Type: BNC Bulkhead Circular Connector",
-	  "Application: ROVs, underwater robots, marine power systems",
-	  "Rated Current: 10A",
-	  "Contact Material: Copper alloy (gold plated)",
-	  "Housing Material: 316L Stainless Steel",
-	  "IP Rating: IP68",
-	  "Water Depth Capability: up to 7000 meters",
-	  "Withstand Voltage: 800V AC",
-	  "Resistance: 200MΩ-199.9Ω",
-	  "Gender: Male/Female",
-	  "Mounting Thread: 7/16-20UNF",
-	  "Insertion/Extraction Cycles: >500 times",
-	  "Operating Temperature: -50℃~100℃",
-	  "Place of Origin: Shandong, China"
-	],
-	"faq": [
-	  {
-		"question": "Is the MCBH4M connector rated for deep-sea marine operation?",
-		"answer": "Yes, it is IP68 rated and supports reliable underwater operation at depths up to 7000 meters."
-	  },
-	  {
-		"question": "What type of material is used for corrosion resistance?",
-		"answer": "This connector uses marine-grade 316L stainless steel for excellent corrosion resistance in seawater environments."
-	  },
-	  {
-		"question": "How many pins are in this connector?",
-		"answer": "The MCBH4M features a 4-pin configuration, suitable for both power and signal transmission."
-	  },
-	  {
-		"question": "Can this connector be wet-plugged while submerged?",
-		"answer": "Yes, it is designed for wet-mate applications and maintains its IP68 waterproof integrity during operation."
-	  },
-	  {
-		"question": "Is this connector compatible with Subconn systems?",
-		"answer": "Absolutely. The MCBH4M is designed in the Subconn style and fits industry-standard mating interfaces."
-	  }
-	]
+    "title": "MCIL12F MCBH12M 12ピン水中コネクタ",
+    "focus": "MCIL12F MCBH12M",
+    "slug": "/mcil12f-mcbh12m-12pin-underwater-connector",
+    "collection": "Micro Underwater Connectors",
+    "description": "MCIL12F MCBH12M Subconnスタイル12ピンIP68水中コネクタ。工業用ライト、ロボット、Seacon ROV/HOVシステム向け。ステンレス鋼とネオプレンを使用し、7000mの海底性能に対応。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/mcil12f-mcbh12m-12pin-underwater-connector-1.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/mcil12f-mcbh12m-12pin-underwater-connector-2.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/mcil12f-mcbh12m-12pin-underwater-connector-3.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
+    ],
+    "product_description": [
+      "MCIL12F MCBH12M 12ピン水中コネクタは、Seacon統合を使用する高性能工業用ライト、ロボット、ROV/HOVシステム向けの堅牢なSubconn互換ソリューションです。ネオプレンプラグボディと316Lステンレス鋼の位置決めピンで設計され、IP68等級で最大7000mの深さで電力または信号を確実に伝送します。金メッキUNS-C36000銅合金ピンは優れた電気伝導性を提供し、12ピンのレイアウトは10Aシングルコア電力の複数チャンネルをサポートします。標準1mワイヤーが付属し、必要に応じてカスタマイズ可能です。要求の厳しい海底アプリケーションに最適です。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: MCIL12F MCBH12M",
+      "タイプ: マイクロサークラーSubconnスタイル水中コネクタ",
+      "用途: 工業用照明、海底ロボティクス、ROV、HOV、Seaconシステム",
+      "定格電流: ピンあたり10A",
+      "ピンの数: 12P",
+      "接点素材: UNS-C36000（金メッキ真鍮）",
+      "プラグボディ: ネオプレンゴム",
+      "位置決めピン: 316Lステンレス鋼",
+      "性別: メス（MCIL12F）、オス（MCBH12M）",
+      "IP等級: IP68",
+      "耐水深: 最大7000m",
+      "抵抗: 200MΩ–199.9Ω",
+      "温度範囲: -4℃ ～ +60℃",
+      "ワイヤー長: 1m（カスタマイズ可能）",
+      "挿抜回数: 500回以上",
+      "原産地: 中国、山東省",
+      "認証: TUV、CE、CCC",
+      "最小発注数量: 2セット"
+    ],
+    "faq": [
+      {
+        "question": "MCIL12F MCBH12MコネクタはSeaconシステムと互換性がありますか？",
+        "answer": "はい、Subconnスタイルの水中コネクタとして設計されており、さまざまなSeacon ROVおよびHOV構成と互換性があります。"
+      },
+      {
+        "question": "この12ピンコネクタはどのような機器に使用できますか？",
+        "answer": "工業用水中ライト、海底ロボット、ROVおよびHOVの電力分配に最適です。"
+      },
+      {
+        "question": "各ピンはどのくらいの電流を処理できますか？",
+        "answer": "12ピンの各コアは最大10Aを処理でき、水中でのさまざまな電力および信号用途に適しています。"
+      },
+      {
+        "question": "どのような環境条件に耐えられますか？",
+        "answer": "コネクタは、最大7000mの深さと-4℃から+60℃の動作環境に対応するように設計されています。"
+      },
+      {
+        "question": "ケーブル長はカスタマイズ可能ですか？",
+        "answer": "はい、各コネクタにはデフォルトで1mのリードが含まれていますが、ケーブル長はリクエストに応じてカスタマイズ可能です。"
+      }
+    ]
   },
   {
-	"title": "MCIL4F MCBHRA4M 4Pin Underwater Connector",
-	"focus": "MCIL4F",
-	"slug": "/mcil4f-4pin-underwater-connector",
-	"collection": "Micro Underwater Connectors",
-	"description": "MCIL4F 4-pin micro underwater connector with right-angle bulkhead (MCBHRA4M), IP68 rated for ROV and marine power systems. Supports 10A at depths up to 7000m.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/mcil4f-4pin-underwater-connector-3.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/mcil4f-4pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/mcil4f-4pin-underwater-connector-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
-	],
-	"product_description": [
-	  "The MCIL4F 4Pin Underwater Connector with right-angle bulkhead (MCBHRA4M) is designed for high-performance power delivery in underwater systems. Rated IP68 and capable of operating reliably at depths up to 7000 meters, it supports up to 10A current with a withstand voltage of 800V AC. This micro subconn-style connector is ideal for use on ROVs, underwater drones, and marine automation equipment. The durable threaded 7/16-20UNF connection and over 500 mating cycles ensure ease of use and long-term performance. Its right-angle bulkhead configuration allows flexible routing in tight subsea installations."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: MCIL4F",
-	  "Type: Micro Circular Underwater Connector",
-	  "Application: ROVs, marine power systems, underwater cameras, subsea instruments",
-	  "Rated Current: 10A",
-	  "Contact Material: Copper alloy (gold plated)",
-	  "Gender: Male/Female",
-	  "Housing Material: Neoprene rubber + Stainless steel (bulkhead)",
-	  "IP Rating: IP68",
-	  "Water Depth Capability: up to 7000 meters",
-	  "Withstand Voltage: 800V AC",
-	  "Resistance: 200MΩ-199.9Ω",
-	  "Shape: Round",
-	  "Installation Thread: 7/16-20UNF",
-	  "Working Temperature: -50℃~100℃",
-	  "Insertion/Extraction Cycles: >500 times",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC"
-	],
-	"faq": [
-	  {
-		"question": "Can the MCIL4F connector be used in deep-sea environments?",
-		"answer": "Yes, it is designed for operation up to 7000 meters underwater and maintains IP68 waterproof sealing under pressure."
-	  },
-	  {
-		"question": "What is the advantage of the right-angle bulkhead design?",
-		"answer": "The right-angle bulkhead allows easier cable routing in constrained underwater spaces, making it ideal for compact ROV and subsea instrument installations."
-	  },
-	  {
-		"question": "Is this connector suitable for high-current underwater power systems?",
-		"answer": "Yes, it supports a rated current of 10A, making it suitable for marine power transmission and underwater robotics."
-	  },
-	  {
-		"question": "What materials are used to ensure corrosion resistance?",
-		"answer": "The connector uses neoprene rubber and marine-grade stainless steel to deliver excellent corrosion resistance in seawater environments."
-	  },
-	  {
-		"question": "How many pins does the MCIL4F connector support?",
-		"answer": "This model features a 4-pin configuration for power or combined signal and power applications."
-	  }
-	]
+    "title": "MCIL16F MCBH16M 16ピン水中コネクタ",
+    "focus": "MCIL16F MCBH16M",
+    "slug": "/mcil16f-mcbh16m-16pin-underwater-connector",
+    "collection": "Micro Underwater Connectors",
+    "description": "MCIL16F MCBH16M 16ピンSubconnスタイル円形水中コネクタセット。海洋電力ケーブル、バルクヘッド取り付け、海底機器向け。IP68等級で、7000mの深さでの動作をサポート。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/mcil16f-mcbh16m-16pin-underwater-connector-1.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/mcil16f-mcbh16m-16pin-underwater-connector-2.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/mcil16f-mcbh16m-16pin-underwater-connector-3.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
+    ],
+    "product_description": [
+      "MCIL16F MCBH16M 16ピン水中コネクタは、海洋電力伝送および水中電気システム向けに特別に設計されたSubconnスタイルのインラインおよびバルクヘッドコネクタセットです。ROV、海底監視デバイス、海洋センサーに最適で、IP68等級で最大7000mの深さで確実に動作します。メスインラインプラグ（MCIL16F）はオスバルクヘッド（MCBH16M）にしっかりと嵌合し、16ピンの構成で接点あたり最大5Aをサポートします。耐腐食性素材と標準の1/2-20UNF取り付けねじを備えたこの堅牢なコネクタは、極端な海洋環境での長期的な性能を保証します。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: MCIL16F MCBH16M",
+      "タイプ: マイクロサークラーSubconnスタイル水中コネクタ",
+      "用途: 海洋電力システム、水中車両、海底バルクヘッドインターフェース、海洋機器",
+      "定格電流: ピンあたり5A",
+      "ピンの数: 16P",
+      "接点素材: 銅合金（金メッキ）",
+      "ハウジング素材: ネオプレンゴム（インライン）、ステンレス鋼（バルクヘッド）",
+      "性別: メス（MCIL16F）、オス（MCBH16M）",
+      "IP等級: IP68",
+      "耐水深: 最大7000m",
+      "耐電圧: 800V AC",
+      "抵抗: 200MΩ–199.9Ω",
+      "取り付けねじ: 1/2-20UNF",
+      "動作温度: -50℃ ～ 100℃",
+      "挿抜回数: 500回以上",
+      "原産地: 中国、山東省",
+      "認証: TUV、CE、CCC"
+    ],
+    "faq": [
+      {
+        "question": "MCIL16F MCBH16Mコネクタは何に使用されますか？",
+        "answer": "この16ピンコネクタは、ROVや海洋計測機器を含む海洋および海底の電力伝送用途向けに設計されています。"
+      },
+      {
+        "question": "長期的な水中展開に適していますか？",
+        "answer": "はい、耐腐食性素材で作られており、IP68等級で最大7000mの深さで信頼性の高い動作が可能です。"
+      },
+      {
+        "question": "このコネクタは何サイクル耐えられますか？",
+        "answer": "防水性と電気的完全性を維持しながら、500回以上の嵌合サイクルがテストされています。"
+      },
+      {
+        "question": "このコネクタはどのような取り付けねじを使用しますか？",
+        "answer": "コネクタは、バルクヘッド用途での堅牢な取り付けのために標準の1/2-20UNF取り付けねじを使用します。"
+      },
+      {
+        "question": "この製品には認証が付属していますか？",
+        "answer": "はい、海洋および安全基準への準拠を保証するTUV、CE、CCC認証を取得しています。"
+      }
+    ]
   },
   {
-	"title": "MCIL4M MCBH4F 4Pin Underwater Connector",
-	"focus": "MCIL4M",
-	"slug": "/mcil4m-4pin-underwater-connector",
-	"collection": "Micro Underwater Connectors",
-	"description": "MCIL4M 4-pin underwater Subconn-style electrical connector set (with MCBH4F), IP68 rated for ROVs and subsea power systems, supports 7000m depth, pluggable with threaded coupling.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/mcil4m-4pin-underwater-connector-2.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/mcil4m-4pin-underwater-connector-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/mcil4m-4pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
-	],
-	"product_description": [
-	  "The MCIL4M 4Pin Underwater Connector (paired with MCBH4F) is a rugged and waterproof electric plug connector system built for underwater power applications in ROVs and deep-sea operations. With IP68 waterproof protection and support for depths up to 7000 meters, it features a black neoprene rubber external body and a corrosion-resistant design. The 7/16-20UNF threaded coupling ensures a secure and watertight connection, making it ideal for extreme submersible environments. The connector operates between -50℃ to 100℃ and supports a pluggable, male-to-female interface perfect for quick connections in field-use marine systems."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: MCIL4M",
-	  "Type: Circular Underwater BNC Connector",
-	  "Application: ROVs, underwater robotics, subsea power systems",
-	  "Pin Count: 4 pins",
-	  "Rated Current: 10A",
-	  "Contact Material: Copper alloy (gold plated)",
-	  "Housing Material: Neoprene + stainless steel",
-	  "Color: Black",
-	  "IP Rating: IP68",
-	  "Water Depth Capability: up to 7000 meters",
-	  "Mounting Thread: 7/16-20UNF",
-	  "Rubber Diameter: 15.75mm",
-	  "Temperature Range: -50℃ ~ 100℃",
-	  "Gender: Male and Female",
-	  "MOQ: 1 set",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC"
-	],
-	"faq": [
-	  {
-		"question": "Is the MCIL4M connector suitable for deep-sea ROV projects?",
-		"answer": "Yes, the MCIL4M is designed for subsea environments with waterproof sealing up to 7000 meters underwater, ideal for ROV power applications."
-	  },
-	  {
-		"question": "What type of sealing does the connector feature?",
-		"answer": "It features a 7/16-20UNF threaded coupling system ensuring a vibration-resistant, watertight, and IP68-rated seal perfect for pluggable underwater usage."
-	  },
-	  {
-		"question": "Is this connector compatible with Subconn systems?",
-		"answer": "Yes, this connector is designed in the Subconn style and can be used as a compatible alternative in most underwater electrical systems."
-	  },
-	  {
-		"question": "Can I order only one set of the connector?",
-		"answer": "Yes, the minimum order quantity is just 1 set, making it ideal for prototype builds and low-volume project requirements."
-	  },
-	  {
-		"question": "What certifications come with this product?",
-		"answer": "This connector is certified with TUV, CE, and CCC, meeting international safety and performance standards for underwater electrical connectors."
-	  }
-	]
+    "title": "MCIL16M MCBH16F 16ピン水中コネクタ",
+    "focus": "MCIL16M MCBH16F",
+    "slug": "/mcil16m-mcbh16f-16pin-underwater-connector",
+    "collection": "Micro Underwater Connectors",
+    "description": "MCIL16M MCBH16F Subconnスタイル16ピンIP68防水コネクタセット。海洋制御ケーブルおよびROV電力配線向け。7000mの深さでの水中バルクヘッド取り付けに最適。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/mcil16m-mcbh16f-16pin-underwater-connector-1.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/mcil16m-mcbh16f-16pin-underwater-connector-2.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/mcil16m-mcbh16f-16pin-underwater-connector-3.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
+    ],
+    "product_description": [
+      "MCIL16M MCBH16F 16ピン水中コネクタセットは、ROV、水中車両、制御システムなどの海洋環境での電力および信号用途向けに設計されています。オスインラインコネクタ（MCIL16M）とメスバルクヘッドコネクタ（MCBH16F）を備えたSubconnスタイルの構成は、IP68防水保護を提供し、最大7000mの深さで動作します。1/2-20UNFねじ込み取り付けシステムにより、500回以上の挿抜サイクルで確実な嵌合を実現します。16ピン全体で5Aシングルコア電流をサポートするこの円形コネクタは、バルクヘッド取り付け設置での安定した海底性能を保証します。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: MCIL16M MCBH16F",
+      "タイプ: マイクロサークラーSubconnスタイルバルクヘッドコネクタ",
+      "用途: 水中制御システム、海洋電力ケーブル、海底車両、ROV",
+      "定格電流: ピンあたり5A",
+      "ピンの数: 16P",
+      "接点素材: 銅合金（金メッキ）",
+      "ハウジング素材: ネオプレンゴムおよびステンレス鋼",
+      "性別: オス（MCIL16M）、メス（MCBH16F）",
+      "IP等級: IP68",
+      "耐水深: 最大7000m",
+      "耐電圧: 800V AC",
+      "抵抗: 200MΩ–199.9Ω",
+      "形状: 円形",
+      "取り付けねじ: 1/2-20UNF",
+      "温度範囲: -50℃ ～ 100℃",
+      "挿抜回数: 500回以上",
+      "原産地: 中国、山東省",
+      "認証: TUV、CE、CCC"
+    ],
+    "faq": [
+      {
+        "question": "MCIL16M MCBH16Fセットは深海電気設置に適していますか？",
+        "answer": "はい、このコネクタは最大7000mの水中使用向けに設計されており、IP68等級のシーリングで極端な深さでの漏れを防ぎます。"
+      },
+      {
+        "question": "このコネクタはどのような用途に最適ですか？",
+        "answer": "この16ピンコネクタは、海洋制御ケーブル、ROV電力および信号システム、水中車両の配線に最適です。"
+      },
+      {
+        "question": "コネクタはどのように設置されますか？",
+        "answer": "バルクヘッドコネクタ（MCBH16F）は、海底筐体での確実で振動に強い設置のために1/2-20UNFねじ込み設計を使用します。"
+      },
+      {
+        "question": "このコネクタの期待される耐用年数は？",
+        "answer": "500回以上の嵌合サイクルに対応するよう設計されており、海洋環境での長期展開に適しています。"
+      },
+      {
+        "question": "この製品には認証が付属していますか？",
+        "answer": "はい、すべてのコネクタはTUV、CE、CCC認証を取得しており、国際的な海洋および電気安全基準に準拠しています。"
+      }
+    ]
   },
   {
-	"title": "MCIL3F MCBHRA3M 3Pin Underwater Connector",
-	"focus": "MCIL3F MCBHRA3M",
-	"slug": "/mcil3f-mcbhra3m-3pin-underwater-connector",
-	"collection": "Micro Underwater Connectors",
-	"description": "MCIL3F MCBHRA3M 3-pin IP68 right-angle marine Subconn-style underwater connector, designed for ROVs and subsea robots. Rated for 7000m depth with watertight performance.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/mcil3f-3pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/mcil3f-3pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/mcil3f-3pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
-	],
-	"product_description": [
-	  "The MCIL3F MCBHRA3M 3Pin Underwater Connector set is a watertight Subconn-style power solution engineered for harsh subsea environments. Featuring a female inline connector (MCIL3F) paired with a right-angle male bulkhead connector (MCBHRA3M), this assembly is rated IP68 for waterproof performance up to 7000 meters depth. Commonly used in underwater ROVs, marine robots, and oceanographic instrumentation, the connector supports 10A current and withstands voltages up to 800V AC. With its 7/16-20UNF threaded coupling, high insulation resistance (200MΩ–199.9Ω), and corrosion-resistant materials, this connector ensures a reliable seal and stable signal or power transmission in difficult conditions."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: MCIL3F MCBHRA3M",
-	  "Type: Micro Circular Subconn-Style Underwater Connector",
-	  "Application: ROVs, underwater robots, marine electric systems, oceanographic equipment",
-	  "Rated Current: 10A",
-	  "Contact Material: Copper alloy (gold plated)",
-	  "Housing Material: Neoprene rubber (inline) and stainless steel (bulkhead)",
-	  "Gender: Female (MCIL3F) / Male Right Angle (MCBHRA3M)",
-	  "IP Rating: IP68",
-	  "Water Depth Capability: up to 7000 meters",
-	  "Withstand Voltage: 800V AC",
-	  "Resistance: 200MΩ–199.9Ω",
-	  "Shape: Round",
-	  "Installation Thread: 7/16-20UNF",
-	  "Operating Temperature: -50℃ ~ 100℃",
-	  "Insertion/Extraction Cycles: >500 times",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC"
-	],
-	"faq": [
-	  {
-		"question": "What’s included in the MCIL3F MCBHRA3M connector set?",
-		"answer": "The set includes a 3-pin female MCIL3F inline connector and a male right-angle bulkhead MCBHRA3M connector equipped for IP68 waterproof performance."
-	  },
-	  {
-		"question": "Is this connector suitable for deep-sea underwater robotics?",
-		"answer": "Yes, it is built for use in underwater ROVs and marine robots and supports pressures at depths up to 7000 meters."
-	  },
-	  {
-		"question": "Why does the set use a right-angle design?",
-		"answer": "The MCBHRA3M right-angle bulkhead helps with installation in compact enclosures and reduces cable stress in tight subsea equipment layouts."
-	  },
-	  {
-		"question": "Can this connector be used for both power and signal?",
-		"answer": "Yes, this 3-pin connector is suitable for either power or low-frequency signal transmission in underwater environments."
-	  },
-	  {
-		"question": "What certifications are included with this connector set?",
-		"answer": "The MCIL3F MCBHRA3M set is certified with TUV, CE, and CCC, meeting international marine and subsea equipment standards."
-	  }
-	]
+    "title": "4ピン光ファイバー電力水中コネクタ IP68",
+    "focus": "2光4電気コネクタ",
+    "slug": "/4pin-fiber-optic-power-underwater-connector",
+    "collection": "Custom Underwater Connectors",
+    "description": "高性能IP68光ファイバー＋電気4ピン水中コネクタ。深海用途での電力およびデータ伝送向けに設計。SC/FC/LCシングル/マルチモードファイバーシステムと互換性あり。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/4pin-fiber-optic-power-underwater-connector-1.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/4pin-fiber-optic-power-underwater-connector-2.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/4pin-fiber-optic-power-underwater-connector-3.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/4pin-fiber-optic-power-underwater-connector-4.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/4pin-fiber-optic-power-underwater-connector-5.jpg"
+    ],
+    "product_description": [
+      "2光4電気コネクタは、海底機器向けに光ファイバーと電力伝送機能を統合したハイブリッドIP68等級の水中コネクタです。電力とデータ転送を同時に必要とする重要な水中アプリケーション向けに設計されており、SC/FC/LCシングルまたはマルチモードファイバー用の2つの光チャンネルと、電気電流用の4ピンを備えています。ステンレス鋼シェル、M27x2取り付けねじ、ニトリルシーリングを備え、10～70MPaの海洋圧力に耐え、腐食を防ぎます。水中通信システム、ソナーデバイス、プレミアムシーリングと安定した性能を必要とする深海電気/ファイバー統合プロジェクトに最適です。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: 2光4電気コネクタ",
+      "タイプ: ハイブリッド光ファイバーおよび電気ターミナル水中コネクタ",
+      "用途: 海底通信、電力およびデータ伝送、ROV、ソナーシステム",
+      "光インターフェース: SC / FC / LC（シングルモード / マルチモード）",
+      "電気ピン: 4ピン",
+      "シェル素材: ステンレス鋼",
+      "シーリング素材: ニトリルブタジエンゴム / Oリング",
+      "取り付けねじ: M27x2",
+      "接続モード: 嵌合 / ナットロック",
+      "深水圧力: 10–70 MPa",
+      "抵抗: 200MΩ–199.9Ω",
+      "IP等級: IP68",
+      "性別: メス / オス",
+      "温度範囲: -40℃ ～ +70℃",
+      "最小発注数量: 1セット",
+      "原産地: 中国、山東省",
+      "認証: CQC、CE"
+    ],
+    "faq": [
+      {
+        "question": "どのようなファイバーインターフェースがサポートされていますか？",
+        "answer": "このコネクタはSC、FC、LCインターフェースをサポートし、シングルモードおよびマルチモードファイバーと互換性があります。"
+      },
+      {
+        "question": "深海環境に適していますか？",
+        "answer": "はい、IP68防水等級で、10～70MPaの水圧に耐えるよう設計されており、海底操作に適しています。"
+      },
+      {
+        "question": "電気ピンは何本含まれていますか？",
+        "answer": "電力または信号転送に使用できる4つの電気ピンが含まれています。"
+      },
+      {
+        "question": "電力とデータを同時に使用できますか？",
+        "answer": "はい、このハイブリッドコネクタは、光信号と電気信号を1つのユニットで伝送するように特別に設計されています。"
+      },
+      {
+        "question": "カスタム構成やハウジング素材は利用可能ですか？",
+        "answer": "はい、ワイヤー長、ファイバー/コア数、素材はプロジェクトのニーズに基づいて提供可能です。"
+      }
+    ]
   },
   {
-	"title": "MCIL3M MCBH3F 3Pin Underwater Connector",
-	"focus": "MCIL3M MCBH3F",
-	"slug": "/mcil3m-mcbh3f-3pin-underwater-connector",
-	"collection": "Micro Underwater Connectors",
-	"description": "MCIL3M MCBH3F 3-pin Subconn-style stainless steel IP68 connector for UUV, ROV, and subsea power applications. Wet-mate design with neoprene plug body and 10A current rating.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/mcil3m-mcbh3f-3pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/mcil3m-mcbh3f-3pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/mcil3m-mcbh3f-3pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
-	],
-	"product_description": [
-	  "The MCIL3M MCBH3F 3Pin Underwater Connector is a robust Subconn-style solution designed for UUV, ROV, and other subsea power applications. Engineered with a durable neoprene plug body and 316L stainless steel positioning pins, this glue-type wet-mate connector provides IP68-rated sealing for secure operation in marine environments. The 3-pin configuration supports 10A per pin, while the UNS-C36000 brass contacts offer excellent conductivity and corrosion resistance. Ideal for custom drone and unmanned marine systems, the connector is supplied with a standard 1-meter lead length or can be customized per project requirements."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: MCIL3M MCBH3F",
-	  "Type: Micro Circular Subconn-Style Underwater Connector",
-	  "Application: UUV, ROV, marine drones, subsea power systems",
-	  "Rated Current: 10A per pin",
-	  "Pins: 3P",
-	  "Contact Material: UNS-C36000 brass (gold plated)",
-	  "Plug Body: Neoprene rubber",
-	  "The Positioning Pin: Stainless Steel 316L",
-	  "Gender: Male (MCIL3M), Female (MCBH3F)",
-	  "IP Rating: IP68",
-	  "Wire Length: 1 meter (customizable)",
-	  "Resistance: 200MΩ–199.9Ω",
-	  "Temperature Range: -4℃ ~ +60℃",
-	  "Color: Black, Red",
-	  "MOQ: 2 sets",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC"
-	],
-	"faq": [
-	  {
-		"question": "What applications is the MCIL3M MCBH3F connector suitable for?",
-		"answer": "This connector is designed for underwater robotic platforms like UUVs and ROVs, supporting power transmission in extreme subsea environments."
-	  },
-	  {
-		"question": "What materials are used in this connector system?",
-		"answer": "The connector includes a neoprene rubber plug body, UNS-C36000 brass pins, and stainless steel 316L positioning pins for durability and corrosion resistance."
-	  },
-	  {
-		"question": "Is the connector suitable for wet-mate environments?",
-		"answer": "Yes, it features a glue-type wet pluggable design, supporting safe connections in submerged or wet conditions."
-	  },
-	  {
-		"question": "Can the wire length be customized?",
-		"answer": "Yes, the default wire length is 1 meter, but custom lengths are available based on project specifications."
-	  },
-	  {
-		"question": "Does the product come with certifications?",
-		"answer": "Yes, it is certified with TUV, CE, and CCC, ensuring compliance with international safety and marine standards."
-	  }
-	]
+    "title": "IL3F BH3M 3ピン水中コネクタ",
+    "focus": "IL3F BH3M",
+    "slug": "/il3f-bh3m-3pin-underwater-connector",
+    "collection": "Bulkhead Underwater Connectors",
+    "description": "IL3F BH3M 3ピンSubconnスタイルIP68防水水中コネクタ。ROVおよび海底機器向け。ステンレス鋼製で10A電流をサポートし、海洋用途向けに調整可能なワイヤー長。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/il3f-bh3m-3pin-underwater-connector-1.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/il3f-bh3m-3pin-underwater-connector-2.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/il3f-bh3m-3pin-underwater-connector-3.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/il3f-bh3m-3pin-underwater-connector-4.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/il3f-bh3m-3pin-underwater-connector-5.jpg"
+    ],
+    "product_description": [
+      "IL3F BH3M 3ピン水中コネクタは、ROV、UUV、その他の水中システムでの信頼性の高い電力伝送向けに設計されたSubconnスタイルのウェットメイトソリューションです。メスインラインプラグ（IL3F）とオスバルクヘッドコネクタ（BH3M）を備え、IP68等級で深さでの確実な防水性能を提供します。316Lステンレス鋼のハウジングと位置決めピン、金メッキUNS-C36000真鍮接点、ネオプレンプラグボディを採用し、シングルコア10A電流をサポートします。円形形状とカスタムワイヤー長構成により、要求の厳しい海底環境への統合に最適です。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: IL3F BH3M",
+      "タイプ: マイクロサークラーSubconnスタイル水中コネクタ",
+      "用途: ROV/UUV/海底機器の電力システム",
+      "定格電流: ピンあたり10A",
+      "ピンの数: 3P",
+      "接点素材: UNS-C36000（金メッキ真鍮）",
+      "プラグボディ: ネオプレンゴム",
+      "位置決めピン: 316Lステンレス鋼",
+      "ハウジング素材: ステンレス鋼",
+      "性別: メス（IL3F）、オス（BH3M）",
+      "IP等級: IP68",
+      "形状: 円形",
+      "ワイヤー長: 1m（カスタマイズ可能）",
+      "温度範囲: -4℃ ～ +60℃",
+      "抵抗: 200MΩ – 199.9Ω",
+      "挿抜回数: 500回以上",
+      "原産地: 中国、山東省",
+      "認証: TUV、CE、CCC",
+      "最小発注数量: 2セット"
+    ],
+    "faq": [
+      {
+        "question": "IL3F BH3Mコネクタはウェットプラグ可能で水中操作に適していますか？",
+        "answer": "はい、ウェットメイトアプリケーション向けに設計されており、IP68等級の水中条件下で信頼性の高い性能をサポートします。"
+      },
+      {
+        "question": "ワイヤー構成はどのようなもので、カスタム長を入手できますか？",
+        "answer": "デフォルトのワイヤー長は1mで、用途のニーズに応じてカスタマイズ可能です。"
+      },
+      {
+        "question": "このSubconnコネクタにはどのような素材が使用されていますか？",
+        "answer": "高耐腐食性の316Lステンレス鋼、防水シーリング用のネオプレンゴム、最適な導電性のために金メッキされた真鍮接点を使用しています。"
+      },
+      {
+        "question": "このコネクタが耐えられる最大深さまたは圧力は？",
+        "answer": "特定の深さ評価は記載されていませんが、IP68等級と素材設計により、1000mを超える深さを含む過酷な海洋および海底環境での使用をサポートします。"
+      },
+      {
+        "question": "複数の接続サイクルで再利用可能ですか？",
+        "answer": "はい、IL3F BH3Mコネクタは500回以上の挿抜サイクルがテストされており、長期的な展開が可能です。"
+      }
+    ]
   },
   {
-	"title": "MCIL5F MCBH5M 5Pin Underwater Connector",
-	"focus": "MCIL5F MCBH5M",
-	"slug": "/mcil5f-mcbh5m-5pin-underwater-connector",
-	"collection": "Micro Underwater Connectors",
-	"description": "MCIL5F MCBH5M stainless steel 5-pin Subconn-style IP68 underwater connector for submersible robots and UUV/HOV/ROV power applications. Wet pluggable, rated for 7000m depth operations.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/mcil5f-mcbh5m-5pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/mcil5f-mcbh5m-5pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/mcil5f-mcbh5m-5pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
-	],
-	"product_description": [
-	  "The MCIL5F MCBH5M 5Pin Underwater Connector is a wet-pluggable Subconn-style assembly engineered for submersible robots and unmanned underwater vehicles such as ROVs, HOVs, and UUVs. Constructed with marine-grade 316L stainless steel, this robust connector set is rated IP68 and functions reliably at depths up to 7000 meters. Each pin supports a single core current of 5A, and the connector features a standard 7/16-20UNF mounting thread for secure installation. Ideal for power delivery in harsh subsea environments, the connector includes customizable wire length options and over 500 mating cycles for extended underwater deployment."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: MCIL5F MCBH5M",
-	  "Type: Micro Circular Subconn-Style Underwater Connector",
-	  "Application: Power systems in ROV/HOV/UUV, submersible robots, marine instruments",
-	  "Rated Current: 5A per pin",
-	  "Pins: 5P",
-	  "Contact Material: Copper alloy (gold plated)",
-	  "Housing Material: Stainless steel 316L",
-	  "Gender: Female (MCIL5F), Male (MCBH5M)",
-	  "IP Rating: IP68",
-	  "Water Depth Capability: up to 7000 meters",
-	  "Withstand Voltage: 800V AC",
-	  "Resistance: 200MΩ–199.9Ω",
-	  "Wire Length: 1 meter (customizable)",
-	  "Mounting Thread: 7/16-20UNF",
-	  "Color: Black, Red",
-	  "Temperature Range: -50℃ ~ 100℃",
-	  "Insertion/Extraction Cycles: >500 times",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC",
-	  "MOQ: 2 sets"
-	],
-	"faq": [
-	  {
-		"question": "Is the MCIL5F MCBH5M connector suitable for underwater robotics?",
-		"answer": "Yes, this connector is specifically designed for use in submersible robots, ROVs, UUVs, and HOVs operating in deep-sea environments."
-	  },
-	  {
-		"question": "What materials are used in this connector?",
-		"answer": "The housing is constructed from corrosion-resistant 316L stainless steel with gold-plated copper alloy contacts for reliable subsea performance."
-	  },
-	  {
-		"question": "How customizable is the cable length?",
-		"answer": "The standard wire length is 1 meter, but it can be custom-manufactured to match your project’s specific requirements."
-	  },
-	  {
-		"question": "What is the waterproof rating of the MCIL5F MCBH5M?",
-		"answer": "The connector is rated IP68 and is engineered for operation at depths of up to 7000 meters with full watertight performance."
-	  },
-	  {
-		"question": "Is the connector reusable for multiple deployments?",
-		"answer": "Yes, it supports over 500 insertion and extraction cycles, making it ideal for long-term field use."
-	  }
-	]
+    "title": "高電流2ピン4ピン水中コネクタ",
+    "focus": "高電流-A",
+    "slug": "/high-current-2pin-4pin-underwater-connector",
+    "collection": "High-Current Underwater Connectors",
+    "description": "高電流2ピン/4ピンSubconn水中コネクタ。316Lステンレス鋼とゴム成形ネオプレン製。ウェットプラグ可能で25A/30A定格電流、7000mの深海電力用途に最適。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/high-current-2pin-4pin-underwater-connector-1.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/high-current-2pin-4pin-underwater-connector-2.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/high-current-2pin-4pin-underwater-connector-3.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/high-current-2pin-4pin-underwater-connector-4.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/high-current-2pin-4pin-underwater-connector-5.jpg"
+    ],
+    "product_description": [
+      "高電流-A水中コネクタは、深海での高アンペア用途向けに設計されており、2ピンまたは4ピンのレイアウトで25Aおよび30A定格構成をサポートします。316Lステンレス鋼とクロロプレンゴムで構成され、海洋電力システム、海底車両、洋上設置での使用をサポートします。ウェットプラグ可能なSubconnスタイルインターフェースとIP68基準までの防水シーリングを備え、7000mの深さ能力を有します。耐久性のあるネオプレン成形と確実なねじ込み（1/2-20UNFまたは5/8-18UNF）を備え、500回以上の嵌合サイクルで長期的な海底接続に最適です。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: 高電流-A",
+      "タイプ: Subconnスタイル高電流円形水中コネクタ",
+      "用途: 高出力水中機器、ROV、洋上プラットフォーム、重負荷海洋電力線",
+      "ピンの数: 2Pまたは4P（構成可能）",
+      "定格電流: ピンあたり25A / 30A",
+      "接点素材: 銅合金（金メッキ）",
+      "ハウジング素材: 316Lステンレス鋼",
+      "シーリング素材: クロロプレンゴム（ネオプレン）",
+      "IP等級: IP68",
+      "耐水深: 最大7000m",
+      "取り付けねじ: 1/2-20UNF、5/8-18UNF",
+      "抵抗: 200MΩ–199.9Ω",
+      "耐電圧: 800V AC",
+      "温度範囲: -50℃ ～ 100℃",
+      "挿抜回数: 500回以上",
+      "性別: メス / オス",
+      "原産地: 中国、山東省",
+      "認証: TUV、CE、CCC"
+    ],
+    "faq": [
+      {
+        "question": "このコネクタが高電流水中用途に適している理由は何ですか？",
+        "answer": "ピンあたり25-30A電流をサポートし、高導電性接点と316Lステンレス鋼ハウジングを使用し、海底電力回路に適しています。"
+      },
+      {
+        "question": "深さで使用可能ですか？",
+        "answer": "はい、完全なIP68シーリングで、最大7000mの水中環境での使用がテストおよび評価されています。"
+      },
+      {
+        "question": "コネクタは水中での接続と切断ができますか？",
+        "answer": "はい、ウェットプラグ設計により、浸水条件下でも性能を損なうことなく確実な嵌合が可能です。"
+      },
+      {
+        "question": "取り付け用のねじサイズは何ですか？",
+        "answer": "コネクタは、さまざまな機器ポートとの互換性を確保するために、1/2-20UNFおよび5/8-18UNFのデュアル取り付けねじオプションを備えています。"
+      },
+      {
+        "question": "複数のピン構成は利用可能ですか？",
+        "answer": "はい、この高電流コネクタは、用途の電力需要に応じて2ピンまたは4ピンで構成可能です。"
+      }
+    ]
   },
   {
-	"title": "MCIL6F MCBH6M 6Pin Underwater Connector",
-	"focus": "MCIL6F MCBH6M",
-	"slug": "/mcil6f-mcbh6m-6pin-underwater-connector",
-	"collection": "Micro Underwater Connectors",
-	"description": "MCIL6F MCBH6M 6-pin Subconn-style IP68 underwater connector set, built for marine applications, ROVs, and subsea power. Supports 7000m depth and harsh underwater environments.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/mcil6f-6pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/mcil6f-6pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/mcil6f-6pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
-	],
-	"product_description": [
-	  "The MCIL6F MCBH6M 6Pin Underwater Connector set is a rugged Subconn-style cable connector system designed for ROVs, marine robots, and subsea instrumentation. Rated IP68 for watertight performance up to depths of 7000 meters, the connector supports DC or power signals with a secure male-to-female connection. With its threaded 7/16-20UNF mounting interface and neoprene-rubber-encased construction, the set withstands high pressure and extreme temperatures ranging from -50°C to 100°C. This 6-pin solution ensures stable underwater operation, with over 500 mating cycles and internationally recognized certifications including TUV, CE, and CCC."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: MCIL6F MCBH6M",
-	  "Type: Micro Circular Underwater Connector",
-	  "Application: ROVs, underwater cameras, power and signal transmission, marine robotics",
-	  "Rated Current: 10A",
-	  "Contact Material: Copper alloy (gold plated)",
-	  "Housing Material: Neoprene (inline), stainless steel (bulkhead)",
-	  "Gender: Male/Female",
-	  "IP Rating: IP68",
-	  "Water Depth Capability: up to 7000 meters",
-	  "Withstand Voltage: 800V AC",
-	  "Resistance: 200MΩ–199.9Ω",
-	  "Shape: Round",
-	  "Rubber Diameter: 15.75mm",
-	  "Installation Thread: 7/16-20UNF",
-	  "Temperature Range: -50℃ ~ 100℃",
-	  "Insertion/Extraction Cycles: >500 times",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC",
-	  "MOQ: 1 set for sale"
-	],
-	"faq": [
-	  {
-		"question": "Is the MCIL6F MCBH6M connector set designed for deep-sea marine equipment?",
-		"answer": "Yes, this set supports underwater operations up to 7000 meters and is ideal for ROVs, marine robotics, and subsea applications."
-	  },
-	  {
-		"question": "How many pins does this connector support?",
-		"answer": "This configuration supports 6 pins, suitable for multiple power or signal channels in marine environments."
-	  },
-	  {
-		"question": "Is this connector reusable over multiple deployments?",
-		"answer": "Yes, it is rated for over 500 connection cycles while maintaining full watertight performance and electrical integrity."
-	  },
-	  {
-		"question": "Can this connector be customized or ordered in small quantities?",
-		"answer": "Absolutely. Custom options are available, and the minimum order quantity is only one set, making it ideal for projects or prototyping."
-	  },
-	  {
-		"question": "What certifications are available with this product?",
-		"answer": "This underwater connector set is certified with TUV, CE, and CCC standards for safety and performance in marine environments."
-	  }
-	]
+    "title": "IL4F BH4M 4ピン水中コネクタ",
+    "focus": "IL4F BH4M",
+    "slug": "/il4f-bh4m-4pin-underwater-connector",
+    "collection": "Bulkhead Underwater Connectors",
+    "description": "IL4F BH4M 4ピンSubconnスタイル円形IP68コネクタ。ROV電力および信号システム向け。防水バルクヘッドおよびインラインソケットプラグで、7000mの深さと10Aシングルコア伝送に対応。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/il4f-bh4m-4pin-underwater-connector-1.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/il4f-bh4m-4pin-underwater-connector-2.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/il4f-bh4m-4pin-underwater-connector-3.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/il4f-bh4m-4pin-underwater-connector-4.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/il4f-bh4m-4pin-underwater-connector-5.jpg"
+    ],
+    "product_description": [
+      "IL4F BH4M 4ピン水中コネクタは、ROVシステムや海洋電力伝送などの海底用途向けに設計されたSubconnスタイルの標準円形コネクタです。このコネクタセットには、メスインラインプラグ（IL4F）とオスバルクヘッドソケット（BH4M）が含まれており、ネオプレンやステンレス鋼などの耐久性のある素材で作られています。IP68等級で最大7000mまでの完全な防水性を備え、金メッキ銅合金接点でシングルコア10A電流をサポートします。7/16-20UNF取り付けねじにより安定した取り付けが確保され、500回以上の嵌合サイクルで水中機器に優れた接続性を提供します。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: IL4F BH4M",
+      "タイプ: 円形Subconnスタイル水中コネクタ",
+      "用途: 海底電力および信号、ROV、水中計測機器",
+      "ピンの数: 4P",
+      "定格電流: ピンあたり10A",
+      "耐電圧: 800V AC",
+      "抵抗: 200MΩ–199.9Ω",
+      "接点素材: 銅合金（金メッキ）",
+      "プラグボディ: ネオプレンゴム",
+      "位置決めピン: 316Lステンレス鋼",
+      "IP等級: IP68",
+      "耐水深: 最大7000m",
+      "取り付けねじ: 7/16-20UNF",
+      "温度範囲: -50℃ ～ 100℃",
+      "挿抜回数: 500回以上",
+      "性別: メス（IL4F）、オス（BH4M）",
+      "原産地: 中国、山東省",
+      "認証: TUV、CE、CCC"
+    ],
+    "faq": [
+      {
+        "question": "IL4F BH4Mコネクタはどのような用途に適していますか？",
+        "answer": "このコネクタは、深海環境での水中ROVシステム、電力供給、信号伝送に最適です。"
+      },
+      {
+        "question": "防水等級と深さ能力は？",
+        "answer": "コネクタはIP68等級で、最大7000mの深さで確実に動作するよう設計されています。"
+      },
+      {
+        "question": "このコネクタは再利用可能ですか？",
+        "answer": "はい、防水性を維持しながら500回以上の挿抜サイクルに対応するよう設計されています。"
+      },
+      {
+        "question": "構造にはどのような素材が使用されていますか？",
+        "answer": "コネクタは、ネオプレンゴムボディ部品、ステンレス鋼の位置決めピン、金メッキ銅合金接点を備えています。"
+      },
+      {
+        "question": "コネクタはどのように設置されますか？",
+        "answer": "海底筐体やデバイスでのバルクヘッド取り付けに適した、7/16-20UNFねじ込みインターフェースを使用します。"
+      }
+    ]
   },
   {
-	"title": "MCIL6M MCBH6F 6Pin Underwater Connector",
-	"focus": "MCIL6M MCBH6F",
-	"slug": "/mcil6m-mcbh6f-6pin-underwater-connector",
-	"collection": "Micro Underwater Connectors",
-	"description": "MCIL6M MCBH6F Subconn-style 6-pin IP68 underwater power connector set, ideal for ROVs and subsea systems. Waterproof to 7000m depth with threaded coupling and rugged design.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/mcil6m-6pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/mcil6m-6pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/mcil6m-6pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
-	],
-	"product_description": [
-	  "The MCIL6M MCBH6F 6Pin Underwater Connector set provides a high-performance solution for subsea power connections in ROVs and marine environments. Engineered in a Subconn-style configuration, this pluggable male (MCIL6M) and female (MCBH6F) connector pair is IP68 rated and supports reliable performance at depths up to 7000 meters. Designed to handle harsh underwater operations, it features a 7/16-20UNF threaded coupling, withstands temperatures between -50℃ and 100℃, and is ideal for wet-mate applications. With a 15.75mm rubber diameter and robust sealing, it ensures safe power transmission under extreme marine conditions."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: MCIL6M MCBH6F",
-	  "Type: Micro Circular BNC Connector",
-	  "Application: Underwater power systems, ROVs, subsea equipment",
-	  "Rated Current: 10A",
-	  "Contact Material: Copper alloy (gold plated)",
-	  "Housing Material: Neoprene rubber and stainless steel",
-	  "Gender: Male (MCIL6M), Female (MCBH6F)",
-	  "Color: Black",
-	  "IP Rating: IP68",
-	  "Water Depth Capability: up to 7000 meters",
-	  "Withstand Voltage: 800V AC",
-	  "Resistance: 200MΩ–199.9Ω",
-	  "Rubber Diameter: 15.75mm",
-	  "Installation Thread: 7/16-20UNF",
-	  "Temperature Range: -50℃ ~ 100℃",
-	  "Insertion/Extraction Cycles: >500 times",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC",
-	  "MOQ: 1 set for sale"
-	],
-	"faq": [
-	  {
-		"question": "Is the MCIL6M MCBH6F connector suitable for high-pressure underwater applications?",
-		"answer": "Yes, it is designed for deep-sea use up to 7000 meters and offers IP68 sealing to ensure high-pressure resistance."
-	  },
-	  {
-		"question": "How many pins does this connector support?",
-		"answer": "This connector set includes a 6-pin configuration for multiple power or signal connections in subsea systems."
-	  },
-	  {
-		"question": "Can this connector set be used in wet-mate underwater situations?",
-		"answer": "Yes, the threaded coupling and sealing structures are designed for wet pluggable environments without compromising performance."
-	  },
-	  {
-		"question": "Does it support repeated mating cycles?",
-		"answer": "Absolutely. The connector is tested for more than 500 insertion and extraction cycles while maintaining waterproof performance."
-	  },
-	  {
-		"question": "Are certifications provided for marine standard compliance?",
-		"answer": "Yes, this product is certified with TUV, CE, and CCC to comply with global electrical and marine-grade standards."
-	  }
-	]
+    "title": "IL4M BH4F 4ピン水中コネクタ",
+    "focus": "IL4M BH4F",
+    "slug": "/il4m-bh4f-4pin-underwater-connector",
+    "collection": "Bulkhead Underwater Connectors",
+    "description": "IL4M BH4F 4ピンSubconnスタイルIP68防水水中コネクタ。ROVおよび電力用途向け。ウェットプラグ可能な円形BNCタイプで、10A電流容量を備え、7000mの深さでの動作をサポート。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/il4m-bh4f-4pin-underwater-connector-1.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/il4m-bh4f-4pin-underwater-connector-2.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/il4m-bh4f-4pin-underwater-connector-3.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/il4m-bh4f-4pin-underwater-connector-4.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/il4m-bh4f-4pin-underwater-connector-5.jpg"
+    ],
+    "product_description": [
+      "IL4M BH4F 4ピン水中コネクタは、ROV、海洋電力システム、海底機器向けに設計されたSubconn互換の防水ソリューションです。この円形BNCタイプのコネクタは、オスプラグ（IL4M）とメスバルクヘッドソケット（BH4F）を組み合わせ、シングルコア10A電気電流をサポートします。IP68基準で設計され、最大7000mの深さで動作可能で、7/16-20UNFねじ込み取り付けと耐久性のある構造でウェットメイト用途に対応します。コンパクトな形状とゴムシールボディにより、過酷な海底環境での安全で信頼性の高い性能を保証します。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: IL4M BH4F",
+      "タイプ: Subconnスタイル円形バルクヘッド水中コネクタ",
+      "用途: ROV、潜水艦ケーブル、海洋照明、海底電力システム",
+      "定格電流: ピンあたり10A（シングルコア）",
+      "ピンの数: 4P",
+      "接点素材: 銅合金（金メッキ）",
+      "形状: 円形",
+      "性別: オス（IL4M）、メス（BH4F）",
+      "IP等級: IP68",
+      "動作深さ: 最大7000m",
+      "取り付けねじ: 7/16-20UNF",
+      "温度範囲: -50℃ ～ 100℃",
+      "ゴム直径: 24.8mm",
+      "カラー: ブラック",
+      "抵抗: 200MΩ–199.9Ω",
+      "挿抜回数: 500回以上",
+      "原産地: 中国、山東省",
+      "認証: TUV、CE、CCC",
+      "最小発注数量: 2セット"
+    ],
+    "faq": [
+      {
+        "question": "IL4M BH4Fコネクタは深水操作に適していますか？",
+        "answer": "はい、IP68等級で、最大7000mの深さで効果的に動作するよう設計されており、ROVや海底電力機器に最適です。"
+      },
+      {
+        "question": "各ピンの電流容量は？",
+        "answer": "各ピンはシングルコア10A電流に対応し、海洋環境での信頼性の高い電力伝送を提供します。"
+      },
+      {
+        "question": "取り付けにはどのねじが使用されますか？",
+        "answer": "コネクタは、確実なバルクヘッド取り付けのために7/16-20UNF取り付けねじを使用します。"
+      },
+      {
+        "question": "このコネクタはウェットメイト環境で使用できますか？",
+        "answer": "はい、IL4M BH4Fコネクタはウェットプラグ可能で、シーリングを損なうことなく水中環境での繰り返し接続向けに設計されています。"
+      },
+      {
+        "question": "ケーブル長はカスタマイズ可能ですか？",
+        "answer": "はい、ケーブル長とコネクタ端の構成はプロジェクト要件に基づいてカスタマイズ可能です。"
+      }
+    ]
   },
   {
-	"title": "MCIL6M MCBHRA6F 6Pin Underwater Connector",
-	"focus": "MCIL6M MCBHRA6F",
-	"slug": "/mcil6m-mcbhra6f-6pin-underwater-connector",
-	"collection": "Micro Underwater Connectors",
-	"description": "MCIL6M MCBHRA6F 6-pin Subconn-style IP68 underwater connector set with right-angle bulkhead, designed for submarine, ROV, and marine power applications up to 7000m depth.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/mcil6m-mcbhra6f-6pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/mcil6m-mcbhra6f-6pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/mcil6m-mcbhra6f-6pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
-	],
-	"product_description": [
-	  "The MCIL6M MCBHRA6F 6Pin Underwater Connector combines a robust Subconn-style male inline plug with a right-angle female bulkhead, offering secure and watertight performance for ROVs, submarines, and underwater power systems. With an IP68 rating, this connector set is engineered for 7000m depth installations, suitable for harsh marine conditions. Featuring a 7/16-20UNF threaded mounting system, it supports stable electrical performance up to 5A per pin and withstands temperatures from -50℃ to 100℃. The pair is specifically designed for right-angle layouts and tight-space underwater applications."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: MCIL6M MCBHRA6F",
-	  "Type: Micro Circular Subconn-Style Right-Angle Connector",
-	  "Application: Submarine cables, ROVs, marine power equipment, underwater vehicles",
-	  "Rated Current: 5A per pin",
-	  "Contact Material: Copper alloy (gold plated)",
-	  "Housing Material: Neoprene rubber (MCIL6M), stainless steel (MCBHRA6F)",
-	  "Gender: Male (MCIL6M), Female Right Angle (MCBHRA6F)",
-	  "IP Rating: IP68",
-	  "Water Depth Capability: up to 7000 meters",
-	  "Withstand Voltage: 800V AC",
-	  "Resistance: 200MΩ–199.9Ω",
-	  "Shape: Round",
-	  "Installation Thread: 7/16-20UNF",
-	  "Operating Temperature: -50℃ ~ 100℃",
-	  "Insertion/Extraction Cycles: >500 times",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC"
-	],
-	"faq": [
-	  {
-		"question": "Is the MCIL6M MCBHRA6F connector set suitable for submarine and deep-sea applications?",
-		"answer": "Yes, it's IP68 rated for up to 7000 meters of underwater depth, making it ideal for subsea environments such as submarines and ROVs."
-	  },
-	  {
-		"question": "What is the benefit of the right-angle bulkhead (MCBHRA6F)?",
-		"answer": "The right-angle design allows for more efficient cable management in confined underwater spaces or equipment housings."
-	  },
-	  {
-		"question": "What current does the connector support?",
-		"answer": "The MCIL6M MCBHRA6F supports up to 5A per pin, ideal for powering underwater devices or transferring low-voltage signals."
-	  },
-	  {
-		"question": "Can this connector set withstand harsh marine conditions?",
-		"answer": "Yes, it's made from corrosion-resistant materials and rated for extreme temperatures from -50℃ to 100℃."
-	  },
-	  {
-		"question": "Is this connector reusable and long-lasting?",
-		"answer": "Absolutely. It is engineered for over 500 insertion and extraction cycles while maintaining its waterproof integrity."
-	  }
-	]
+    "title": "IL10F BH10M 10ピン水中コネクタ",
+    "focus": "IL10F BH10M",
+    "slug": "/il10f-bh10m-10pin-underwater-connector",
+    "collection": "Bulkhead Underwater Connectors",
+    "description": "IL10F BH10M 10ピンIP68 Subconnスタイル円形水中コネクタ。ROV、AUV、海底電力用途向け。ウェットプラグ可能で、5A定格銅ピンを備え、7000mの深さ耐性。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/il10f-bh10m-10pin-underwater-connector-1.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/il10f-bh10m-10pin-underwater-connector-2.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/il10f-bh10m-10pin-underwater-connector-3.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/il10f-bh10m-10pin-underwater-connector-4.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/il10f-bh10m-10pin-underwater-connector-5.jpg"
+    ],
+    "product_description": [
+      "IL10F BH10M 10ピン水中コネクタは、ROV、AUV、海洋電力システムなどの海底用途向けに設計されたSubconnスタイルの円形コネクタです。メスインラインプラグ（IL10F）とオスバルクヘッドコネクタ（BH10M）を備え、IP68等級で最大7000mの深さで優れた防水シーリングを保証します。コンパクトな水中レイアウトに最適な円形構成で、各ピンは5Aシングルコア電流をサポートします。500回以上の挿抜サイクルと信頼性の高い銅合金接点、確実な1/2-20UNFねじを備えたこのプラグ可能なウェットメイトコネクタは、長期的な海洋操作で信頼性の高い性能を提供します。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: IL10F BH10M",
+      "タイプ: Subconnスタイル円形バルクヘッド水中コネクタ",
+      "用途: ROV、AUV、水中電力システム、海洋機器",
+      "ピンの数: 10P",
+      "定格電流: ピンあたり5A（シングルコア）",
+      "接点素材: 銅合金（金メッキ）",
+      "形状: 円形",
+      "性別: メス（IL10F）、オス（BH10M）",
+      "IP等級: IP68",
+      "耐水深: 最大7000m",
+      "取り付けねじ: 1/2-20UNF",
+      "耐電圧: 800V AC",
+      "抵抗: 200MΩ–199.9Ω",
+      "温度範囲: -50℃ ～ 100℃",
+      "挿抜回数: 500回以上",
+      "原産地: 中国、山東省",
+      "認証: TUV、CE、CCC"
+    ],
+    "faq": [
+      {
+        "question": "IL10F BH10MコネクタはROVやAUVなどの深海車両に適していますか？",
+        "answer": "はい、7000mの深さ評価で海底用途向けに特別に設計されており、ROV、AUV、その他の水中システムに最適です。"
+      },
+      {
+        "question": "ピンごとの電流容量は？",
+        "answer": "10ピンの各ピンは5Aシングルコア電流をサポートし、中程度の電力分配に適しています。"
+      },
+      {
+        "question": "このコネクタは複数の展開で再利用可能ですか？",
+        "answer": "はい、防水性能を損なうことなく500回以上の挿抜サイクルに対応しています。"
+      },
+      {
+        "question": "どのようなシーリングと保護を提供しますか？",
+        "answer": "IP68等級で、高圧下でも浸水操作中に完全な防水性を保証します。"
+      },
+      {
+        "question": "取り付け用のねじタイプは？",
+        "answer": "IL10F BH10Mは、多くの水中バルクヘッドコネクタで標準の1/2-20UNF取り付けねじを使用します。"
+      }
+    ]
   },
   {
-	"title": "MCIL8F MCBH8M 8Pin Underwater Connector",
-	"focus": "MCIL8F MCBH8M",
-	"slug": "/mcil8f-mcbh8m-8pin-underwater-connector",
-	"collection": "Micro Underwater Connectors",
-	"description": "MCIL8F MCBH8M 8-pin Subconn-style IP68 underwater connector set, designed for ROVs, underwater cameras, and subsea robots. Reliable up to 7000m depth with robust sealing and pluggable design.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/mcil8f-mcbh8m-8pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/mcil8f-mcbh8m-8pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/mcil8f-mcbh8m-8pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
-	],
-	"product_description": [
-	  "The MCIL8F MCBH8M 8Pin Underwater Connector set brings high-performance connectivity to subsea missions involving ROVs, underwater cameras, and marine robotic systems. Featuring a female inline plug (MCIL8F) and a male bulkhead connector (MCBH8M), this Subconn-style waterproof system offers IP68 protection and can reliably operate at depths up to 7000 meters. Designed to handle power or signal transmission in wet-mate applications, it incorporates a 7/16-20UNF threaded interface, high-grade neoprene and stainless steel construction, and offers excellent resistance (200MΩ-199.9Ω). Ideal for marine professionals seeking durable and reusable subsea cabling solutions."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: MCIL8F MCBH8M",
-	  "Type: Micro Circular Subconn-Style Underwater Connector",
-	  "Application: Underwater ROVs, subsea cameras, marine robots, power and signal systems",
-	  "Rated Current: 10A",
-	  "Contact Material: Copper alloy (gold plated)",
-	  "Housing Material: Neoprene (MCIL8F), Stainless Steel (MCBH8M)",
-	  "Gender: Female (MCIL8F), Male (MCBH8M)",
-	  "Color: Black",
-	  "IP Rating: IP68",
-	  "Water Depth Capability: up to 7000 meters",
-	  "Withstand Voltage: 800V AC",
-	  "Resistance: 200MΩ–199.9Ω",
-	  "Rubber Diameter: 15.75mm",
-	  "Mounting Thread: 7/16-20UNF",
-	  "Temperature Range: -50℃ ~ 100℃",
-	  "Insertion/Extraction Cycles: >500 times",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC",
-	  "MOQ: 1 set for sale"
-	],
-	"faq": [
-	  {
-		"question": "What devices is the MCIL8F MCBH8M connector suitable for?",
-		"answer": "This connector set is ideal for subsea ROV systems, underwater robotic cameras, marine instrumentation, and power transmission devices."
-	  },
-	  {
-		"question": "Can the connector be used in deep-sea environments?",
-		"answer": "Yes, it is IP68 rated and built to withstand full functionality at depths up to 7000 meters."
-	  },
-	  {
-		"question": "What type of sealing is used for waterproofing?",
-		"answer": "The connector uses a high-grade neoprene rubber body and a threaded 7/16-20UNF coupling system for strong watertight sealing."
-	  },
-	  {
-		"question": "How many pins are supported in this configuration?",
-		"answer": "This model supports 8 pins, allowing for multi-channel power or signal use in marine environments."
-	  },
-	  {
-		"question": "Does it come with international certifications?",
-		"answer": "Yes, the product is certified with TUV, CE, and CCC to ensure industry compliance and safety standards."
-	  }
-	]
+    "title": "IL12M BH12F 12ピン水中コネクタ",
+    "focus": "IL12M BH12F",
+    "slug": "/il12m-bh12f-12pin-underwater-connector",
+    "collection": "Bulkhead Underwater Connectors",
+    "description": "IL12M BH12F 12ピンSubconnスタイル円形水中コネクタ。ROV、AUV、海洋ケーブル電力システム向け。IP68等級、ピンあたり5A、5/8-18UNFねじ込み設計で確実な深海接続。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/il12m-bh12f-12pin-underwater-connector-1.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/il12m-bh12f-12pin-underwater-connector-2.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/il12m-bh12f-12pin-underwater-connector-3.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/il12m-bh12f-12pin-underwater-connector-4.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/il12m-bh12f-12pin-underwater-connector-5.jpg"
+    ],
+    "product_description": [
+      "IL12M BH12F 12ピン水中コネクタは、ROV、AUV、UUV、その他の海洋ケーブルシステムでの電力および信号用途向けに設計されたSubconnスタイルの高密度円形コネクタです。頑丈なステンレス鋼ハウジングとシールされたネオプレン部品で構成され、IP68等級で最大7000mの深さで動作可能です。12ピンの各ピンは5Aシングルコア電流に対応し、堅牢な5/8-18UNFねじ込み接続により、確実で繰り返し可能な水中嵌合を保証します。深海探査、海洋計測機器、海底ロボティクスに最適です。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: IL12M BH12F",
+      "タイプ: Subconnスタイル円形水中コネクタ",
+      "用途: ROV、AUV、UUV、海洋ケーブルシステム、海底計測機器",
+      "ピンの数: 12P",
+      "定格電流: ピンあたり5A（シングルコア）",
+      "接点素材: 銅合金（金メッキ）",
+      "ハウジング素材: ステンレス鋼",
+      "シーリング素材: ネオプレンゴム",
+      "IP等級: IP68",
+      "耐水深: 最大7000m",
+      "耐電圧: 800V AC",
+      "抵抗: 200MΩ–199.9Ω",
+      "取り付けねじ: 5/8-18UNF",
+      "温度範囲: -50℃ ～ 100℃",
+      "挿抜回数: 500回以上",
+      "性別: オス（IL12M）、メス（BH12F）",
+      "原産地: 中国、山東省",
+      "認証: TUV、CE、CCC"
+    ],
+    "faq": [
+      {
+        "question": "IL12M BH12Fコネクタはどのような用途に適していますか？",
+        "answer": "水中での電力およびデータ伝送に最適で、ROV、AUV、UUV、海洋センサーシステム、その他の浸水構造物に適しています。"
+      },
+      {
+        "question": "コネクタの耐水深評価は？",
+        "answer": "IL12M BH12Fコネクタは、完全な防水性を維持し、最大7000mの深さでの使用がテストされています。"
+      },
+      {
+        "question": "各ピンはどのくらいの電流を処理できますか？",
+        "answer": "12ピンの各ピンは5Aのシングルコア電流をサポートし、水中で複数の回路に電力を分配するのに最適です。"
+      },
+      {
+        "question": "コネクタはどの取り付けねじを使用しますか？",
+        "answer": "コネクタは、バルクヘッドまたはパネル用途での確実な取り付けのために5/8-18UNFねじを備えています。"
+      },
+      {
+        "question": "フィールドでの繰り返し使用をサポートできますか？",
+        "answer": "はい、両方のコネクタは500回以上の挿抜サイクルに対応し、過酷な海洋環境での腐食および圧力耐性を備えています。"
+      }
+    ]
   },
   {
-	"title": "MCIL8M MCBH8F 8Pin Underwater Connector",
-	"focus": "MCIL8M MCBH8F",
-	"slug": "/mcil8m-mcbh8f-8pin-underwater-connector",
-	"collection": "Micro Underwater Connectors",
-	"description": "MCIL8M MCBH8F Subconn-style 8-pin IP68 waterproof connector set with circular BNC interface, ideal for ROVs, underwater power systems, and subsea signal routing up to 7000m depth.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/mcil8m-mcbh8f-8pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/mcil8m-mcbh8f-8pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/mcil8m-mcbh8f-8pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
-	],
-	"product_description": [
-	  "The MCIL8M MCBH8F 8Pin Underwater Connector is a high-quality Subconn-style circular power connector system designed for underwater ROVs, marine vehicles, and subsea electrical applications. With an IP68 rating, the male inline plug (MCIL8M) and female bulkhead (MCBH8F) configuration can be reliably used at ocean depths up to 7000 meters. Featuring brass contacts, robust housing, and a threaded 7/16-20UNF installation interface, this set supports versatile power or signal connections in harsh environments. Ideal for use in projects requiring custom cable lengths, terminator plug types, and multi-pin configurations."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: MCIL8M MCBH8F",
-	  "Type: Micro Circular Subconn-Style BNC Underwater Connector",
-	  "Application: ROV systems, subsea power, marine instruments, underwater robotics",
-	  "Rated Current: 10A",
-	  "Pins: 8P",
-	  "Contact Material: Brass (gold plated)",
-	  "Housing Material: Neoprene rubber and anodized aluminum/stainless steel",
-	  "Gender: Male (MCIL8M), Female (MCBH8F)",
-	  "Shape: Round",
-	  "Color: Black",
-	  "IP Rating: IP68",
-	  "Water Depth Capability: up to 7000 meters",
-	  "Withstand Voltage: 800V AC",
-	  "Resistance: 200MΩ–199.9Ω",
-	  "Rubber Diameter: 15.75mm",
-	  "Installation Thread: 7/16-20UNF",
-	  "Temperature Range: -50℃ ~ 100℃",
-	  "Insertion/Extraction Cycles: >500 times",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC",
-	  "MOQ: 1 set for sale"
-	],
-	"faq": [
-	  {
-		"question": "What is the MCIL8M MCBH8F connector used for?",
-		"answer": "This connector is used in ROVs, marine equipment, and subsea systems requiring an 8-pin power or signal connection in deep-sea applications."
-	  },
-	  {
-		"question": "Can the connector handle high pressures and extreme underwater depths?",
-		"answer": "Yes, it is IP68 rated and designed for underwater operations at depths up to 7000 meters."
-	  },
-	  {
-		"question": "What material is used for the contacts and housing?",
-		"answer": "It uses high-conductivity brass contacts (gold plated) for corrosion resistance and neoprene/aluminum housings for durability."
-	  },
-	  {
-		"question": "Can I request custom cable lengths and pin configurations?",
-		"answer": "Yes, custom length cables and contact/pin options such as 2P/3P/4P/8P are available upon request."
-	  },
-	  {
-		"question": "Is the connector reusable?",
-		"answer": "Yes, the connector supports over 500 mating cycles, making it ideal for field service and long-term deployment in harsh marine environments."
-	  }
-	]
+    "title": "MCDC2M 2-8ピン水中コネクタ",
+    "focus": "MCDC2M",
+    "slug": "/mcdc2m-2-8pin-underwater-connector",
+    "collection": "Micro Underwater Connectors",
+    "description": "2～8ピンのMCDC2Mマイクロ円形水中コネクタ、IP68定格、オス直線ケーブルプラグで、海洋、ROV、最大7000mの深海用途における電力および信号に最適です。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/mcdc2m-2-8pin-underwater-connector-1.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/mcdc2m-2-8pin-underwater-connector-2.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/mcdc2m-2-8pin-underwater-connector-3.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
+    ],
+    "product_description": [
+      "MCDC2M 2～8ピンマイクロ水中コネクタは、海洋および深海環境での柔軟な接続性のために設計されています。耐久性のあるBNCタイプのオスプラグと直線ケーブル構成を備え、最大7000メートルの深さでの機器への電力または信号伝送をサポートします。IP68定格で、優れた防水保護と高電圧耐性（800V AC）を提供し、圧力下での安全で信頼性の高い使用を保証します。7/16-20UNF取付スレッド、200MΩ抵抗、500回以上の嵌合サイクルを備え、ROV、深海計器、水中通信システムに最適です。コネクタは-50℃から100℃の広い温度範囲で動作します。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: MCDC2M",
+      "タイプ: BNCマイクロ円形オスプラグ",
+      "ピンのオプション: 2/3/4/5/6/8ピン",
+      "用途: 深海電力および信号伝送、ROV、水中計器",
+      "性別: オス",
+      "IP等級: IP68",
+      "水中深度能力: 最大7000メートル",
+      "耐電圧: 800V AC",
+      "抵抗: 200MΩ-199.9Ω",
+      "取付スレッド: 7/16-20UNF",
+      "挿抜サイクル: >500回",
+      "動作温度: -50℃~100℃",
+      "原産地: 中国山東省",
+      "認証: TUV、CE、CCC"
+    ],
+    "faq": [
+      {
+        "question": "MCDC2Mコネクタはマルチピン構成に対応できますか？",
+        "answer": "はい、このコネクタは水中での柔軟な電力または信号伝送ニーズに対応する2～8ピンのオプションを提供します。"
+      },
+      {
+        "question": "このコネクタは深海用途に適していますか？",
+        "answer": "もちろんです。IP68定格で、最大7000メートルの深さで動作し、最大800V ACの電圧に耐えます。"
+      },
+      {
+        "question": "このコネクタはどのような用途に使用できますか？",
+        "answer": "深海ロボット、海洋エレクトロニクス、水中カメラ、ROV電力またはデータシステムに最適です。"
+      },
+      {
+        "question": "シールの妥協なく複数回再利用できますか？",
+        "answer": "はい。このコネクタは500回以上の挿抜サイクルに対応し、一貫した防水性能を維持します。"
+      },
+      {
+        "question": "コネクタには認証が付いていますか？",
+        "answer": "はい、すべてのユニットはTUV、CE、CCCの認証を受けており、国際品質基準に準拠しています。"
+      }
+    ]
   },
   {
-	"title": "MCIL10M MCBH10F 10Pin Underwater Connector",
-	"focus": "MCIL10M MCBH10F",
-	"slug": "/mcil10m-mcbh10f-10pin-underwater-connector",
-	"collection": "Micro Underwater Connectors",
-	"description": "MCIL10M MCBH10F Subconn-style 10-pin IP68 waterproof connector designed for drones, ROVs, and HOVs. Built with 316L stainless steel and neoprene for watertight subsea power systems.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/mcil10m-mcbh10f-10pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/mcil10m-mcbh10f-10pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/mcil10m-mcbh10f-10pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
-	],
-	"product_description": [
-	  "The MCIL10M MCBH10F 10Pin Underwater Connector is engineered for drones, HOVs, ROVs, and other subsea applications requiring compact, watertight electrical interfaces. This Subconn-style connector features a male inline (MCIL10M) and female bulkhead (MCBH10F) configuration with durable neoprene body and 316L stainless steel positioning pins. Rated IP68 (formerly IP69k) and built for 10A single-core power, it’s ideal for underwater power distribution. With gold-plated UNS-C36000 copper alloy pins and a customizable 1-meter lead, it provides long-term reliability in harsh marine conditions with over 500 mating cycles."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: MCIL10M MCBH10F",
-	  "Type: Micro Circular Subconn-Style Underwater Connector",
-	  "Application: ROVs, drones, HOVs, subsea power systems",
-	  "Rated Current: 10A per pin",
-	  "Pins: 10P",
-	  "Contact Material: UNS-C36000 (brass, gold plated)",
-	  "Plug Body: Neoprene rubber",
-	  "Positioning Pin: Stainless steel 316L",
-	  "Gender: Male (MCIL10M), Female (MCBH10F)",
-	  "IP Rating: IP68",
-	  "Water Depth Capability: up to 7000 meters",
-	  "Resistance: 200MΩ–199.9Ω",
-	  "Wire Length: 1 meter (customizable)",
-	  "Temperature Range: -4℃ ~ +60℃",
-	  "Insertion/Extraction Cycles: >500 times",
-	  "Color: Black",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC",
-	  "MOQ: 2 sets"
-	],
-	"faq": [
-	  {
-		"question": "Is the MCIL10M MCBH10F connector suitable for drone and underwater use?",
-		"answer": "Yes, it's designed for high-reliability power applications in drones, ROVs, and HOVs, even under deep-sea pressure."
-	  },
-	  {
-		"question": "What materials are used for construction of this connector?",
-		"answer": "It features a neoprene plug body, 316L stainless steel alignment pins, and gold-plated brass (UNS-C36000) contacts."
-	  },
-	  {
-		"question": "Is the connector IP69k certified?",
-		"answer": "The connector meets IP68 standards equivalent to IP69k for underwater sealing and pressure resistance."
-	  },
-	  {
-		"question": "Can I request a custom wire length for this connector?",
-		"answer": "Yes, the default wire length is 1 meter, but it’s fully customizable based on project requirements."
-	  },
-	  {
-		"question": "How long can the connector be reused?",
-		"answer": "It is rated for more than 500 insertion and extraction cycles, making it highly reusable and durable for field operations."
-	  }
-	]
+    "title": "MCBH4M MCIL4F 4ピン水中コネクタ",
+    "focus": "MCBH4M",
+    "slug": "/mcbh4m-4pin-underwater-connector",
+    "collection": "Micro Underwater Connectors",
+    "description": "MCBH4M 4ピンステンレス鋼Subconnスタイル水中バルクヘッドコネクタ、IP68定格で、海洋ROV、湿式プラガブル用途、最大7000mの深海電力環境に最適です。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/mcbh4m-4pin-underwater-connector-2.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/mcbh4m-4pin-underwater-connector-1.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/mcbh4m-4pin-underwater-connector-3.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
+    ],
+    "product_description": [
+      "MCBH4M 4ピン水中コネクタは、要求の厳しい深海および海洋用途向けに設計された堅牢なバルクヘッドマウントソリューションです。高級316Lステンレス鋼で作られ、IP68定格の防水性能に準拠しており、最大7000メートルの深さで信頼性の高い性能を保証します。頑丈なBNCスタイルのインターフェースと7/16-20UNF取付スレッドを備え、安全なカップリングを実現します。ROV、水中ロボット、海洋電力システムに最適で、MCBH4Mは最大10Aの電流を管理し、800V ACの耐電圧を備えています。500回以上の嵌合サイクル向けに設計されており、過酷な水中環境での長期性能を保証します。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: MCBH4M",
+      "タイプ: BNCバルクヘッド円形コネクタ",
+      "用途: ROV、水中ロボット、海洋電力システム",
+      "定格電流: 10A",
+      "接点材料: 銅合金（金メッキ）",
+      "ハウジング材料: 316Lステンレス鋼",
+      "IP等級: IP68",
+      "水中深度能力: 最大7000メートル",
+      "耐電圧: 800V AC",
+      "抵抗: 200MΩ-199.9Ω",
+      "性別: オス/メス",
+      "取付スレッド: 7/16-20UNF",
+      "挿抜サイクル: >500回",
+      "動作温度: -50℃~100℃",
+      "原産地: 中国山東省"
+    ],
+    "faq": [
+      {
+        "question": "MCBH4Mコネクタは深海海洋操作に対応していますか？",
+        "answer": "はい、IP68定格で、最大7000メートルの深さでの水中操作を確実にサポートします。"
+      },
+      {
+        "question": "耐腐食性に使用されている材料は何ですか？",
+        "answer": "このコネクタは海洋グレードの316Lステンレス鋼を使用し、海水環境での優れた耐腐食性を提供します。"
+      },
+      {
+        "question": "このコネクタには何ピンがありますか？",
+        "answer": "MCBH4Mは電力および信号伝送に適した4ピン構成を備えています。"
+      },
+      {
+        "question": "このコネクタは水中で湿式プラグインできますか？",
+        "answer": "はい、湿式嵌合用途向けに設計されており、操作中にIP68防水性を維持します。"
+      },
+      {
+        "question": "このコネクタはSubconnシステムと互換性がありますか？",
+        "answer": "もちろんです。MCBH4MはSubconnスタイルで設計されており、業界標準の嵌合インターフェースに適合します。"
+      }
+    ]
   },
   {
-	"title": "MCIL12F MCBH12M 12Pin Underwater Connector",
-	"focus": "MCIL12F MCBH12M",
-	"slug": "/mcil12f-mcbh12m-12pin-underwater-connector",
-	"collection": "Micro Underwater Connectors",
-	"description": "MCIL12F MCBH12M Subconn-style 12-pin IP68 underwater connector for industrial lights, robots, and Seacon ROV/HOV systems. Built with stainless steel and neoprene for 7000m subsea performance.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/mcil12f-mcbh12m-12pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/mcil12f-mcbh12m-12pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/mcil12f-mcbh12m-12pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
-	],
-	"product_description": [
-	  "The MCIL12F MCBH12M 12Pin Underwater Connector is a rugged Subconn-compatible solution designed for high-end industrial lights, robots, and ROV/HOV systems using Seacon integration. Engineered with a neoprene plug body and stainless steel 316L positioning pin, this IP68-rated connector reliably transmits power or signal at depths up to 7000 meters. The gold-plated UNS-C36000 copper alloy pins provide excellent electrical conductivity, while the 12-pin layout supports multiple channels of 10A single-core power. Comes with a standard 1-meter wire that can be customized as needed, making it ideal for demanding subsea applications."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: MCIL12F MCBH12M",
-	  "Type: Micro Circular Subconn-Style Underwater Connector",
-	  "Application: Industrial lighting, subsea robotics, ROV, HOV, Seacon systems",
-	  "Rated Current: 10A per pin",
-	  "Pins: 12P",
-	  "Contact Material: UNS-C36000 (gold plated brass)",
-	  "Plug Body: Neoprene rubber",
-	  "Positioning Pin: Stainless steel 316L",
-	  "Gender: Female (MCIL12F), Male (MCBH12M)",
-	  "IP Rating: IP68",
-	  "Water Depth Capability: up to 7000 meters",
-	  "Resistance: 200MΩ–199.9Ω",
-	  "Temperature Range: -4℃ ~ +60℃",
-	  "Wire Length: 1 meter (customizable)",
-	  "Insertion/Extraction Cycles: >500 times",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC",
-	  "MOQ: 2 sets"
-	],
-	"faq": [
-	  {
-		"question": "Is the MCIL12F MCBH12M connector compatible with Seacon systems?",
-		"answer": "Yes, it is designed as a Subconn-style underwater connector and is compatible with a variety of Seacon ROV and HOV configurations."
-	  },
-	  {
-		"question": "What equipment can this 12-pin connector be used with?",
-		"answer": "It’s ideal for industrial underwater lights, subsea robots, and power distribution in ROVs and HOVs."
-	  },
-	  {
-		"question": "How many amps can each pin handle?",
-		"answer": "Each core of the 12 pins can handle up to 10A, suitable for various power and signal applications under water."
-	  },
-	  {
-		"question": "What environmental conditions can it withstand?",
-		"answer": "The connector is built to perform in extreme subsea environments, handling up to 7000 meters depth and operating between -4℃ and +60℃."
-	  },
-	  {
-		"question": "Is cable length customizable?",
-		"answer": "Yes, each connector includes a 1-meter lead by default, but cable length can be customized upon request."
-	  }
-	]
+    "title": "MCIL4F MCBHRA4M 4ピン水中コネクタ",
+    "focus": "MCIL4F",
+    "slug": "/mcil4f-4pin-underwater-connector",
+    "collection": "Micro Underwater Connectors",
+    "description": "MCIL4F 4ピンマイクロ水中コネクタ、ライトアングルバルクヘッド（MCBHRA4M）付き、IP68定格で、ROVおよび海洋電力システム向け。最大7000mの深さで10Aをサポート。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/mcil4f-4pin-underwater-connector-3.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/mcil4f-4pin-underwater-connector-2.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/mcil4f-4pin-underwater-connector-1.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
+    ],
+    "product_description": [
+      "ライトアングルバルクヘッド（MCBHRA4M）付きのMCIL4F 4ピン水中コネクタは、水中システムでの高性能電力供給向けに設計されています。IP68定格で、最大7000メートルの深さで確実に動作し、最大10Aの電流と800V ACの耐電圧をサポートします。このマイクロSubconnスタイルのコネクタは、ROV、水中ドローン、海洋自動化機器に最適です。耐久性のある7/16-20UNFスレッド接続と500回以上の嵌合サイクルにより、使いやすさと長期性能を保証します。ライトアングルバルクヘッド構成により、狭い深海設置での柔軟な配線が可能です。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: MCIL4F",
+      "タイプ: マイクロ円形水中コネクタ",
+      "用途: ROV、海洋電力システム、水中カメラ、深海計器",
+      "定格電流: 10A",
+      "接点材料: 銅合金（金メッキ）",
+      "性別: オス/メス",
+      "ハウジング材料: ネオプレンゴム + ステンレス鋼（バルクヘッド）",
+      "IP等級: IP68",
+      "水中深度能力: 最大7000メートル",
+      "耐電圧: 800V AC",
+      "抵抗: 200MΩ-199.9Ω",
+      "形状: 円形",
+      "取付スレッド: 7/16-20UNF",
+      "動作温度: -50℃~100℃",
+      "挿抜サイクル: >500回",
+      "原産地: 中国山東省",
+      "認証: TUV、CE、CCC"
+    ],
+    "faq": [
+      {
+        "question": "MCIL4Fコネクタは深海環境で使用できますか？",
+        "answer": "はい、最大7000メートルの水中での動作向けに設計されており、圧力下でIP68防水シールを維持します。"
+      },
+      {
+        "question": "ライトアングルバルクヘッドデザインの利点は何ですか？",
+        "answer": "ライトアングルバルクヘッドは、コンパクトなROVや深海計器設置でのケーブル配線の簡略化に役立ちます。"
+      },
+      {
+        "question": "このコネクタは高電流水中電力システムに適していますか？",
+        "answer": "はい、定格電流10Aをサポートし、海洋電力伝送や水中ロボットに適しています。"
+      },
+      {
+        "question": "耐腐食性を確保する材料は何ですか？",
+        "answer": "コネクタはネオプレンゴムと海洋グレードのステンレス鋼を使用し、海水環境での優れた耐腐食性を提供します。"
+      },
+      {
+        "question": "MCIL4Fコネクタは何ピンをサポートしますか？",
+        "answer": "このモデルは電力または信号と電力の組み合わせ用途向けの4ピン構成を備えています。"
+      }
+    ]
   },
   {
-	"title": "MCIL16F MCBH16M 16Pin Underwater Connector",
-	"focus": "MCIL16F MCBH16M",
-	"slug": "/mcil16f-mcbh16m-16pin-underwater-connector",
-	"collection": "Micro Underwater Connectors",
-	"description": "MCIL16F MCBH16M 16-pin Subconn-style circular underwater connector set for marine power cables, bulkhead mounting, and subsea equipment. IP68 rated, supports 7000 meters depth operation.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/mcil16f-mcbh16m-16pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/mcil16f-mcbh16m-16pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/mcil16f-mcbh16m-16pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
-	],
-	"product_description": [
-	  "The MCIL16F MCBH16M 16Pin Underwater Connector is a Subconn-style inline and bulkhead connector set specifically designed for marine power transmission and underwater electrical systems. Ideal for ROVs, subsea monitoring devices, and oceanographic sensors, this connector is IP68 rated and performs reliably at depths up to 7000 meters. The female inline plug (MCIL16F) mates securely to the male bulkhead (MCBH16M), supporting up to 5A per contact in its 16-pin configuration. Equipped with corrosion-resistant materials and a standard 1/2-20UNF installation thread, this rugged connector ensures long-term performance in extreme marine environments."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: MCIL16F MCBH16M",
-	  "Type: Micro Circular Subconn-Style Underwater Connector",
-	  "Application: Marine power systems, underwater vehicles, subsea bulkhead interfaces, oceanographic equipment",
-	  "Rated Current: 5A per pin",
-	  "Pins: 16P",
-	  "Contact Material: Copper alloy (gold plated)",
-	  "Housing Material: Neoprene rubber (inline), stainless steel (bulkhead)",
-	  "Gender: Female (MCIL16F), Male (MCBH16M)",
-	  "IP Rating: IP68",
-	  "Water Depth Capability: up to 7000 meters",
-	  "Withstand Voltage: 800V AC",
-	  "Resistance: 200MΩ–199.9Ω",
-	  "Installation Thread: 1/2-20UNF",
-	  "Operating Temperature: -50℃ ~ 100℃",
-	  "Insertion/Extraction Cycles: >500 times",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC"
-	],
-	"faq": [
-	  {
-		"question": "What is the MCIL16F MCBH16M connector used for?",
-		"answer": "This 16-pin connector is designed for marine and subsea electrical power transmission applications including ROVs and oceanographic instruments."
-	  },
-	  {
-		"question": "Is it suitable for long-term underwater deployment?",
-		"answer": "Yes, it's made from corrosion-resistant materials and rated IP68 for reliable operation at depths up to 7000 meters."
-	  },
-	  {
-		"question": "How many cycles can this connector withstand?",
-		"answer": "It is tested for more than 500 mating cycles while maintaining waterproof and electrical integrity."
-	  },
-	  {
-		"question": "What installation thread type does this connector use?",
-		"answer": "The connector uses a standard 1/2-20UNF installation thread for robust mounting in bulkhead applications."
-	  },
-	  {
-		"question": "Are certifications provided with this product?",
-		"answer": "Yes, it is certified by TUV, CE, and CCC ensuring compliance with marine and safety standards."
-	  }
-	]
+    "title": "MCIL4M MCBH4F 4ピン水中コネクタ",
+    "focus": "MCIL4M",
+    "slug": "/mcil4m-4pin-underwater-connector",
+    "collection": "Micro Underwater Connectors",
+    "description": "MCIL4M 4ピン水中Subconnスタイル電気コネクタセット（MCBH4F付き）、IP68定格で、ROVおよび深海電力システム向け、7000mの深さをサポート、スレッドカップリングでプラガブル。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/mcil4m-4pin-underwater-connector-2.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/mcil4m-4pin-underwater-connector-1.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/mcil4m-4pin-underwater-connector-3.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
+    ],
+    "product_description": [
+      "MCIL4M 4ピン水中コネクタ（MCBH4Fとペア）は、ROVおよび深海操作での水中電力用途向けに作られた堅牢で防水の電気プラグコネクタシステムです。IP68防水保護を備え、最大7000メートルの深さをサポートし、黒いネオプレンゴム外部ボディと耐腐食設計を特徴とします。7/16-20UNFスレッドカップリングにより、安全で水密な接続を保証し、極端な潜水環境に最適です。コネクタは-50℃から100℃の間で動作し、現場での海洋システムでの迅速な接続に最適なプラガブルなオス-メスインターフェースをサポートします。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: MCIL4M",
+      "タイプ: 円形水中BNCコネクタ",
+      "用途: ROV、水中ロボット、深海電力システム",
+      "ピンの数: 4ピン",
+      "定格電流: 10A",
+      "接点材料: 銅合金（金メッキ）",
+      "ハウジング材料: ネオプレン + ステンレス鋼",
+      "色: 黒",
+      "IP等級: IP68",
+      "水中深度能力: 最大7000メートル",
+      "取付スレッド: 7/16-20UNF",
+      "ゴム直径: 15.75mm",
+      "温度範囲: -50℃ ~ 100℃",
+      "性別: オスおよびメス",
+      "最小注文数量: 1セット",
+      "原産地: 中国山東省",
+      "認証: TUV、CE、CCC"
+    ],
+    "faq": [
+      {
+        "question": "MCIL4Mコネクタは深海ROVプロジェクトに適していますか？",
+        "answer": "はい、MCIL4Mは最大7000メートルの水中での防水シールを備え、ROV電力用途に最適です。"
+      },
+      {
+        "question": "コネクタはどのようなシール機能を備えていますか？",
+        "answer": "7/16-20UNFスレッドカップリングシステムを備え、振動に強く、水密で、IP68定格のシールを提供し、水中でのプラガブル使用に最適です。"
+      },
+      {
+        "question": "このコネクタはSubconnシステムと互換性がありますか？",
+        "answer": "はい、このコネクタはSubconnスタイルで設計されており、ほとんどの水中電気システムで互換性のある代替品として使用できます。"
+      },
+      {
+        "question": "1セットのみの注文は可能ですか？",
+        "answer": "はい、最小注文数量は1セットで、プロトタイプ構築や少量のプロジェクト要件に最適です。"
+      },
+      {
+        "question": "この製品にはどのような認証が付いていますか？",
+        "answer": "このコネクタはTUV、CE、CCCの認証を受けており、水中電気コネクタの国際安全および性能基準を満たしています。"
+      }
+    ]
   },
   {
-	"title": "MCIL16M MCBH16F 16Pin Underwater Connector",
-	"focus": "MCIL16M MCBH16F",
-	"slug": "/mcil16m-mcbh16f-16pin-underwater-connector",
-	"collection": "Micro Underwater Connectors",
-	"description": "MCIL16M MCBH16F Subconn-style 16-pin IP68 waterproof connector set for marine control cables and ROV power wiring. Ideal for underwater bulkhead installations up to 7000m depth.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/mcil16m-mcbh16f-16pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/mcil16m-mcbh16f-16pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/mcil16m-mcbh16f-16pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
-	],
-	"product_description": [
-	  "The MCIL16M MCBH16F 16Pin Underwater Connector set is engineered for power and signal applications in marine environments, including ROVs, underwater vehicles, and control systems. Featuring a male inline connector (MCIL16M) and female bulkhead connector (MCBH16F), the Subconn-style configuration offers IP68 waterproof protection and performs at depths up to 7000 meters. With a threaded 1/2-20UNF mounting system, the connector provides secure mating with over 500 insertion cycles. Supporting 5A single-core current across 16 pins, this circular connector ensures stable subsea performance in bulkhead-mounted installations."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: MCIL16M MCBH16F",
-	  "Type: Micro Circular Subconn-Style Bulkhead Connector",
-	  "Application: Underwater control systems, marine power cables, subsea vehicles, ROVs",
-	  "Rated Current: 5A per pin",
-	  "Pins: 16P",
-	  "Contact Material: Copper alloy (gold plated)",
-	  "Housing Material: Neoprene rubber and stainless steel",
-	  "Gender: Male (MCIL16M), Female (MCBH16F)",
-	  "IP Rating: IP68",
-	  "Water Depth Capability: up to 7000 meters",
-	  "Withstand Voltage: 800V AC",
-	  "Resistance: 200MΩ–199.9Ω",
-	  "Shape: Round",
-	  "Installation Thread: 1/2-20UNF",
-	  "Temperature Range: -50℃ ~ 100℃",
-	  "Insertion/Extraction Cycles: >500 times",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC"
-	],
-	"faq": [
-	  {
-		"question": "Is the MCIL16M MCBH16F set suitable for deep-sea electrical installations?",
-		"answer": "Yes, this connector is designed for underwater use up to 7000 meters, offering IP68-rated sealing to prevent leakage in extreme depths."
-	  },
-	  {
-		"question": "What applications is this connector ideal for?",
-		"answer": "This 16-pin connector is ideal for marine control cables, ROV power and signal systems, and underwater vehicle wiring."
-	  },
-	  {
-		"question": "How is the connector installed?",
-		"answer": "The bulkhead connector (MCBH16F) uses a 1/2-20UNF threaded mounting design for secure and vibration-resistant installation in subsea enclosures."
-	  },
-	  {
-		"question": "What is the expected service life of this connector?",
-		"answer": "It is designed to handle over 500 mating cycles, making it suitable for long-term deployment in marine environments."
-	  },
-	  {
-		"question": "Are certifications provided for this product?",
-		"answer": "Yes, all connectors are certified with TUV, CE, and CCC, ensuring compliance with international marine and electrical safety standards."
-	  }
-	]
+    "title": "MCIL3F MCBHRA3M 3ピン水中コネクタ",
+    "focus": "MCIL3F MCBHRA3M",
+    "slug": "/mcil3f-mcbhra3m-3pin-underwater-connector",
+    "collection": "Micro Underwater Connectors",
+    "description": "MCIL3F MCBHRA3M 3ピンIP68ライトアングル海洋Subconnスタイル水中コネクタ、ROVおよび深海ロボット向けに設計。7000mの深さで水密性能を発揮。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/mcil3f-3pin-underwater-connector-1.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/mcil3f-3pin-underwater-connector-2.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/mcil3f-3pin-underwater-connector-3.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
+    ],
+    "product_description": [
+      "MCIL3F MCBHRA3M 3ピン水中コネクタセットは、過酷な深海環境向けに設計された水密Subconnスタイルの電力ソリューションです。メスインラインコネクタ（MCIL3F）とライトアングルオスバルクヘッドコネクタ（MCBHRA3M）を備え、IP68定格で最大7000メートルの深さでの防水性能を提供します。水中ROV、海洋ロボット、海洋学計装で一般的に使用され、コネクタは10Aの電流をサポートし、最大800V ACの耐電圧を備えています。7/16-20UNFスレッドカップリング、高い絶縁抵抗（200MΩ–199.9Ω）、耐腐食材料により、困難な条件下での信頼性の高いシールと安定した信号または電力伝送を保証します。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: MCIL3F MCBHRA3M",
+      "タイプ: マイクロ円形Subconnスタイル水中コネクタ",
+      "用途: ROV、水中ロボット、海洋電気システム、海洋学機器",
+      "定格電流: 10A",
+      "接点材料: 銅合金（金メッキ）",
+      "ハウジング材料: ネオプレンゴム（インライン）およびステンレス鋼（バルクヘッド）",
+      "性別: メス（MCIL3F） / オスライトアングル（MCBHRA3M）",
+      "IP等級: IP68",
+      "水中深度能力: 最大7000メートル",
+      "耐電圧: 800V AC",
+      "抵抗: 200MΩ–199.9Ω",
+      "形状: 円形",
+      "取付スレッド: 7/16-20UNF",
+      "動作温度: -50℃ ~ 100℃",
+      "挿抜サイクル: >500回",
+      "原産地: 中国山東省",
+      "認証: TUV、CE、CCC"
+    ],
+    "faq": [
+      {
+        "question": "MCIL3F MCBHRA3Mコネクタセットには何が含まれていますか？",
+        "answer": "セットには、IP68防水性能を備えた3ピンメスMCIL3FインラインコネクタとオスライトアングルバルクヘッドMCBHRA3Mコネクタが含まれています。"
+      },
+      {
+        "question": "このコネクタは深海水中ロボットに適していますか？",
+        "answer": "はい、水中ROVや海洋ロボットでの使用向けに作られており、最大7000メートルの深さの圧力に対応します。"
+      },
+      {
+        "question": "なぜセットにライトアングルデザインが使用されているのですか？",
+        "answer": "MCBHRA3Mライトアングルバルクヘッドは、コンパクトな筐体での設置を容易にし、狭い深海機器レイアウトでのケーブルストレスを軽減します。"
+      },
+      {
+        "question": "このコネクタは電力と信号の両方に使用できますか？",
+        "answer": "はい、この3ピンコネクタは水中環境での電力または低周波信号伝送に適しています。"
+      },
+      {
+        "question": "このコネクタセットにはどのような認証が含まれていますか？",
+        "answer": "MCIL3F MCBHRA3MセットはTUV、CE、CCCの認証を受けており、国際海洋および深海機器基準を満たしています。"
+      }
+    ]
   },
   {
-	"title": "4Pin Fiber Optic Power Underwater Connector IP68",
-	"focus": "2 Optical 4 Electrical Connectors",
-	"slug": "/4pin-fiber-optic-power-underwater-connector",
-	"collection": "Custom Underwater Connectors",
-	"description": "High-performance IP68 fiber optic + electrical 4-pin underwater connector designed for power and data transmission in deep-sea applications. Compatible with SC/FC/LC single-/multi-mode fiber systems.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/4pin-fiber-optic-power-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/4pin-fiber-optic-power-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/4pin-fiber-optic-power-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/4pin-fiber-optic-power-underwater-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/4pin-fiber-optic-power-underwater-connector-5.jpg",
-	  
-	],
-	"product_description": [
-	  "The 2 Optical 4 Electrical Connectors is a hybrid IP68-rated underwater connector that integrates both fiber optic and power transmission capabilities for subsea equipment. Designed for critical underwater applications requiring simultaneous power and data transfer, it features 2 optical channels for SC/FC/LC single or multi-mode fiber and 4 pins for electrical current. With a stainless steel shell, M27x2 mounting thread, and nitrile sealing, it resists corrosion and withstands marine pressure from 10 to 70 MPa. Ideal for underwater communication systems, sonar devices, and deep-sea electrical/fiber integration projects requiring premium sealing and stable performance."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: 2 Optical 4 Electrical Connectors",
-	  "Type: Hybrid Fiber Optic and Electrical Terminal Underwater Connector",
-	  "Application: Subsea communication, power & data transmission, ROVs, sonar systems",
-	  "Optical Interface: SC / FC / LC (Single mode / Multi mode)",
-	  "Electrical Pins: 4-pin",
-	  "Shell Material: Stainless steel",
-	  "Sealing Material: Nitrile Butadiene Rubber / O-ring",
-	  "Mounting Thread: M27x2",
-	  "Connection Mode: Mating / Nut lock",
-	  "Deep Water Pressure: 10–70 MPa",
-	  "Resistance: 200MΩ–199.9Ω",
-	  "IP Rating: IP68",
-	  "Gender: Female / Male",
-	  "Temperature Range: -40℃ ~ +70℃",
-	  "MOQ: 1 set",
-	  "Place of Origin: Shandong, China",
-	  "Certification: CQC, CE"
-	],
-	"faq": [
-	  {
-		"question": "What types of fiber interfaces are supported?",
-		"answer": "This connector supports SC, FC, and LC interfaces and is compatible with both single-mode and multi-mode fiber."
-	  },
-	  {
-		"question": "Is this suitable for deep-sea environments?",
-		"answer": "Yes, it is waterproof IP68 rated and designed to withstand water pressure between 10 to 70 MPa for subsea operations."
-	  },
-	  {
-		"question": "How many electrical pins are included?",
-		"answer": "It includes 4 electrical pins that can be used for power or signal transfer."
-	  },
-	  {
-		"question": "Can I use this connector for both power and data simultaneously?",
-		"answer": "Absolutely. This hybrid connector is specially designed to carry both optical and electrical signals in one unit."
-	  },
-	  {
-		"question": "Are custom configurations or housing materials available?",
-		"answer": "Yes, custom wire lengths, fiber/core counts, and materials can be provided based on your project needs."
-	  }
-	]
+    "title": "MCIL3M MCBH3F 3ピン水中コネクタ",
+    "focus": "MCIL3M MCBH3F",
+    "slug": "/mcil3m-mcbh3f-3pin-underwater-connector",
+    "collection": "Micro Underwater Connectors",
+    "description": "MCIL3M MCBH3F 3ピンSubconnスタイルステンレス鋼IP68コネクタ、UUV、ROV、深海電力用途向け。ネオプレンプラグボディと10A電流定格の湿式嵌合デザイン。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/mcil3m-mcbh3f-3pin-underwater-connector-1.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/mcil3m-mcbh3f-3pin-underwater-connector-2.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/mcil3m-mcbh3f-3pin-underwater-connector-3.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
+    ],
+    "product_description": [
+      "MCIL3M MCBH3F 3ピン水中コネクタは、UUV、ROV、その他の深海電力用途向けに設計された堅牢なSubconnスタイルのソリューションです。耐久性のあるネオプレンプラグボディと316Lステンレス鋼の位置決めピンを備えたこのグルータイプの湿式嵌合コネクタは、海洋環境での安全な操作のためのIP68定格シールを提供します。3ピン構成はピンあたり10Aをサポートし、UNS-C36000真鍮接点は優れた導電性と耐腐食性を提供します。カスタムドローンや無人海洋システムに最適で、コネクタには標準1メートルのリード長が付属し、プロジェクト要件に応じてカスタマイズ可能です。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: MCIL3M MCBH3F",
+      "タイプ: マイクロ円形Subconnスタイル水中コネクタ",
+      "用途: UUV、ROV、海洋ドローン、深海電力システム",
+      "定格電流: ピンあたり10A",
+      "ピンの数: 3P",
+      "接点材料: UNS-C36000真鍮（金メッキ）",
+      "プラグボディ: ネオプレンゴム",
+      "位置決めピン: ステンレス鋼316L",
+      "性別: オス（MCIL3M）、メス（MCBH3F）",
+      "IP等級: IP68",
+      "ワイヤ長: 1メートル（カスタマイズ可能）",
+      "抵抗: 200MΩ–199.9Ω",
+      "温度範囲: -4℃ ~ +60℃",
+      "色: 黒、赤",
+      "最小注文数量: 2セット",
+      "原産地: 中国山東省",
+      "認証: TUV、CE、CCC"
+    ],
+    "faq": [
+      {
+        "question": "MCIL3M MCBH3Fコネクタはどのような用途に適していますか？",
+        "answer": "このコネクタは、UUVやROVなどの水中ロボットプラットフォーム向けに設計されており、極端深海環境での電力伝送をサポートします。"
+      },
+      {
+        "question": "このコネクタシステムに使用されている材料は何ですか？",
+        "answer": "コネクタには、ネオプレンゴムプラグボディ、UNS-C36000真鍮ピン、ステンレス鋼316L位置決めピンが含まれており、耐久性と耐腐食性を提供します。"
+      },
+      {
+        "question": "コネクタは湿式嵌合環境に適していますか？",
+        "answer": "はい、グルータイプの湿式プラガブルデザインを備えており、水没または湿った条件下での安全な接続をサポートします。"
+      },
+      {
+        "question": "ワイヤ長はカスタマイズできますか？",
+        "answer": "はい、デフォルトのワイヤ長は1メートルですが、プロジェクト仕様に基づいてカスタム長が利用可能です。"
+      },
+      {
+        "question": "製品には認証が付いていますか？",
+        "answer": "はい、TUV、CE、CCCの認証を受けており、国際安全および海洋基準に準拠しています。"
+      }
+    ]
   },
   {
-	"title": "IL3F BH3M 3Pin Underwater Connector",
-	"focus": "IL3F BH3M",
-	"slug": "/il3f-bh3m-3pin-underwater-connector",
-	"collection": "Bulkhead Underwater Connectors",
-	"description": "IL3F BH3M 3-pin Subconn-style IP68 waterproof underwater connector for ROV and subsea equipment. Stainless steel build supports 10A current with adjustable wire length for marine applications.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/il3f-bh3m-3pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/il3f-bh3m-3pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/il3f-bh3m-3pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/il3f-bh3m-3pin-underwater-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/il3f-bh3m-3pin-underwater-connector-5.jpg",
-	  
-	],
-	"product_description": [
-	  "The IL3F BH3M 3Pin Underwater Connector is a Subconn-style wet-mateable solution designed for reliable power transmission in ROVs, UUVs, and other underwater systems. Featuring a female inline plug (IL3F) and a male bulkhead connector (BH3M), this IP68-rated setup provides dependable watertight performance at depth. With stainless steel 316L housing and positioning pins, gold-plated UNS-C36000 brass contacts, and neoprene plug body, it supports 10A of single-core current. Its round shape and custom wire length configuration make it ideal for integration into demanding subsea environments."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: IL3F BH3M",
-	  "Type: Micro Circular Subconn-Style Underwater Connector",
-	  "Application: Power systems in ROV/UUV/subsea equipment",
-	  "Rated Current: 10A per pin",
-	  "Pins: 3P",
-	  "Contact Material: UNS-C36000 (gold plated brass)",
-	  "Plug Body: Neoprene rubber",
-	  "Positioning Pin: Stainless steel 316L",
-	  "Housing Material: Stainless steel",
-	  "Gender: Female (IL3F), Male (BH3M)",
-	  "IP Rating: IP68",
-	  "Shape: Round",
-	  "Wire Length: 1 meter (customizable)",
-	  "Temperature Range: -4℃ ~ +60℃",
-	  "Resistance: 200MΩ – 199.9Ω",
-	  "Insertion/Extraction Cycles: >500 times",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC",
-	  "MOQ: 2 sets"
-	],
-	"faq": [
-	  {
-		"question": "Is the IL3F BH3M connector wet pluggable and suitable for submerged operation?",
-		"answer": "Yes, it is designed for wet-mateable applications and supports reliable performance under IP68-rated submerged conditions."
-	  },
-	  {
-		"question": "What is the wire configuration and can I get a custom length?",
-		"answer": "The default wire length is 1 meter, and it can be customized based on your application needs."
-	  },
-	  {
-		"question": "What materials are used in this Subconn connector?",
-		"answer": "The connector uses 316L stainless steel for high corrosion resistance, neoprene rubber for watertight sealing, and brass contacts plated with gold for optimal conductivity."
-	  },
-	  {
-		"question": "What is the maximum depth or pressure this connector can withstand?",
-		"answer": "While specific depth ratings are not listed, its IP68 rating and material design support use in harsh marine and subsea environments, including depths exceeding 1000 meters."
-	  },
-	  {
-		"question": "Is it reusable for multiple connection cycles?",
-		"answer": "Yes, the IL3F BH3M connector is tested for over 500 insertion and extraction cycles, ensuring long-term deployability."
-	  }
-	]
+    "title": "MCIL5F MCBH5M 5ピン水中コネクタ",
+    "focus": "MCIL5F MCBH5M",
+    "slug": "/mcil5f-mcbh5m-5pin-underwater-connector",
+    "collection": "Micro Underwater Connectors",
+    "description": "MCIL5F MCBH5Mステンレス鋼5ピンSubconnスタイルIP68水中コネクタ、潜水ロボットおよびUUV/HOV/ROV電力用途向け。湿式プラガブルで、7000m深さ操作に対応。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/mcil5f-mcbh5m-5pin-underwater-connector-1.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/mcil5f-mcbh5m-5pin-underwater-connector-2.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/mcil5f-mcbh5m-5pin-underwater-connector-3.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
+    ],
+    "product_description": [
+      "MCIL5F MCBH5M 5ピン水中コネクタは、ROV、HOV、UUVなどの潜水ロボットや無人水中車両向けに設計された湿式プラガブルSubconnスタイルアセンブリです。海洋グレードの316Lステンレス鋼で作られたこの堅牢なコネクタセットは、IP68定格で、最大7000メートルの深さで確実に機能します。各ピンはシングルコア電流5Aをサポートし、コネクタには安全な設置のための標準7/16-20UNF取付スレッドが含まれています。過酷な深海環境での電力供給に最適で、カスタマイズ可能なワイヤ長オプションと500回以上の嵌合サイクルを備え、長期の水中展開に適しています。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: MCIL5F MCBH5M",
+      "タイプ: マイクロ円形Subconnスタイル水中コネクタ",
+      "用途: ROV/HOV/UUVの電力システム、潜水ロボット、海洋計器",
+      "定格電流: ピンあたり5A",
+      "ピンの数: 5P",
+      "接点材料: 銅合金（金メッキ）",
+      "ハウジング材料: ステンレス鋼316L",
+      "性別: メス（MCIL5F）、オス（MCBH5M）",
+      "IP等級: IP68",
+      "水中深度能力: 最大7000メートル",
+      "耐電圧: 800V AC",
+      "抵抗: 200MΩ–199.9Ω",
+      "ワイヤ長: 1メートル（カスタマイズ可能）",
+      "取付スレッド: 7/16-20UNF",
+      "色: 黒、赤",
+      "温度範囲: -50℃ ~ 100℃",
+      "挿抜サイクル: >500回",
+      "原産地: 中国山東省",
+      "認証: TUV、CE、CCC",
+      "最小注文数量: 2セット"
+    ],
+    "faq": [
+      {
+        "question": "MCIL5F MCBH5Mコネクタは水中ロボットに適していますか？",
+        "answer": "はい、このコネクタは深海環境で動作する潜水ロボット、ROV、UUV、HOV向けに特別に設計されています。"
+      },
+      {
+        "question": "このコネクタに使用されている材料は何ですか？",
+        "answer": "ハウジングは耐腐食性の316Lステンレス鋼で作られ、金メッキされた銅合金接点を備え、信頼性の高い深海性能を提供します。"
+      },
+      {
+        "question": "ケーブル長はどの程度カスタマイズ可能ですか？",
+        "answer": "標準ワイヤ長は1メートルですが、プロジェクトの特定の要件に合わせてカスタム製造が可能です。"
+      },
+      {
+        "question": "MCIL5F MCBH5Mの防水等級は何ですか？",
+        "answer": "コネクタはIP68定格で、最大7000メートルの深さでの完全な水密性能を備えています。"
+      },
+      {
+        "question": "コネクタは複数回の展開で再利用可能ですか？",
+        "answer": "はい、500回以上の挿抜サイクルに対応し、長期の現場使用に最適です。"
+      }
+    ]
   },
   {
-	"title": "High Current 2Pin 4Pin Underwater Connector",
-	"focus": "High current-A",
-	"slug": "/high-current-2pin-4pin-underwater-connector",
-	"collection": "High-Current Underwater Connectors",
-	"description": "High current 2-pin/4-pin Subconn underwater connector made of 316L stainless steel and rubber-molded neoprene. Wet pluggable with 25A/30A rated current, ideal for deep-sea power applications to 7000m.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/high-current-2pin-4pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/high-current-2pin-4pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/high-current-2pin-4pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/high-current-2pin-4pin-underwater-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/high-current-2pin-4pin-underwater-connector-5.jpg",
-	  
-	],
-	"product_description": [
-	  "The High Current-A underwater connector is built for deep-sea power requirements, supporting high amperage applications with 25A and 30A rated configurations in 2-pin or 4-pin layouts. Constructed with 316L stainless steel and chloroprene rubber, this rugged connector supports use in marine power systems, subsea vehicles, and offshore installations. It features a wet pluggable Subconn-style interface and waterproof sealing up to IP68 standards, with a depth capability reaching 7000 meters. With durable Neoprene molding and secure screw thread (1/2-20UNF or 5/8-18UNF), it is ideal for long-term subsea connectivity with over 500 mating cycles."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: High current-A",
-	  "Type: Subconn-Style High-Current Circular Underwater Connector",
-	  "Application: High-power underwater equipment, ROVs, offshore platforms, heavy-duty marine power lines",
-	  "Pins: 2P or 4P (configurable)",
-	  "Rated Current: 25A / 30A per pin",
-	  "Contact Material: Copper alloy (gold plated)",
-	  "Housing Material: 316L Stainless Steel",
-	  "Sealing Material: Chloroprene rubber (neoprene)",
-	  "IP Rating: IP68",
-	  "Water Depth Capability: up to 7000 meters",
-	  "Installation Thread: 1/2-20UNF, 5/8-18UNF",
-	  "Resistance: 200MΩ–199.9Ω",
-	  "Withstand Voltage: 800V AC",
-	  "Temperature Range: -50℃ ~ 100℃",
-	  "Insertion/Extraction Cycles: >500 times",
-	  "Gender: Female / Male",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC"
-	],
-	"faq": [
-	  {
-		"question": "What makes this connector suitable for high current underwater use?",
-		"answer": "It supports 25-30A current per pin, uses high-conductivity contacts, and 316L stainless steel housing for subsea power circuits."
-	  },
-	  {
-		"question": "Is this connector usable at depth?",
-		"answer": "Yes, it's tested and rated for use up to 7000 meters in underwater environments with full IP68 sealing."
-	  },
-	  {
-		"question": "Can the connector be connected and disconnected underwater?",
-		"answer": "Yes, the wet pluggable design allows for secure mating in submerged conditions without compromising performance."
-	  },
-	  {
-		"question": "What thread sizes are available for installation?",
-		"answer": "The connector features dual mounting thread options: 1/2-20UNF and 5/8-18UNF, ensuring compatibility with various equipment ports."
-	  },
-	  {
-		"question": "Are multiple pin configurations available?",
-		"answer": "Yes, this high-current connector can be configured with 2 pins or 4 pins depending on your application’s power demands."
-	  }
-	]
+    "title": "MCIL6F MCBH6M 6ピン水中コネクタ",
+    "focus": "MCIL6F MCBH6M",
+    "slug": "/mcil6f-mcbh6m-6pin-underwater-connector",
+    "collection": "Micro Underwater Connectors",
+    "description": "MCIL6F MCBH6M 6ピンSubconnスタイルIP68水中コネクタセット、海洋用途、ROV、深海電力向け。7000mの深さと過酷な水中環境をサポート。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/mcil6f-6pin-underwater-connector-1.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/mcil6f-6pin-underwater-connector-2.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/mcil6f-6pin-underwater-connector-3.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
+    ],
+    "product_description": [
+      "MCIL6F MCBH6M 6ピン水中コネクタセットは、ROV、海洋ロボット、深海計装向けに設計された堅牢なSubconnスタイルのケーブルコネクタシステムです。IP68定格で、最大7000メートルの深さでの水密性能を提供し、DCまたは電力信号を安全なオス-メス接続でサポートします。7/16-20UNFスレッド取付インターフェースとネオプレンゴムで包まれた構造により、高圧と-50℃から100℃の極端な温度に耐えます。この6ピンソリューションは、500回以上の嵌合サイクルとTUV、CE、CCCを含む国際的に認められた認証により、安定した水中操作を保証します。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: MCIL6F MCBH6M",
+      "タイプ: マイクロ円形水中コネクタ",
+      "用途: ROV、水中カメラ、電力および信号伝送、海洋ロボット",
+      "定格電流: 10A",
+      "接点材料: 銅合金（金メッキ）",
+      "ハウジング材料: ネオプレン（インライン）、ステンレス鋼（バルクヘッド）",
+      "性別: オス/メス",
+      "IP等級: IP68",
+      "水中深度能力: 最大7000メートル",
+      "耐電圧: 800V AC",
+      "抵抗: 200MΩ–199.9Ω",
+      "形状: 円形",
+      "ゴム直径: 15.75mm",
+      "取付スレッド: 7/16-20UNF",
+      "温度範囲: -50℃ ~ 100℃",
+      "挿抜サイクル: >500回",
+      "原産地: 中国山東省",
+      "認証: TUV、CE、CCC",
+      "最小注文数量: 販売用1セット"
+    ],
+    "faq": [
+      {
+        "question": "MCIL6F MCBH6Mコネクタセットは深海海洋機器向けに設計されていますか？",
+        "answer": "はい、このセットは最大7000メートルの水中操作をサポートし、ROV、海洋ロボット、深海用途に最適です。"
+      },
+      {
+        "question": "このコネクタは何ピンをサポートしますか？",
+        "answer": "この構成は海洋環境での複数の電力または信号チャンネルに適した6ピンをサポートします。"
+      },
+      {
+        "question": "このコネクタは複数回の展開で再利用可能ですか？",
+        "answer": "はい、完全な水密性能と電気的完全性を維持しながら、500回以上の接続サイクルに対応しています。"
+      },
+      {
+        "question": "このコネクタはカスタマイズ可能または少量注文が可能ですか？",
+        "answer": "もちろんです。カスタムオプションが利用可能で、最小注文数量は1セットのみで、プロジェクトやプロトタイピングに最適です。"
+      },
+      {
+        "question": "この製品にはどのような認証が付いていますか？",
+        "answer": "この水中コネクタセットはTUV、CE、CCC基準の認証を受けており、海洋環境での安全性と性能を保証します。"
+      }
+    ]
   },
   {
-	"title": "IL4F BH4M 4Pin Underwater Connector",
-	"focus": "IL4F BH4M",
-	"slug": "/il4f-bh4m-4pin-underwater-connector",
-	"collection": "Bulkhead Underwater Connectors",
-	"description": "IL4F BH4M 4-pin Subconn-style circular IP68 connector for ROV power and signal systems. Waterproof bulkhead and inline socket plug rated for 7000m depth and 10A single-core transmission.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/il4f-bh4m-4pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/il4f-bh4m-4pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/il4f-bh4m-4pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/il4f-bh4m-4pin-underwater-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/il4f-bh4m-4pin-underwater-connector-5.jpg",
-	  
-	],
-	"product_description": [
-	  "The IL4F BH4M 4Pin Underwater Connector is a Subconn-style standard circular connector designed for subsea applications such as ROV systems and marine power transmission. This connector set includes a female inline plug (IL4F) and male bulkhead socket (BH4M), both made using durable materials like neoprene and stainless steel. Rated IP68 for complete waterproofing up to 7000 meters, it supports single-core 10A current with gold-plated copper alloy contacts. The 7/16-20UNF installation thread ensures stable mounting, and it provides excellent connectivity for underwater equipment, with more than 500 mating cycles."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: IL4F BH4M",
-	  "Type: Circular Subconn-Style Underwater Connector",
-	  "Application: Subsea power and signal, ROVs, underwater instruments",
-	  "Pins: 4P",
-	  "Rated Current: 10A per pin",
-	  "Withstand Voltage: 800V AC",
-	  "Resistance: 200MΩ–199.9Ω",
-	  "Contact Material: Copper alloy (gold plated)",
-	  "Plug Body: Neoprene rubber",
-	  "Positioning Pin: Stainless steel 316L",
-	  "IP Rating: IP68",
-	  "Water Depth Capability: up to 7000 meters",
-	  "Installation Thread: 7/16-20UNF",
-	  "Temperature Range: -50℃ ~ 100℃",
-	  "Insertion/Extraction Cycles: >500 times",
-	  "Gender: Female (IL4F), Male (BH4M)",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC"
-	],
-	"faq": [
-	  {
-		"question": "What applications is the IL4F BH4M connector suitable for?",
-		"answer": "This connector is ideal for underwater ROV systems, power delivery, and signal transmission in deep-sea environments."
-	  },
-	  {
-		"question": "What is the waterproof rating and depth capability?",
-		"answer": "The connector is IP68-rated and engineered to operate reliably at depths up to 7000 meters."
-	  },
-	  {
-		"question": "Is this connector reusable?",
-		"answer": "Yes, it is designed for over 500 insertion and extraction cycles while maintaining waterproof integrity."
-	  },
-	  {
-		"question": "What materials are used in the construction?",
-		"answer": "The connector features neoprene rubber body components, stainless steel positioning pins, and gold-plated copper alloy contacts."
-	  },
-	  {
-		"question": "How is the connector installed?",
-		"answer": "It uses a secure 7/16-20UNF threaded interface, suitable for bulkhead mounting in subsea enclosures and devices."
-	  }
-	]
+    "title": "MCIL6M MCBH6F 6ピン水中コネクタ",
+    "focus": "MCIL6M MCBH6F",
+    "slug": "/mcil6m-mcbh6f-6pin-underwater-connector",
+    "collection": "Micro Underwater Connectors",
+    "description": "MCIL6M MCBH6F Subconnスタイル6ピンIP68水中電力コネクタセット、ROVおよび深海システム向けに最適。7000mの深さまで防水、スレッドカップリングと堅牢なデザイン。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/mcil6m-6pin-underwater-connector-1.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/mcil6m-6pin-underwater-connector-2.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/mcil6m-6pin-underwater-connector-3.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
+    ],
+    "product_description": [
+      "MCIL6M MCBH6F 6ピン水中コネクタセットは、ROVおよび海洋環境での深海電力接続向けの高性能ソリューションを提供します。Subconnスタイルの構成で設計されたこのプラガブルオス（MCIL6M）とメス（MCBH6F）コネクタペアは、IP68定格で、最大7000メートルの深さで確実な性能をサポートします。過酷な水中操作を処理するように設計されており、7/16-20UNFスレッドカップリングを備え、-50℃から100℃の温度に耐え、湿式嵌合用途に最適です。15.75mmのゴム直径と堅牢なシールにより、極端な海洋条件下での安全な電力伝送を保証します。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: MCIL6M MCBH6F",
+      "タイプ: マイクロ円形BNCコネクタ",
+      "用途: 水中電力システム、ROV、深海機器",
+      "定格電流: 10A",
+      "接点材料: 銅合金（金メッキ）",
+      "ハウジング材料: ネオプレンゴムおよびステンレス鋼",
+      "性別: オス（MCIL6M）、メス（MCBH6F）",
+      "色: 黒",
+      "IP等級: IP68",
+      "水中深度能力: 最大7000メートル",
+      "耐電圧: 800V AC",
+      "抵抗: 200MΩ–199.9Ω",
+      "ゴム直径: 15.75mm",
+      "取付スレッド: 7/16-20UNF",
+      "温度範囲: -50℃ ~ 100℃",
+      "挿抜サイクル: >500回",
+      "原産地: 中国山東省",
+      "認証: TUV、CE、CCC",
+      "最小注文数量: 販売用1セット"
+    ],
+    "faq": [
+      {
+        "question": "MCIL6M MCBH6Fコネクタは高圧水中用途に適していますか？",
+        "answer": "はい、最大7000メートルの深海使用向けに設計されており、IP68シールにより高圧耐性を保証します。"
+      },
+      {
+        "question": "このコネクタは何ピンをサポートしますか？",
+        "answer": "このコネクタセットは、深海システムでの複数の電力または信号接続のための6ピン構成を含みます。"
+      },
+      {
+        "question": "このコネクタセットは湿式嵌合水中状況で使用できますか？",
+        "answer": "はい、スレッドカップリングとシール構造は、性能を損なうことなく湿式プラガブル環境向けに設計されています。"
+      },
+      {
+        "question": "繰り返しの嵌合サイクルをサポートしますか？",
+        "answer": "もちろんです。コネクタは500回以上の挿抜サイクルに対応し、防水性能を維持します。"
+      },
+      {
+        "question": "海洋基準遵守のための認証は提供されていますか？",
+        "answer": "はい、この製品はTUV、CE、CCCの認証を受けており、グローバルな電気および海洋グレード基準に準拠しています。"
+      }
+    ]
   },
   {
-	"title": "IL4M BH4F 4Pin Underwater Connector",
-	"focus": "IL4M BH4F",
-	"slug": "/il4m-bh4f-4pin-underwater-connector",
-	"collection": "Bulkhead Underwater Connectors",
-	"description": "IL4M BH4F 4-pin Subconn-style IP68 waterproof underwater connector for ROV and power applications. Wet pluggable, round BNC type with 10A current capacity, supports 7000m depth operation.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/il4m-bh4f-4pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/il4m-bh4f-4pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/il4m-bh4f-4pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/il4m-bh4f-4pin-underwater-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/il4m-bh4f-4pin-underwater-connector-5.jpg",
-	  
-	],
-	"product_description": [
-	  "The IL4M BH4F 4Pin Underwater Connector is a Subconn-compatible waterproof solution designed for ROVs, marine power systems, and subsea equipment. This circular BNC-type connector combines a male plug (IL4M) and female bulkhead socket (BH4F), supporting single-core 10A electrical current. Engineered to IP68 standards and capable of operating at depths up to 7000 meters, it features a 7/16-20UNF threaded installation and durable construction for wet-mate applications. Its compact shape and rubber-sealed body ensure safe and reliable performance in harsh subsea environments."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: IL4M BH4F",
-	  "Type: Subconn-Style Circular Bulkhead Underwater Connector",
-	  "Application: ROV, submarine cables, marine lighting, subsea power systems",
-	  "Rated Current: 10A per pin (single-core)",
-	  "Pins: 4P",
-	  "Contact Material: Copper alloy (gold plated)",
-	  "Shape: Round",
-	  "Gender: Male (IL4M), Female (BH4F)",
-	  "IP Rating: IP68",
-	  "Working Depth: up to 7000 meters",
-	  "Installation Thread: 7/16-20UNF",
-	  "Temperature Range: -50℃ ~ 100℃",
-	  "Rubber Diameter: 24.8mm",
-	  "Color: Black",
-	  "Resistance: 200MΩ–199.9Ω",
-	  "Insertion/Extraction Cycles: >500 times",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC",
-	  "MOQ: 2 sets"
-	],
-	"faq": [
-	  {
-		"question": "Is IL4M BH4F connector suitable for deep water operations?",
-		"answer": "Yes, it is rated IP68 and designed to operate effectively at depths up to 7000 meters, making it ideal for ROVs and subsea power equipment."
-	  },
-	  {
-		"question": "What current capacity does each pin support?",
-		"answer": "Each pin is rated for single-core 10A current, providing reliable power transmission in marine environments."
-	  },
-	  {
-		"question": "What thread is used for installation?",
-		"answer": "The connector uses a 7/16-20UNF installation thread for secure bulkhead mounting."
-	  },
-	  {
-		"question": "Can this connector be used in wet-mate environments?",
-		"answer": "Yes, the IL4M BH4F connector is wet-pluggable and designed for repeatable connection in underwater environments without compromising sealing."
-	  },
-	  {
-		"question": "Is cable length customizable?",
-		"answer": "Yes, cable length and connector end configurations can be customized based on project requirements."
-	  }
-	]
+    "title": "MCIL6M MCBHRA6F 6ピン水中コネクタ",
+    "focus": "MCIL6M MCBHRA6F",
+    "slug": "/mcil6m-mcbhra6f-6pin-underwater-connector",
+    "collection": "Micro Underwater Connectors",
+    "description": "MCIL6M MCBHRA6F 6ピンSubconnスタイルIP68水中コネクタセット、ライトアングルバルクヘッド付き、潜水艦、ROV、海洋電力用途向けに設計、最大7000mの深さ。",
+    "main_image": "https://image.underwaterelectricalconnectors.com/product/mcil6m-mcbhra6f-6pin-underwater-connector-1.jpg",
+    "image_list": [
+      "https://image.underwaterelectricalconnectors.com/product/mcil6m-mcbhra6f-6pin-underwater-connector-2.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/mcil6m-mcbhra6f-6pin-underwater-connector-3.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-1.jpg",
+      "https://image.underwaterelectricalconnectors.com/product/underwater-connector-attributes-2.jpg"
+    ],
+    "product_description": [
+      "MCIL6M MCBHRA6F 6ピン水中コネクタは、堅牢なSubconnスタイルのオスインラインプラグとライトアングルメスバルクヘッドを組み合わせ、ROV、潜水艦、水中電力システム向けに安全で水密な性能を提供します。IP68定格で、7000mの深さの設置向けに設計されており、過酷な海洋条件に適しています。7/16-20UNFスレッドマウントシステムを備え、ピンあたり最大5Aの安定した電気性能をサポートし、-50℃から100℃の温度に耐えます。このペアは、ライトアングルレイアウトと狭い空間の水中用途向けに特別に設計されています。"
+    ],
+    "product_parameter": [
+      "ブランド: HYSF",
+      "モデル番号: MCIL6M MCBHRA6F",
+      "タイプ: マイクロ円形Subconnスタイルライトアングルコネクタ",
+      "用途: 潜水艦ケーブル、ROV、海洋電力機器、水中車両",
+      "定格電流: ピンあたり5A",
+      "接点材料: 銅合金（金メッキ）",
+      "ハウジング材料: ネオプレンゴム（MCIL6M）、ステンレス鋼（MCBHRA6F）",
+      "性別: オス（MCIL6M）、メスライトアングル（MCBHRA6F）",
+      "IP等級: IP68",
+      "水中深度能力: 最大7000メートル",
+      "耐電圧: 800V AC",
+      "抵抗: 200MΩ–199.9Ω",
+      "形状: 円形",
+      "取付スレッド: 7/16-20UNF",
+      "動作温度: -50℃ ~ 100℃",
+      "挿抜サイクル: >500回",
+      "原産地: 中国山東省",
+      "認証: TUV、CE、CCC"
+    ],
+    "faq": [
+      {
+        "question": "MCIL6M MCBHRA6Fコネクタセットは潜水艦や深海用途に適していますか？",
+        "answer": "はい、IP68定格で最大7000メートルの水中深さに対応し、潜水艦やROVなどの深海環境に最適です。"
+      },
+      {
+        "question": "ライトアングルバルクヘッド（MCBHRA6F）の利点は何ですか？",
+        "answer": "ライトアングルデザインは、狭い水中スペースや機器ハウジングでの効率的なケーブル管理を可能にします。"
+      },
+      {
+        "question": "コネクタはどのくらいの電流をサポートしますか？",
+        "answer": "MCIL6M MCBHRA6Fはピンあたり最大5Aをサポートし、水中機器の電力供給や低電圧信号伝送に最適です。"
+      },
+      {
+        "question": "このコネクタセットは過酷な海洋条件に耐えられますか？",
+        "answer": "はい、耐腐食性材料で作られており、-50℃から100℃の極端な温度に対応しています。"
+      },
+      {
+        "question": "このコネクタは再利用可能で長持ちしますか？",
+        "answer": "もちろんです。500回以上の挿抜サイクルに対応し、防水性を維持します。"
+      }
+    ]
   },
-  {
-	"title": "IL10F BH10M 10Pin Underwater Connector",
-	"focus": "IL10F BH10M",
-	"slug": "/il10f-bh10m-10pin-underwater-connector",
-	"collection": "Bulkhead Underwater Connectors",
-	"description": "IL10F BH10M 10-pin IP68 subconn-style circular underwater connector for ROV, AUV and subsea power use. Wet pluggable with 5A rated copper pins and 7000m depth resistance.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/il10f-bh10m-10pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/il10f-bh10m-10pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/il10f-bh10m-10pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/il10f-bh10m-10pin-underwater-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/il10f-bh10m-10pin-underwater-connector-5.jpg",
-	  
-	],
-	"product_description": [
-	  "The IL10F BH10M 10Pin Underwater Connector is a Subconn-style circular connector engineered for subsea applications such as ROVs, AUVs, and marine power systems. Featuring a female inline plug (IL10F) and a male bulkhead connector (BH10M), it is IP68 rated to ensure excellent waterproof sealing at depths of up to 7000 meters. Its round configuration is ideal for compact underwater layouts, while each pin supports a 5A single-core current. Designed for over 500 insertion cycles and equipped with reliable copper alloy contacts and a secure 1/2-20UNF thread, this pluggable wet-mate connector offers dependable performance for long-term marine operations."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: IL10F BH10M",
-	  "Type: Subconn-Style Circular Bulkhead Underwater Connector",
-	  "Application: ROV, AUV, underwater power systems, marine equipment",
-	  "Pins: 10P",
-	  "Rated Current: 5A per pin (single-core)",
-	  "Contact Material: Copper alloy (gold plated)",
-	  "Shape: Round",
-	  "Gender: Female (IL10F), Male (BH10M)",
-	  "IP Rating: IP68",
-	  "Water Depth Capability: up to 7000 meters",
-	  "Installation Thread: 1/2-20UNF",
-	  "Withstand Voltage: 800V AC",
-	  "Resistance: 200MΩ–199.9Ω",
-	  "Temperature Range: -50℃ ~ 100℃",
-	  "Insertion/Extraction Cycles: >500 times",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC"
-	],
-	"faq": [
-	  {
-		"question": "Is the IL10F BH10M connector suitable for deep-sea vehicles like ROVs and AUVs?",
-		"answer": "Yes, it’s specifically engineered for subsea use with a 7000-meter depth rating, making it ideal for ROVs, AUVs, and other underwater systems."
-	  },
-	  {
-		"question": "What is the current capacity per pin?",
-		"answer": "Each of the 10 pins supports 5A single-core current, suitable for medium-power distribution."
-	  },
-	  {
-		"question": "Is this connector reusable over multiple deployments?",
-		"answer": "Yes, it's rated for over 500 insertion and extraction cycles without compromising waterproof performance."
-	  },
-	  {
-		"question": "What kind of sealing and protection does it offer?",
-		"answer": "It is IP68-rated, ensuring full waterproof integrity during submerged operations, even under high pressure."
-	  },
-	  {
-		"question": "What is the thread type for mounting?",
-		"answer": "The IL10F BH10M uses a 1/2-20UNF installation thread, standard for many underwater bulkhead connectors."
-	  }
-	]
-  },
-  {
-	"title": "IL12M BH12F 12Pin Underwater Connector",
-	"focus": "IL12M BH12F",
-	"slug": "/il12m-bh12f-12pin-underwater-connector",
-	"collection": "Bulkhead Underwater Connectors",
-	"description": "IL12M BH12F 12-pin Subconn-style circular underwater connector for ROV, AUV, and marine cable power systems. IP68 rated, 5A per pin, and threaded 5/8-18UNF design for secure deep-sea connectivity.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/il12m-bh12f-12pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/il12m-bh12f-12pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/il12m-bh12f-12pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/il12m-bh12f-12pin-underwater-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/il12m-bh12f-12pin-underwater-connector-5.jpg",
-	  
-	],
-	"product_description": [
-	  "The IL12M BH12F 12Pin Underwater Connector is a Subconn-style high-density circular connector designed for power and signal applications in ROVs, AUVs, UUVs, and other marine cable systems. Constructed with a sturdy stainless steel housing and sealed neoprene components, this connector is IP68 rated and capable of operating at depths of up to 7000 meters. Each of the 12 pins is rated for 5A single-core current, and the robust 5/8-18UNF threaded connection ensures secure and repeatable underwater mating. Ideal for deep-sea exploration, marine instrumentation, and subsea robotics."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: IL12M BH12F",
-	  "Type: Subconn-Style Circular Underwater Connector",
-	  "Application: ROV, AUV, UUV, marine cable systems, subsea instrumentation",
-	  "Pins: 12P",
-	  "Rated Current: 5A per pin (single-core)",
-	  "Contact Material: Copper alloy (gold plated)",
-	  "Housing Material: Stainless steel",
-	  "Sealing Material: Neoprene rubber",
-	  "IP Rating: IP68",
-	  "Water Depth Capability: up to 7000 meters",
-	  "Withstand Voltage: 800V AC",
-	  "Resistance: 200MΩ–199.9Ω",
-	  "Installation Thread: 5/8-18UNF",
-	  "Temperature Range: -50℃ ~ 100℃",
-	  "Insertion/Extraction Cycles: >500 times",
-	  "Gender: Male (IL12M), Female (BH12F)",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC"
-	],
-	"faq": [
-	  {
-		"question": "What applications is the IL12M BH12F connector suitable for?",
-		"answer": "It is ideal for underwater power and data transmission in ROVs, AUVs, UUVs, marine sensor systems, and other submerged structures."
-	  },
-	  {
-		"question": "What is the water depth rating of the connector?",
-		"answer": "The IL12M BH12F connector is tested to withstand use at depths up to 7000 meters, maintaining full waterproof integrity."
-	  },
-	  {
-		"question": "How much current can each pin handle?",
-		"answer": "Each of the 12 pins supports 5A of single-core current, ideal for distributing power across multiple circuits underwater."
-	  },
-	  {
-		"question": "What installation thread does the connector use?",
-		"answer": "The connector features a 5/8-18UNF thread for secure mounting in bulkhead or panel applications."
-	  },
-	  {
-		"question": "Can the connector support repeated use in the field?",
-		"answer": "Yes, both connectors are rated for over 500 cycles of insertion and extraction, with corrosion and pressure resistance for harsh marine environments."
-	  }
-	]
-  },
-  {
-	"title": "LW-SXJ0D-200 2Pin Coaxial Underwater Connector",
-	"focus": "LW-SXJ0D-200",
-	"slug": "/lw-sxj0d-200-2pin-coaxial-underwater-connector",
-	"collection": "Custom Underwater Connectors",
-	"description": "LW-SXJ0D-200 2-pin coaxial IP68 underwater connector for subsea video transmission in industrial camera, fishing, and ROV applications. Stainless steel body supports HD coaxial connectivity and waterproof reliability.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/lw-sxj0d-200-2pin-coaxial-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/lw-sxj0d-200-2pin-coaxial-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/lw-sxj0d-200-2pin-coaxial-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/lw-sxj0d-200-2pin-coaxial-underwater-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/lw-sxj0d-200-2pin-coaxial-underwater-connector-5.jpg"
-	],
-	"product_description": [
-	  "The LW-SXJ0D-200 Coaxial Underwater Connector is a high-performance Subconn-style connector built for underwater HD video transmission in CCTV, fishing systems, industrial cameras, and subsea ROV surveillance. Constructed from corrosion-resistant stainless steel and rated IP68, this 2-pin coaxial connector ensures long-term reliability in harsh marine environments. Supporting 1080P 25fps/30fps transmission with 1920(H) x 1080(V) resolution, it comes in a compact 32x32mm size, ready for integration into camera housings. Combined with DC12V (±20%) power input and 65mA current usage, it delivers crystal-clear coaxial signal even in wet conditions up to 60°C."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: LW-SXJ0D-200",
-	  "Type: Coaxial Subconn-Style Waterproof Connector",
-	  "Application: Underwater cameras, CCTV, fishing systems, industrial surveillance equipment, ROVs",
-	  "Pins: 2P Coaxial",
-	  "Resolution: 1920(H) x 1080(V)",
-	  "Frame Rate: 1080P@25fps / 30fps",
-	  "Shutter: AUTO",
-	  "Power Supply: DC12V (±20%)",
-	  "Power Consumption: 65mA",
-	  "Material: Stainless steel and metal",
-	  "Color: Grey",
-	  "Shape: Round",
-	  "IP Rating: IP68",
-	  "Working Temperature: -20℃ ~ +60℃",
-	  "Working Humidity: ≤90% RH",
-	  "Connector Size: 32mm x 32mm",
-	  "Gender: Male",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC"
-	],
-	"faq": [
-	  {
-		"question": "What type of underwater equipment is this connector used with?",
-		"answer": "This connector is ideal for HD underwater cameras, such as fishing video systems, underwater ROV cameras, CCTV, and industrial marine surveillance."
-	  },
-	  {
-		"question": "Is this connector suitable for live HD video streaming?",
-		"answer": "Yes, the LW-SXJ0D-200 supports 1080P resolution at 25fps or 30fps, making it ideal for stable, high-quality underwater video transmission."
-	  },
-	  {
-		"question": "What is the waterproof rating and material?",
-		"answer": "It is IP68 rated and constructed with stainless steel and marine-grade metal, suitable for use in corrosive underwater environments."
-	  },
-	  {
-		"question": "Can the connector operate in harsh underwater conditions?",
-		"answer": "Yes, it operates within -20°C to 60°C and up to 90% relative humidity, specifically designed for subsea and high-pressure environments."
-	  },
-	  {
-		"question": "Is this a standard Subconn-type connector?",
-		"answer": "Yes, it follows a Subconn-style configuration for compatibility with standard marine and industrial underwater systems."
-	  }
-	]
-  },
-  {
-	"title": "MRUC RF Coaxial Micro Underwater Connector",
-	"focus": "MRUC",
-	"slug": "/mruc-rf-coaxial-micro-underwater-connector",
-	"collection": "Micro Underwater Connectors",
-	"description": "MRUC miniature BNC-type IP68 underwater RF connector supports 0–7.5GHz coaxial transmission with gold-plated brass contacts. Ideal for HD video links in ROV, AUV, and underwater camera systems.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/mruc-rf-coaxial-micro-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/mruc-rf-coaxial-micro-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/mruc-rf-coaxial-micro-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/mruc-rf-coaxial-micro-underwater-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/mruc-rf-coaxial-micro-underwater-connector-5.jpg"
-	],
-	"product_description": [
-	  "The MRUC RF Coaxial Micro Underwater Connector is a compact, high-frequency BNC-style solution specially built for HD video and RF signal transmission in underwater applications. Ideal for ROVs, AUVs, and marine camera systems, it supports operating frequencies of 0–7.5GHz over RG58 coaxial RF cable. This connector features a robust stainless steel, sea copper, or titanium shell and gold-plated brass contacts for superior signal integrity. With IP68 protection and a depth rating between 100 to 3000 meters, the MRUC ensures reliable performance in harsh marine environments. Comes with full mounting accessories such as locking caps, snap rings, and O-rings."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: MRUC",
-	  "Type: Micro BNC-Style Underwater RF Connector",
-	  "Application: ROV, AUV, underwater HD video, marine RF signal systems",
-	  "Radio Frequency Range: 0–7.5GHz",
-	  "Contact Material: Gold-plated brass",
-	  "Shell Material: Stainless steel, sea copper, or titanium",
-	  "Sealing Material: Neoprene",
-	  "Cable Type: RG58 coaxial RF cable",
-	  "Cable Tensile Strength: 50kg",
-	  "Waterproof Rating: IP68",
-	  "Working Depth: 100m to 3000m",
-	  "Gender: Male and Female",
-	  "Standard Accessories: Snap ring, locking cap, O-ring, washer, nut",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC",
-	  "MOQ: 1 set"
-	],
-	"faq": [
-	  {
-		"question": "What is the maximum RF frequency this connector supports?",
-		"answer": "The MRUC underwater RF connector supports frequencies from 0 up to 7.5GHz, making it ideal for high-definition video and RF signal transmission."
-	  },
-	  {
-		"question": "Is this connector compatible with RG58 coaxial cable?",
-		"answer": "Yes, it is designed specifically to work with RG58 coaxial RF cables for underwater communication and video systems."
-	  },
-	  {
-		"question": "What materials are used for corrosion resistance?",
-		"answer": "The connector can be made from stainless steel, sea copper, or titanium for excellent durability and corrosion resistance in marine conditions."
-	  },
-	  {
-		"question": "How deep can this connector operate?",
-		"answer": "It is rated for underwater operation between 100 to 3000 meters depth, safely supporting IP68 waterproof sealing."
-	  },
-	  {
-		"question": "What accessories are included?",
-		"answer": "Standard configuration includes a snap ring, locking cap, male and female ends, O-ring, washer, and nut for secure installation."
-	  }
-	]
-  },
-  {
-	"title": "RTIE1-4M-DZ 4Pin Underwater Connector",
-	"focus": "RTIE1-4M-DZ",
-	"slug": "/rtie1-4m-dz-4pin-underwater-connector",
-	"collection": "Bulkhead Underwater Connectors",
-	"description": "RTIE1-4M-DZ 4-pin stainless steel underwater connector is Teledyne Impulse compatible, IP68-rated for use with ROVs, underwater lamps, and marine robots. With 600V/3A specs and 10000psi pressure durability, it's built for subsea reliability.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/rtie1-4m-dz-4pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/rtie1-4m-dz-4pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/rtie1-4m-dz-4pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/rtie1-4m-dz-4pin-underwater-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/rtie1-4m-dz-4pin-underwater-connector-5.jpg"
-	],
-	"product_description": [
-	  "The RTIE1-4M-DZ 4Pin Underwater Connector is a high-precision subsea solution compatible with Teledyne Impulse-style connectors. Designed for ROVs, underwater lighting systems, and marine robots, it features a sturdy stainless steel body and is rated for 600V operation with a 3A current capacity per pin. With a water pressure tolerance of up to 10000psi and IP68 sealing, this connector ensures secure power distribution in extreme underwater environments. Whether used in bulkhead or inline configurations, it provides corrosion resistance and electrical integrity for long-term subsea deployment."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: RTIE1-4M-DZ",
-	  "Type: Teledyne Impulse-Compatible Circular Connector",
-	  "Application: ROVs, underwater lighting, marine robotics, subsea power systems",
-	  "Pins: 4P",
-	  "Rated Current: 3A per pin",
-	  "Rated Voltage: 600V",
-	  "Connection Type: Bulkhead and Inline",
-	  "Gender: Male and Female",
-	  "Shell Material: Stainless Steel",
-	  "Sealing Type: IP68 waterproof",
-	  "Water Pressure Endurance: 10000psi",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC"
-	],
-	"faq": [
-	  {
-		"question": "Is the RTIE1-4M-DZ connector compatible with Teledyne Impulse systems?",
-		"answer": "Yes, it is designed to be compatible with Teledyne Impulse-style underwater connectors, ensuring seamless integration into existing ROV and subsea systems."
-	  },
-	  {
-		"question": "What is the maximum operating pressure rating for this connector?",
-		"answer": "The connector can withstand water pressures up to 10000psi, making it suitable for deep-sea operations."
-	  },
-	  {
-		"question": "Can this connector be used for underwater lighting systems?",
-		"answer": "Yes, the RTIE1-4M-DZ is ideal for powering underwater lights, headlamps, and other marine electrical equipment needing secure waterproof connections."
-	  },
-	  {
-		"question": "What environments is this connector designed for?",
-		"answer": "It is engineered for use in harsh marine environments including subsea robots, oceanographic systems, and wet-mate applications."
-	  },
-	  {
-		"question": "What is the electrical specification of this connector?",
-		"answer": "It supports up to 600V and 3A per pin, making it suitable for low to mid-power subsea electrical connections."
-	  }
-	]
-  },
-  {
-	"title": "ST-1 6Pin Underwater Connector",
-	"focus": "ST-1",
-	"slug": "/st-1-6pin-underwater-connector",
-	"collection": "Bulkhead Underwater Connectors",
-	"description": "ST-1 6-pin Subconn-style IP68 waterproof connector for ROVs, underwater drones, and marine cameras. Pluggable wet-mate design, supports high-pressure deep-sea operation up to 7000m depth.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/st-1-6pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/st-1-6pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/st-1-6pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/st-1-6pin-underwater-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/st-1-6pin-underwater-connector-5.jpg"
-	],
-	"product_description": [
-	  "The ST-1 6Pin Underwater Connector is a Subconn-style wet pluggable solution designed for ROVs, mini underwater drones, deep-sea robots, and marine camera systems. With a rugged IP68 waterproof rating, this compact connector can operate in submersion depths up to 7000 meters. The double-ended male-female cable setup allows for flexible installation in tight subsea layouts. Its 316L stainless steel construction ensures corrosion resistance, while its 6-pin configuration supports power transmission or signal transfer in demanding marine environments. Built for over 500 mating cycles, it's a reliable subsea connectivity solution where durability is essential."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: ST-1",
-	  "Type: Subconn-Style Circular Underwater Connector",
-	  "Application: ROVs, mini drones, deep-sea robots, submarine optical systems, underwater cameras",
-	  "Pins: 6P",
-	  "Rated Current: Single core (custom per pin optional)",
-	  "Contact Material: Copper alloy (gold plated)",
-	  "Shell Material: 316L Stainless Steel",
-	  "Color: Black",
-	  "IP Rating: IP68",
-	  "Water Depth Capability: Up to 7000 meters",
-	  "Mating Cycles: >500",
-	  "Gender: Male and Female",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC",
-	  "MOQ: 1 pcs"
-	],
-	"faq": [
-	  {
-		"question": "What devices are compatible with the ST-1 6Pin connector?",
-		"answer": "It is compatible with underwater drones, ROVs, deep-sea robots, waterproof cameras, and other Subconn interface-powered marine systems."
-	  },
-	  {
-		"question": "How deep can this connector be deployed?",
-		"answer": "The ST-1 connector is built to perform at depths reaching 7000 meters in harsh subsea conditions."
-	  },
-	  {
-		"question": "Is the connector reusable for multiple dives?",
-		"answer": "Yes, it supports over 500 mating cycles, ensuring reliability for repeated underwater deployments."
-	  },
-	  {
-		"question": "What materials are used for underwater resistance?",
-		"answer": "The connector is constructed using marine-grade 316L stainless steel for superior corrosion and pressure resistance."
-	  },
-	  {
-		"question": "Is this a wet-mateable underwater connector?",
-		"answer": "Yes, the ST-1 is pluggable in wet environments and designed for submerged mating in critical marine operations."
-	  }
-	]
-  },
-  {
-	"title": "UC 1045 2Pin RMG-2FS Underwater Welding Cable Connector",
-	"focus": "UC 1045",
-	"slug": "/uc-1045-2pin-rmg-2fs-underwater-welding-cable-connector",
-	"collection": "Custom Underwater Connectors",
-	"description": "UC 1045 RMG-2FS 2-pin underwater connector designed for welding cables in ROVs and deep-sea robots. IP68 rated, supports 10A power at 600V, operates at depths up to 7000m with neoprene body and customizable length.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1045-2pin-rmg-2fs-underwater-welding-cable-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1045-2pin-rmg-2fs-underwater-welding-cable-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1045-2pin-rmg-2fs-underwater-welding-cable-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1045-2pin-rmg-2fs-underwater-welding-cable-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1045-2pin-rmg-2fs-underwater-welding-cable-connector-5.jpg"
-	],
-	"product_description": [
-	  "The UC 1045 2Pin RMG-2FS Underwater Welding Cable Connector is a specialized solution built for ROV robotic systems and subsea welding operations. Equivalent to the Impulse RMG-2FS standard, this connector offers excellent underwater insulation and strength with a molded neoprene body. Supporting up to 600V at 10A current per core, it features superior IP68 sealing for usage up to 7000 meters ocean depth. Insulation resistance exceeds 200MΩ, while contact resistance remains below 0.01Ω, for stable power delivery. Suitable for extreme marine environments, with customizable cable lengths to match your subsea integration needs."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: UC 1045",
-	  "Type: RMG-2FS Style Underwater Welding Cable Connector",
-	  "Application: ROVs, underwater welding, deep-sea robotics, marine power supply systems",
-	  "Number of Contacts: 2 Pins",
-	  "Rated Voltage: 600V DC/AC",
-	  "Rated Current: 10A Single Core",
-	  "Insulation Resistance: >200MΩ",
-	  "Contact Resistance: <0.01Ω",
-	  "Body Material: Neoprene",
-	  "Waterproof Rating: IP68",
-	  "Working Depth: Up to 7000m",
-	  "Temperature Range: -4℃ ~ +60℃",
-	  "Wire Length: Customizable",
-	  "Gender: Male",
-	  "MOQ: 2 Sets",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC"
-	],
-	"faq": [
-	  {
-		"question": "Is the UC 1045 connector compatible with Impulse RMG-2FS standards?",
-		"answer": "Yes, it is an alternative compatible solution modeled to match the RMG-2FS specifications for underwater welding use."
-	  },
-	  {
-		"question": "What is the maximum operational depth?",
-		"answer": "The connector is rated for reliable performance at depths up to 7000 meters, with full IP68 waterproof protection."
-	  },
-	  {
-		"question": "Can I customize the wire length for different installations?",
-		"answer": "Yes, cable length is customizable to fit your specific underwater integration requirements."
-	  },
-	  {
-		"question": "What kind of electrical performance can I expect?",
-		"answer": "The UC 1045 supports 600V and 10A per pin, with insulation resistance over 200MΩ and contact resistance under 0.01Ω for efficient power transfer."
-	  },
-	  {
-		"question": "What underwater applications is this connector suited for?",
-		"answer": "It is ideal for underwater welding, ROV power systems, deep-sea robotics, and any application requiring sealed high-current underwater connections."
-	  }
-	]
-  },
-  {
-	"title": "UC 1052 2Pin Underwater Split Cable Connector",
-	"focus": "UC 1052",
-	"slug": "/uc-1052-2pin-underwater-split-cable-connector",
-	"collection": "Custom Underwater Connectors",
-	"description": "UC 1052 2-pin customized Subconn-style split underwater connector for power and subsea equipment. Made with 316 stainless steel, IP68 rated, and supports 300–600V for watertight connectivity in extreme conditions.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1052-2pin-underwater-split-cable-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1052-2pin-underwater-split-cable-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1052-2pin-underwater-split-cable-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1052-2pin-underwater-split-cable-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1052-2pin-underwater-split-cable-connector-5.jpg"
-	],
-	"product_description": [
-	  "The UC 1052 2Pin Underwater Split Cable Connector is a miniature circular connector tailored for subsea equipment and ROV systems. With a stainless steel 316 shell and neoprene outlet tail, this watertight connector supports pin configurations from 2 to 16, making it ideal for compact underwater assemblies. Designed to handle voltages from 300V to 600V DC and resist pressures up to 70MPa, it is suitable for both standard and custom marine environments. With PEEK and gold-plated brass ferrule pins and a working range of -40℃ to +80℃, this robust Subconn-style connector ensures high performance and long-term underwater reliability."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: UC 1052",
-	  "Type: Miniature Subconn-Style Circular Split Cable Connector",
-	  "Application: Power, Subsea Equipment, ROV, Underwater Robotics",
-	  "Number of Contacts: 2~16 Pins",
-	  "Working Voltage: 300–600V DC",
-	  "Withstand Pressure: 70MPa",
-	  "Shell Material: 316 Stainless Steel",
-	  "Outlet Tail Conductor: Neoprene",
-	  "Ferrule Pin Material: PEEK, Brass with Gold Plating",
-	  "Gender: Male to Female",
-	  "Working Temperature: -40℃ ~ 80℃",
-	  "Waterproof Rating: IP68",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC",
-	  "MOQ: 1 Set"
-	],
-	"faq": [
-	  {
-		"question": "What applications is the UC 1052 connector designed for?",
-		"answer": "It is ideal for subsea equipment, ROVs, underwater robotics, and systems requiring watertight power distribution in deep-sea environments."
-	  },
-	  {
-		"question": "Is this connector pressure rated for deep-sea use?",
-		"answer": "Yes, the UC 1052 is rated to withstand up to 70MPa, making it suitable for high-pressure subsea deployments."
-	  },
-	  {
-		"question": "What materials are used for maximum durability?",
-		"answer": "The connector features a 316 stainless steel shell, PEEK and brass with gold plating for the contacts, and a neoprene tail for secure sealing and flexibility."
-	  },
-	  {
-		"question": "Can I get this connector in different pin configurations?",
-		"answer": "Yes, the UC 1052 supports configurations from 2 to 16 pins to match a variety of subsea power and signal needs."
-	  },
-	  {
-		"question": "Is this connector waterproof?",
-		"answer": "Absolutely. It is IP68 rated and engineered for long-term underwater use in harsh marine and industrial environments."
-	  }
-	]
-  },
-  {
-	"title": "UC 1053 8Pin Underwater Connector",
-	"focus": "UC 1053",
-	"slug": "/uc-1053-8pin-underwater-connector",
-	"collection": "Bulkhead Underwater Connectors",
-	"description": "UC 1053 8-pin Subconn G2-style IP68 marine connector designed for deep sea ROVs and subsea equipment. Stainless steel housing, neoprene sealing, and 70MPa pressure rating support operations up to 7000m depth.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1053-8pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1053-8pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1053-8pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1053-8pin-underwater-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1053-8pin-underwater-connector-5.jpg"
-	],
-	"product_description": [
-	  "The UC 1053 8Pin Underwater Connector is a robust Subconn G2-style subsea connector designed for marine power and signal transmission in ROVs, deep sea robots, and underwater systems. With IP68 watertight sealing, a 316 stainless steel shell, and a neoprene cable tail, it withstands pressure up to 70MPa and supports deployment at depths reaching 7000 meters. Gold-plated brass contacts housed in PEEK provide excellent conductivity and corrosion resistance, while the 8-pin configuration allows for multi-channel power or data applications. Ideal for harsh subsea environments where secure and durable marine connectivity is critical."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: UC 1053",
-	  "Type: Subconn G2-Style Bulkhead Underwater Connector",
-	  "Application: Power, Subsea Equipment, ROVs, Deep Sea Robotics",
-	  "Pins: 8 Pins",
-	  "Working Voltage: 300–600V DC",
-	  "Withstand Pressure: 70MPa",
-	  "Shell Material: 316 Stainless Steel",
-	  "Outlet Tail Conductor: Neoprene",
-	  "Ferrule Pin Material: PEEK + Brass Gold Plated",
-	  "Waterproof Rating: IP68",
-	  "Working Depth: Up to 7000 meters",
-	  "Working Environment: -40℃ ~ 80℃",
-	  "Gender: Male & Female",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC",
-	  "MOQ: 1 Set"
-	],
-	"faq": [
-	  {
-		"question": "What applications is the UC 1053 underwater connector suitable for?",
-		"answer": "It is ideal for use in subsea power systems, deep-sea robots, marine equipment, ROVs, and other underwater setups requiring multi-pin waterproof connection."
-	  },
-	  {
-		"question": "What pressure can the connector handle?",
-		"answer": "The UC 1053 is rated to withstand pressures up to 70MPa, suitable for underwater depths up to 7000 meters."
-	  },
-	  {
-		"question": "What materials are used for corrosion protection?",
-		"answer": "It is built with a 316 stainless steel shell, PEEK pin housing, and gold-plated brass contacts, ensuring excellent corrosion and pressure resistance."
-	  },
-	  {
-		"question": "Is this connector available in bulkhead configuration?",
-		"answer": "Yes, the UC 1053 is designed for bulkhead and inline mounting, enabling seamless integration into panels and housing systems."
-	  },
-	  {
-		"question": "How many signal or power lines can I run through it?",
-		"answer": "It supports 8 pins, allowing combinations of multiple signal and power lines depending on your marine system requirements."
-	  }
-	]
-  },
-  {
-	"title": "UC 1057 1Pin Underwater Connector",
-	"focus": "UC 1057",
-	"slug": "/uc-1057-1pin-underwater-connector",
-	"collection": "Micro Underwater Connectors",
-	"description": "UC 1057 Subconn-style 1-pin circular underwater connector is IP68 sealed for ROVs and subsea power systems. Compact and pluggable, ideal for marine scooters, RF coaxial cabling, and wet submarine power feeds.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1057-1pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1057-1pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1057-1pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1057-1pin-underwater-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1057-1pin-underwater-connector-5.jpg"
-	],
-	"product_description": [
-	  "The UC 1057 1Pin Underwater Connector is a Subconn-style RF and power interface solution for marine power scooters, ROVs, and subsea power equipment. Engineered with a waterproof polyurethane (PU) housing and copper-plated gold contacts, this circular connector ensures long-term performance in saltwater and deep-sea environments. Featuring a compact round profile and wet-pluggable capability, it is ideal for high-reliability power and coaxial signal transmission in underwater robotics and portable marine electronics. Optimized for marine-grade durability and IP68 sealing, it's suitable for depths used by ROVs and industrial underwater applications."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: UC 1057",
-	  "Type: Round Circular Subconn-Style Underwater Connector",
-	  "Application: ROV, marine scooter, RF coaxial links, subsea power systems",
-	  "Pins: 1 Pin",
-	  "Contact Material: Copper Plated Gold",
-	  "Housing Material: Polyurethane (PU)",
-	  "Shape: Round Circular",
-	  "Waterproof Rating: IP68",
-	  "Function: Power transmission for subsea equipment",
-	  "Gender: Male/Female",
-	  "Rated Current: Custom per application",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC",
-	  "Package: Carton",
-	  "Payment Terms: 100% T/T, Mastercard, VISA, PayPal, e-Checking"
-	],
-	"faq": [
-	  {
-		"question": "What underwater devices is the UC 1057 connector compatible with?",
-		"answer": "It’s ideal for ROVs, underwater scooters, power modules, and RF coaxial signal distribution in marine and industrial environments."
-	  },
-	  {
-		"question": "Does this connector support wet pluggable operation?",
-		"answer": "Yes, the UC 1057 is designed for wet-mate applications, allowing safe connection and disconnection while submerged."
-	  },
-	  {
-		"question": "What is the construction material of the shell?",
-		"answer": "It is made of marine-grade polyurethane (PU), which provides excellent durability and sealing performance under pressure."
-	  },
-	  {
-		"question": "How is the electrical interface handled?",
-		"answer": "It uses high-quality copper contacts plated with gold for optimal conductivity and corrosion resistance in saltwater environments."
-	  },
-	  {
-		"question": "Is this connector suitable for power and signal use?",
-		"answer": "Yes, the single-pin configuration is ideal for both low-voltage power delivery and RF coaxial signal transmission."
-	  }
-	]
-  },
-  {
-	"title": "UC 1058 Coaxial Underwater RF Connector",
-	"focus": "UC 1058",
-	"slug": "/uc-1058-coaxial-underwater-rf-connector",
-	"collection": "Custom Underwater Connectors",
-	"description": "UC 1058 IP68 coaxial underwater RF connector supports custom cable lengths for ROV communication and subsea equipment. Stainless steel housing ensures durability for deep-sea RF and signal applications.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1058-coaxial-underwater-rf-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1058-coaxial-underwater-rf-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1058-coaxial-underwater-rf-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1058-coaxial-underwater-rf-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1058-coaxial-underwater-rf-connector-5.jpg"
-	],
-	"product_description": [
-	  "The UC 1058 Coaxial Underwater RF Connector is designed for high-frequency signal transmission in harsh marine environments such as ROV systems, subsea communication arrays, and underwater electronic modules. Built with a stainless steel housing for superior corrosion resistance, it features IP68 sealing and supports customized cable lengths to suit various deployment scenarios. Its round, compact form factor and male-to-female configuration make it compatible with Subconn-style interfaces. Ideal for RF and data signal use, this connector is the reliable choice for underwater communication applications requiring high performance and long-term durability."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: UC 1058",
-	  "Type: Coaxial Subconn-Style Underwater RF Connector",
-	  "Application: RF Communication, Subsea Equipment, Underwater ROV Systems",
-	  "Housing Material: Stainless Steel",
-	  "Waterproof Level: IP68",
-	  "Shape: Round",
-	  "Function: Deep sea RF signal communication",
-	  "Wire Length: Customizable",
-	  "Gender: Male & Female",
-	  "Color Options: Silver, Black, Blue",
-	  "Size: Multi specification (custom available)",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC",
-	  "MOQ: 1 Set",
-	  "Payment Terms: 100% T/T, Mastercard, VISA, PayPal, e-Checking"
-	],
-	"faq": [
-	  {
-		"question": "Is the UC 1058 suitable for underwater RF communication?",
-		"answer": "Yes, the UC 1058 is specifically designed for RF signal transmission in underwater environments such as ROVs and subsea equipment."
-	  },
-	  {
-		"question": "Can I request a custom cable length for this connector?",
-		"answer": "Absolutely. We support custom wire lengths to meet your specific integration and deployment needs."
-	  },
-	  {
-		"question": "What is the waterproof rating of the UC 1058 connector?",
-		"answer": "The UC 1058 is IP68 rated, suitable for submerged operations in marine and subsea environments."
-	  },
-	  {
-		"question": "What materials are used in the construction of this connector?",
-		"answer": "The connector features a corrosion-resistant stainless steel housing designed for long-term underwater use."
-	  },
-	  {
-		"question": "Is this connector compatible with Subconn-style systems?",
-		"answer": "Yes, it follows a Subconn-style circular format, ensuring compatibility with standard underwater communication interfaces."
-	  }
-	]
-  },
-  {
-	"title": "UC 1059 7Pin Seacon Underwater Connector",
-	"focus": "UC 1059",
-	"slug": "/uc-1059-7pin-seacon-underwater-connector",
-	"collection": "Micro Underwater Connectors",
-	"description": "UC 1059 Seacon-style 7-pin micro circular underwater connector with IP68 rating for ROV power and signal use. Gold-plated copper contacts and PU housing ensure reliable marine operation in deep-sea environments.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1059-7pin-seacon-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1059-7pin-seacon-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1059-7pin-seacon-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1059-7pin-seacon-underwater-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1059-7pin-seacon-underwater-connector-5.jpg"
-	],
-	"product_description": [
-	  "The UC 1059 7Pin Seacon Underwater Connector is a high-performance, micro circular connector designed specifically for deep-sea subsea equipment and ROV power systems. Featuring a robust IP68 waterproof rating, this pluggable wet-mate connector ensures stable performance in saltwater environments. With 7 gold-plated copper contact pins encased in a durable black polyurethane (PU) housing, the connector resists corrosion, water ingress, and mechanical stress. It is perfect for use in underwater power distribution, RCA cabling, robotic control systems, or marine sensor platforms. Ideal for deployments in remote or extreme underwater zones where a secure, sealed, and dependable connection is required."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: UC 1059",
-	  "Type: Micro Circular Seacon-Style Underwater Connector",
-	  "Application: Power, Deep Sea Equipment, Marine ROV Systems, RCA Cable Use",
-	  "Pins: 7 Pin",
-	  "Waterproof Rating: IP68",
-	  "Contact Material: Copper Plated Gold",
-	  "Housing Material: Polyurethane (PU)",
-	  "Function: Subsea Equipment Power and Signal Supply",
-	  "Color: Black",
-	  "Gender: Male & Female",
-	  "Package: Carton",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC",
-	  "MOQ: 1 PCS",
-	  "Payment Terms: 100% T/T, Mastercard, VISA, PayPal, e-Checking"
-	],
-	"faq": [
-	  {
-		"question": "What applications is the UC 1059 underwater connector suitable for?",
-		"answer": "The UC 1059 is designed for deep-sea power and signal transfer, marine robotics, ROVs, RCA cable systems, and subsea sensor integration."
-	  },
-	  {
-		"question": "Is this connector waterproof under deep-sea conditions?",
-		"answer": "Yes, it is IP68 rated and engineered for reliable performance in underwater environments with full pluggable wet-mating capability."
-	  },
-	  {
-		"question": "What materials are used in the contact and shell?",
-		"answer": "The connector uses copper contacts plated with gold for excellent conductivity and corrosion resistance, and a resilient polyurethane (PU) outer shell."
-	  },
-	  {
-		"question": "Can the UC 1059 connector be used with RCA-style cable?",
-		"answer": "Yes, it is compatible with RCA and other low-voltage signal cables for underwater AV or control system applications."
-	  },
-	  {
-		"question": "Is it suitable for high-pressure subsea builds?",
-		"answer": "Absolutely. It’s built to withstand harsh subsea conditions, offering strong sealing, reliable electrical performance, and corrosion resistance."
-	  }
-	]
-  },
-  {
-	"title": "UC 1061 30Pin Underwater Power Connector",
-	"focus": "UC 1061",
-	"slug": "/uc-1061-30pin-underwater-power-connector",
-	"collection": "High-Current Underwater Connectors",
-	"description": "UC 1061 30-pin IP68 circular underwater connector designed for high-density marine power systems and subsea cameras. Ideal for deep-sea ROVs and underwater robotics demanding watertight multi-signal transmission.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1061-30pin-underwater-power-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1061-30pin-underwater-power-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1061-30pin-underwater-power-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1061-30pin-underwater-power-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1061-30pin-underwater-power-connector-5.jpg"
-	],
-	"product_description": [
-	  "The UC 1061 30Pin Underwater Power Connector is a high-capacity Subconn-style solution engineered for underwater industrial equipment, ROV platforms, and marine camera systems. With a robust circular waterproof design and IP68 rating, this connector ensures secure, watertight signal and power transmission in deep-sea environments. Made from marine-grade PU material and featuring customizable wire lengths, it is built to withstand operational temperatures from -20°C to 60°C. Ideal for bulk power distribution, signal routing, or full wiring harness integration, this connector supports secure mating and uninterrupted communication in subsea power networks."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: UC 1061",
-	  "Type: Circular Subconn-Style Underwater Connector Plug",
-	  "Application: Marine power systems, ROVs, underwater DC cameras, subsea operations",
-	  "Pins: 30 Pins",
-	  "Shape: Round",
-	  "Waterproof Rating: IP68",
-	  "Material: PU (Polyurethane) Outer Body",
-	  "Temperature Range: -20℃ ~ +60℃",
-	  "Contact Material: Copper Alloy (Gold Plated upon request)",
-	  "Gender: Female",
-	  "Wire Length: Customizable",
-	  "Color: Black",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC",
-	  "MOQ: 1 Set",
-	  "Package: Carton",
-	  "Payment Terms: 100% T/T, Mastercard, VISA, PayPal, e-Checking"
-	],
-	"faq": [
-	  {
-		"question": "What kind of devices is the UC 1061 connector suitable for?",
-		"answer": "It is ideal for ROVs, marine camera systems, underwater DC electronics, and power distribution in deep-sea equipment."
-	  },
-	  {
-		"question": "How many pins does the UC 1061 connector support?",
-		"answer": "The UC 1061 model features 30 pins, making it suitable for high-density power and signal applications in marine systems."
-	  },
-	  {
-		"question": "Is this waterproof connector safe for harsh underwater environments?",
-		"answer": "Yes, the UC 1061 is IP68 rated and designed for long-term use in underwater environments with temperature resistance from -20℃ to 60℃."
-	  },
-	  {
-		"question": "Can the wire length on this connector be customized?",
-		"answer": "Absolutely. Wire lengths can be tailored according to your project needs and installation requirements."
-	  },
-	  {
-		"question": "Is this connector suitable for both signal and power transfer?",
-		"answer": "Yes, with 30 pins and robust sealing, it is perfect for handling both power distribution and multi-channel signal transfer simultaneously."
-	  }
-	]
-  },
-  {
-	"title": "UC 1062 6Pin Underwater Fiber Optic Connector",
-	"focus": "UC 1062",
-	"slug": "/uc-1062-6pin-underwater-fiber-optic-connector",
-	"collection": "Custom Underwater Connectors",
-	"description": "UC 1062 Subconn-style 6-pin optical fiber underwater connector for deep-sea network and signal applications. With single or multi-mode options, IP68 waterproofing, and pressure resistance up to 70 MPa for subsea data communication.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1062-6pin-underwater-fiber-optic-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1062-6pin-underwater-fiber-optic-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1062-6pin-underwater-fiber-optic-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1062-6pin-underwater-fiber-optic-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1062-6pin-underwater-fiber-optic-connector-5.jpg"
-	],
-	"product_description": [
-	  "The UC 1062 6Pin Underwater Fiber Optic Connector is engineered for high-quality optical signal transmission in subsea environments. Designed for integration into deep-water network systems, this Subconn-style connector supports both single-mode and multi-mode fiber options. Featuring IP68 sealing, it withstands pressure between 10–70 MPa with reliable performance at significant operational depths. The stainless steel housing and O-ring sealing ensure long-term corrosion resistance, while the M27x2 threaded mount offers secure and stable installation. Ideal for submarine fiber-optic communication, marine surveillance, and ROV data systems."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: UC 1062",
-	  "Type: Subconn-Style Fiber Optic Underwater Connector",
-	  "Application: Subsea Fiber Optic Systems, Underwater Networks, Marine Signal Communications",
-	  "Pins: 6 Pin (includes fiber optic interfaces)",
-	  "Fiber Type: Single Mode / Multi Mode",
-	  "Waterproof Level: IP68",
-	  "Deep Water Pressure Resist: 10–70 MPa",
-	  "Shell Material: Stainless Steel",
-	  "Sealing Material: Nitrile Butadiene Rubber / O-Ring",
-	  "Mounting Thread: M27x2",
-	  "Connection Mode: Mating / Nut Lock",
-	  "Gender: Female",
-	  "Certificate: CE, CQC",
-	  "Place of Origin: Shandong, China",
-	  "MOQ: 1 pcs",
-	  "Payment Terms: 100% T/T, Mastercard, Payoneer, e-Checking"
-	],
-	"faq": [
-	  {
-		"question": "Is the UC 1062 fiber connector suitable for deep-sea environments?",
-		"answer": "Yes, it can withstand water pressures up to 70 MPa, making it ideal for installations in offshore, deep-sea, and subsea network operations."
-	  },
-	  {
-		"question": "What type of fiber optic modes does this connector support?",
-		"answer": "The UC 1062 supports both single-mode and multi-mode fiber optic cables for flexible deployment based on data transmission needs."
-	  },
-	  {
-		"question": "What sealing protection does this fiber optic connector offer?",
-		"answer": "It features IP68 waterproofing with nitrile butadiene rubber O-rings for secure and reliable sealing against deep-sea intrusion."
-	  },
-	  {
-		"question": "Can this connector be used in networked underwater sensor systems?",
-		"answer": "Absolutely. It is specifically designed for high-capacity data and signal communication in underwater sensor arrays, surveillance systems, and fiber optic submarine networks."
-	  },
-	  {
-		"question": "How is the connector installed and secured?",
-		"answer": "The connector uses an M27x2 threaded mount with a nut-lock mechanism to ensure vibration-free and secure installation in subsea panels."
-	  }
-	]
-  },
-  {
-	"title": "UC 1063 1Pin Coaxial Underwater RF Connector",
-	"focus": "UC 1063",
-	"slug": "/uc-1063-1pin-coaxial-underwater-rf-connector",
-	"collection": "Custom Underwater Connectors",
-	"description": "UC 1063 Subconn-compatible 1-pin waterproof IP68 coaxial RF connector for ROVs and submersible antenna systems. Ideal for neutrally buoyant cables and deep-sea signal transmission in subsea communication applications.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1063-1pin-coaxial-underwater-rf-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1063-1pin-coaxial-underwater-rf-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1063-1pin-coaxial-underwater-rf-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1063-1pin-coaxial-underwater-rf-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1063-1pin-coaxial-underwater-rf-connector-5.jpg"
-	],
-	"product_description": [
-	  "The UC 1063 1Pin Coaxial Underwater RF Connector is a Subconn-style deep sea connector designed for neutrally buoyant ROV cables and submersible antenna systems. With an IP68 waterproof rating and optional black or blue finish, this connector ensures dependable signal transmission for underwater RF communication and power applications. Its single-pin coaxial structure supports high-frequency signal integrity even in high-pressure environments. The connector is ideal for subsea robotics, antenna interfacing, and long-range sensor communication, offering deep sea durability with customizable wire lengths for flexible deployment."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: UC 1063",
-	  "Type: Coaxial Subconn-Compatible Underwater RF Connector",
-	  "Application: ROV, Neutrally Buoyant Cable, Subsea Antenna, Deep Sea Sensors",
-	  "Pins: 1 Pin (Coaxial)",
-	  "Waterproof Rating: IP68",
-	  "Shape: Round",
-	  "Color Options: Black, Blue",
-	  "Usage: Deep sea signal and RF power communication",
-	  "Wire Length: Customizable",
-	  "Gender: Female",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC",
-	  "Shipping: DHL, UPS, FedEx, EMS, China Post, HongKong Post",
-	  "MOQ: 1 Set",
-	  "Payment Terms: 100% T/T, MoneyGram, PayPal, Credit Card"
-	],
-	"faq": [
-	  {
-		"question": "What applications is the UC 1063 connector designed for?",
-		"answer": "It's ideal for ROVs, submersible antennas, neutrally buoyant cable systems, and underwater RF communication equipment."
-	  },
-	  {
-		"question": "What kind of signal can this connector transmit?",
-		"answer": "The UC 1063 is designed for high-performance RF signal transmission in underwater conditions, particularly for antenna and coaxial communication lines."
-	  },
-	  {
-		"question": "What is the waterproof rating of this connector?",
-		"answer": "It is IP68 rated, providing full protection for deep-sea and subsea deployments."
-	  },
-	  {
-		"question": "Can I customize the cable length?",
-		"answer": "Yes, wire length is fully customizable based on your specific system layout or deployment requirements."
-	  },
-	  {
-		"question": "Is this connector compatible with Subconn systems?",
-		"answer": "Yes, the UC 1063 is compatible with Subconn-style interfaces for seamless integration into existing subsea networks."
-	  }
-	]
-  },
-  {
-	"title": "UC 1065 6Pin Underwater Fiber Optic Connector",
-	"focus": "UC 1065",
-	"slug": "/uc-1065-6pin-underwater-fiber-optic-connector",
-	"collection": "Custom Underwater Connectors",
-	"description": "UC 1065 6-pin fiber optic connector built for deep sea signal and power communication. Features IP68 waterproof rating, FC/SC/LC compatibility, and high mechanical stability for subsea robots, drones, and marine LAN systems.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1065-6pin-underwater-fiber-optic-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1065-6pin-underwater-fiber-optic-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1065-6pin-underwater-fiber-optic-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1065-6pin-underwater-fiber-optic-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1065-6pin-underwater-fiber-optic-connector-5.jpg"
-	],
-	"product_description": [
-	  "The UC 1065 6Pin Underwater Fiber Optic Connector is a ruggedized IP68 connector designed for high-performance optical signal and power transmission in deep-sea and subsea robotic systems. It supports multiple fiber types including FC, SC, and LC in both single-mode and multi-mode configurations. Built with a stainless steel shell and nitrile O-ring seals, it handles water pressures up to 70 MPa, making it ideal for ROVs, underwater drones, and marine LAN or signal networks. With 6-pin fiber integration and a secure M27x2 thread mount, this connector ensures mechanical stability, long-life durability, and superior watertight protection in harsh subsea environments."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: UC 1065",
-	  "Type: Fiber Optic Subsea Connector",
-	  "Application: Subsea Power and Signal, Marine LAN, ROV, Underwater Drones",
-	  "Pins: 6 Pins",
-	  "Fiber Compatibility: FC / SC / LC, Single Mode and Multi Mode",
-	  "Shell Material: Stainless Steel",
-	  "Mounting Thread: M27x2",
-	  "Sealing Material: Nitrile Butadiene Rubber / O-Ring",
-	  "Waterproof Rating: IP68",
-	  "Deep Water Pressure: 10–70 MPa",
-	  "Connection Mode: Mating with Nut Lock",
-	  "Working Environment: Harsh Marine and Subsea Conditions",
-	  "Gender: Female",
-	  "Place of Origin: Shandong, China",
-	  "Certificate: CQC, CE",
-	  "MOQ: 1 Set"
-	],
-	"faq": [
-	  {
-		"question": "Which fiber types are supported by the UC 1065 connector?",
-		"answer": "UC 1065 supports FC, SC, and LC connector types in both single-mode and multi-mode fiber configurations."
-	  },
-	  {
-		"question": "Is the UC 1065 suitable for deep-sea signal applications?",
-		"answer": "Yes, with waterproof sealing up to IP68 and 70 MPa pressure resistance, it’s ideal for marine sensor networks and subsea optical communication."
-	  },
-	  {
-		"question": "What systems is this connector compatible with?",
-		"answer": "It’s compatible with subsea robots, underwater drones, ROVs, and other marine optical signal and data transmission systems."
-	  },
-	  {
-		"question": "How is the connector installed securely?",
-		"answer": "It features an M27x2 mounting thread and nut lock for stable mechanical coupling, preventing signal loss under vibration or water pressure."
-	  },
-	  {
-		"question": "Can this be used for OEM systems?",
-		"answer": "Yes, it is fully suitable for OEM manufacturing or integration into customized underwater communication solutions."
-	  }
-	]
-  },
-  {
-	"title": "AT8F 8Pin Industrial Underwater Connector",
-	"focus": "AT8F",
-	"slug": "/at8f-8pin-industrial-underwater-connector",
-	"collection": "Bulkhead Underwater Connectors",
-	"description": "AT8F 8-pin circular industrial waterproof connector with IP68 rating for high-power subsea applications. Ideal for ROVs, LED, Ethernet, and USB underwater systems requiring robust and watertight connections.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1068-8pin-industrial-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1068-8pin-industrial-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1068-8pin-industrial-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1068-8pin-industrial-underwater-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1068-8pin-industrial-underwater-connector-5.jpg"
-	],
-	"product_description": [
-	  "The AT8F 8Pin Industrial Underwater Connector is designed for demanding subsea and industrial power applications. Featuring IP68 watertight protection, it supports up to 10A per pin and 600V voltage, making it a reliable choice for ROVs, underwater robots, LED and Ethernet systems. Constructed with a rubber connector body, stainless steel AISI 302 snap rings, and gold-plated brass contacts (UNS - C36000), it ensures strong corrosion resistance and electrical performance. The connector is rated to 300 bar (4,350 psi) and includes a stainless steel location pin for precise mating. Suitable for underwater work environments, power distribution, and custom USB cable integration in harsh conditions."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: AT8F",
-	  "Type: Circular Industrial Underwater Bulkhead Connector",
-	  "Application: Power, ROVs, Robots, LED Systems, Ethernet, USB Interfaces",
-	  "Pins: 8 Pin",
-	  "Waterproof Rating: IP68",
-	  "Resistance: ≥200MΩ",
-	  "Current: 10A per Pin",
-	  "Voltage: 600V",
-	  "Temperature Range: -4℃ ~ +60℃",
-	  "Connector Body Material: Rubber",
-	  "Contacts: Gold Plated Brass UNS - C36000",
-	  "Snap Rings: Stainless Steel AISI 302",
-	  "Location Pin: Stainless Steel AISI 303",
-	  "Depth Rating: 300 bar / 4,350 psi (PEEK material)",
-	  "Gender: Female",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC",
-	  "MOQ: 2 Sets"
-	],
-	"faq": [
-	  {
-		"question": "What types of applications is the UC 1068 connector designed for?",
-		"answer": "It is ideal for underwater work systems, ROVs, power tools, LED lighting, Ethernet communication, automotive wiring, and USB cable integration."
-	  },
-	  {
-		"question": "Can this connector handle high electrical loads?",
-		"answer": "Yes, the UC 1068 supports up to 10A per pin and 600V, making it suitable for high-power underwater applications."
-	  },
-	  {
-		"question": "What is its waterproof capability?",
-		"answer": "This connector is IP68 rated and can withstand up to 300 bar pressure, suitable for deep subsea installations."
-	  },
-	  {
-		"question": "What materials ensure its corrosion resistance?",
-		"answer": "It is made with gold-plated brass contacts, rubber body, and stainless steel snap rings and location pin for excellent protection in marine environments."
-	  },
-	  {
-		"question": "Is it suitable for integration with USB cables?",
-		"answer": "Yes, the connector is designed to be versatile and can be paired with USB or custom wiring harnesses for underwater electronic systems."
-	  }
-	]
-  },
-  {
-	"title": "AT8M 8Pin Underwater Connector",
-	"focus": "AT8M",
-	"slug": "/at8m-8pin-underwater-connector",
-	"collection": "Bulkhead Underwater Connectors",
-	"description": "AT8M 8-pin Subconn-style waterproof connector with IP68 rating for ROV, UUV, and AUV robots. Offers gold-plated brass contacts, 10A per pin capacity, and 600V performance in rugged ocean environments.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/at8m-8pin-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/at8m-8pin-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/at8m-8pin-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/at8m-8pin-underwater-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/at8m-8pin-underwater-connector-5.jpg"
-	],
-	"product_description": [
-	  "The AT8M 8Pin Underwater Connector is a Subconn-compatible, round-shaped IP68-rated connector designed specifically for subsea robots such as ROVs, UUVs, and AUVs. Each of the 8 gold-plated brass contacts (UNS - C36000) supports a current of 10A and up to 600V, ensuring high-performance power distribution in underwater operations. Built with a robust rubber housing, stainless steel AISI 302 snap rings, and AISI 303 location pins, the connector withstands deep-sea pressure up to 300 bar (4350 psi). Its compact and durable build offers excellent electrical insulation, corrosion resistance, and mechanical strength, making it ideal for marine harnesses and subsea power systems."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: AT8M",
-	  "Type: 8-Pin Subconn-Style Underwater Connector",
-	  "Application: Power Transmission for ROVs, UUVs, AUVs, Marine Robotics",
-	  "Pins: 8 Pin",
-	  "Rated Current: 10A per pin",
-	  "Rated Voltage: 600V",
-	  "Resistance: ≥200MΩ",
-	  "Waterproof Rating: IP68",
-	  "Shape: Round",
-	  "Connector Body Material: Rubber",
-	  "Contact Material: Gold Plated Brass UNS - C36000",
-	  "Snap Rings: Stainless Steel AISI 302",
-	  "Location Pin: Stainless Steel AISI 303",
-	  "Depth Rating: 300 bar (4350 psi, PEEK configuration)",
-	  "Temperature Range: -4℃ ~ +60℃",
-	  "Gender: Female",
-	  "Place of Origin: Shandong, China",
-	  "Certification: TUV, CE, CCC",
-	  "MOQ: 5 Sets"
-	],
-	"faq": [
-	  {
-		"question": "What applications is the AT8M connector ideal for?",
-		"answer": "AT8M is suitable for use in ROVs, UUVs, AUVs, and other underwater robotic systems requiring reliable 8-pin power connections."
-	  },
-	  {
-		"question": "Can it operate in deep-sea environments?",
-		"answer": "Yes, this connector is pressure-tested to 300 bar, equivalent to 4350 psi, making it suitable for deep-sea applications."
-	  },
-	  {
-		"question": "Is the connector IP68 waterproof?",
-		"answer": "Yes, the AT8M has an IP68 waterproof rating, ensuring complete protection during submerged operations."
-	  },
-	  {
-		"question": "What is the electrical capacity of each pin?",
-		"answer": "Each of the 8 pins can handle up to 10A of current at 600V, making it suitable for power-intensive deployments."
-	  },
-	  {
-		"question": "What materials are used for corrosion protection?",
-		"answer": "It uses gold-plated brass for contacts and stainless steel AISI 302/303 for mechanical components to ensure durability and corrosion resistance."
-	  }
-	]
-  },
-  {
-	"title": "UC 1075 13Pin Flat Angle Underwater Connector",
-	"focus": "UC 1075",
-	"slug": "/uc-1075-13pin-flat-angle-underwater-connector",
-	"collection": "Custom Underwater Connectors",
-	"description": "UC 1075 flat right-angle 13-pin underwater cable connector with IP68 protection for ROV power and Ethernet. Built for watertight subsea joints with stainless steel housing, 1Gbit/s data, and up to 16A current capacity.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1075-13pin-flat-angle-underwater-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1075-13pin-flat-angle-underwater-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1075-13pin-flat-angle-underwater-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1075-13pin-flat-angle-underwater-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1075-13pin-flat-angle-underwater-connector-5.jpg"
-	],
-	"product_description": [
-	  "The UC 1075 13Pin Flat Angle Underwater Connector is built for reliable power and Ethernet transmission in underwater robotic systems such as ROVs. Featuring a watertight IP68-rated flat right-angle design, it allows easy integration in confined subsea spaces. With 13 gold-plated contact pins, including 8 dedicated for 1 Gbit/s Ethernet and the rest for power transmission up to 600V and 16A, it’s ideal for high-performance underwater communication. Its robust construction using stainless steel, copper, and rubber ensures corrosion resistance in marine environments. Ideal for deep-sea cable joints, power cables, and signal interfaces in underwater systems."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: UC 1075",
-	  "Type: Flat Right Angle DIN-Style Underwater Cable Connector",
-	  "Application: ROV, Underwater Robots, Ethernet, Power Transmission",
-	  "Pins: 13 Pins (8 for Ethernet, 5 for Power)",
-	  "Rated Voltage: 600V",
-	  "Rated Current: 4A (Max 16A)",
-	  "Network Speed: 1 Gbit/s",
-	  "Material: Rubber, Stainless Steel, Copper",
-	  "Waterproof Rating: IP68",
-	  "Gender: Female",
-	  "Connector Style: Flat / Right Angle",
-	  "Place of Origin: Shandong, China",
-	  "MOQ: 1 PCS",
-	  "Certification: CE, RoHS, CCC"
-	],
-	"faq": [
-	  {
-		"question": "What devices is the UC 1075 connector suitable for?",
-		"answer": "The UC 1075 is ideal for ROVs, underwater robots, and marine networks requiring power and 1 Gbit/s Ethernet connectivity."
-	  },
-	  {
-		"question": "What is the waterproof rating of this connector?",
-		"answer": "It is rated IP68, offering complete water protection for subsea cable joints and underwater environments."
-	  },
-	  {
-		"question": "How many contacts are dedicated to Ethernet?",
-		"answer": "8 out of the 13 pins are reserved for Ethernet signal transmission, supporting speeds up to 1Gbit/s."
-	  },
-	  {
-		"question": "Can this connector support both power and data?",
-		"answer": "Yes, it enables simultaneous high-speed data transmission and power delivery up to 600V and 16A."
-	  },
-	  {
-		"question": "Is the structure suitable for tight underwater spaces?",
-		"answer": "Yes, the flat right-angle design is perfect for installations in areas with limited space, improving cable routing efficiency."
-	  }
-	]
-  },
-  {
-	"title": "UC 1078 Coaxial Underwater RF Connector",
-	"focus": "UC 1078",
-	"slug": "/uc-1078-coaxial-underwater-rf-connector",
-	"collection": "Custom Underwater Connectors",
-	"description": "UC 1078 Subconn-style IP68 waterproof coaxial RF connector designed for ROVs and underwater robots. Supports HF50CXDCF/HF50CXDCM interfaces with high insulation resistance and 6000m depth reliability.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1078-coaxial-underwater-rf-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1078-coaxial-underwater-rf-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1078-coaxial-underwater-rf-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1078-coaxial-underwater-rf-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1078-coaxial-underwater-rf-connector-5.jpg"
-	],
-	"product_description": [
-	  "The UC 1078 Coaxial Underwater RF Connector is built for ROVs, underwater robots, and subsea RF applications. Designed with a Subconn-style structure and IP68 waterproof protection, it supports reliable signal performance at depths up to 6000 meters. Compatible with HF50CXDCF and HF50CXDCM coaxial interfaces, the connector features a rugged housing crafted from stainless steel and rubber for excellent durability and corrosion resistance. With insulation resistance over 200mΩ, contact resistance under 0.01Ω, and a mating cycle over 500 times, the UC 1078 is ideal for repeated deployments in harsh marine environments requiring high-frequency signal integrity."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: UC 1078",
-	  "Type: Subconn-Style Coaxial Underwater RF Connector",
-	  "Application: ROVs, Underwater Robots, Subsea High-Frequency RF Systems",
-	  "Compatible Models: HF50CXDCF / HF50CXDCM",
-	  "Waterproof Rating: IP68",
-	  "Maximum Depth: 6000 meters",
-	  "Contact Resistance: <0.01Ω",
-	  "Insulation Resistance: >200mΩ",
-	  "Temperature Range: 4℃ ~ 60℃ (Underwater Environment)",
-	  "Mating Cycle: >500 Times",
-	  "Material: Rubber, Stainless Steel",
-	  "Gender: Female",
-	  "Place of Origin: Shandong, China",
-	  "MOQ: 2 PCS",
-	  "Certification: CE, CCC"
-	],
-	"faq": [
-	  {
-		"question": "What is the maximum depth the UC 1078 connector can operate at?",
-		"answer": "The UC 1078 is capable of operating reliably at underwater depths up to 6000 meters."
-	  },
-	  {
-		"question": "Which coaxial models are compatible with this connector?",
-		"answer": "It is designed to be compatible with HF50CXDCF and HF50CXDCM coaxial RF connectors."
-	  },
-	  {
-		"question": "Is it suitable for high-frequency underwater signal transmission?",
-		"answer": "Yes, it offers excellent RF performance with low contact resistance and high insulation for stable high-frequency transmission."
-	  },
-	  {
-		"question": "What materials are used in the housing?",
-		"answer": "The connector is made from marine-grade stainless steel and rubber, providing superior resistance to corrosion and deep-sea pressure."
-	  },
-	  {
-		"question": "How durable is the connector under repeated use?",
-		"answer": "Designed for durability, the UC 1078 supports over 500 mating cycles, making it suitable for repeated underwater deployments."
-	  }
-	]
-  },
-  {
-	"title": "UC 1080 Coaxial Underwater RF Connector Socket",
-	"focus": "UC 1080",
-	"slug": "/uc-1080-coaxial-underwater-rf-connector-socket",
-	"collection": "Custom Underwater Connectors",
-	"description": "UC 1080 IP68-rated coaxial RF underwater connector with brass screw interface for Subconn-style ROV and marine camera integrations. Supports 6000m depth, high signal integrity, and customizable cable lengths.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1080-coaxial-underwater-rf-connector-socket-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1080-coaxial-underwater-rf-connector-socket-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1080-coaxial-underwater-rf-connector-socket-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1080-coaxial-underwater-rf-connector-socket-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1080-coaxial-underwater-rf-connector-socket-5.jpg"
-	],
-	"product_description": [
-	  "The UC 1080 Coaxial RF Underwater Connector Socket is purpose-built for deep-sea ROV systems, underwater cameras, and RF signal transmission applications. With an IP68 waterproof rating and a pressure capability of up to 6000 meters, this connector offers superior sealing performance and corrosion resistance. Featuring a Subconn-style interface, the brass screw assembly ensures stable mating for high-frequency RF use. Made from marine-rated rubber and stainless steel, it delivers <0.01Ω contact resistance and over 200mΩ insulation resistance with more than 500 mating cycles. Ideal for wet-pluggable underwater installations and electrical signal integrity at great depths."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: UC 1080",
-	  "Type: Coaxial Subconn-Style Underwater Connector Socket",
-	  "Application: Underwater Cameras, ROV Systems, RF Signal Transmission",
-	  "Shape: Round",
-	  "Pins: Single Pin (Coaxial)",
-	  "Waterproof Rating: IP68",
-	  "Pressure Rating: Up to 6000 meters depth",
-	  "Material: Rubber, Stainless Steel, Brass Screw Interface",
-	  "Cable Length: 15cm or Customizable",
-	  "Contact Resistance: <0.01Ω",
-	  "Insulation Resistance: >200mΩ",
-	  "Mating Cycle: >500 times",
-	  "Temperature Range: 4℃ ~ 60℃ (Underwater)",
-	  "Gender: Female",
-	  "Place of Origin: Shandong, China",
-	  "MOQ: 1 PCS",
-	  "Certification: CE, CCC"
-	],
-	"faq": [
-	  {
-		"question": "What is the maximum depth rating of the UC 1080 connector?",
-		"answer": "The connector is rated for underwater use at depths reaching up to 6000 meters."
-	  },
-	  {
-		"question": "Is the UC 1080 suitable for underwater RF and camera applications?",
-		"answer": "Yes, it's designed specifically for high-frequency RF transmission and waterproof camera integration in submerged systems."
-	  },
-	  {
-		"question": "Can the cable length be customized for specific installations?",
-		"answer": "Yes, the standard 15cm cable can be customized to match your application requirements."
-	  },
-	  {
-		"question": "How many times can the connector be mated and unmated?",
-		"answer": "The UC 1080 supports over 500 mating cycles for repeated underwater deployments."
-	  },
-	  {
-		"question": "What materials provide sealing and durability?",
-		"answer": "The connector is made from high-grade rubber and stainless steel, along with a brass screw mechanism for firm sealing and corrosion resistance."
-	  }
-	]
-  },
-  {
-	"title": "UC 1083 Underwater to DB9 Signal Cable Connector",
-	"focus": "UC 1083",
-	"slug": "/uc-1083-underwater-to-db9-signal-cable-connector",
-	"collection": "Custom Underwater Connectors",
-	"description": "UC 1083 underwater connector to DB9 SUB signal cable enables secure RS232/RS485 data transmission in marine applications. Custom lengths, 6-pin waterproof interface, ideal for underwater instrumentation and communication systems.",
-	"main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1083-underwater-to-db9-signal-cable-connector-1.jpg",
-	"image_list": [
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1083-underwater-to-db9-signal-cable-connector-2.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1083-underwater-to-db9-signal-cable-connector-3.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1083-underwater-to-db9-signal-cable-connector-4.jpg",
-	  "https://image.underwaterelectricalconnectors.com/product/uc-1083-underwater-to-db9-signal-cable-connector-5.jpg"
-	],
-	"product_description": [
-	  "The UC 1083 Underwater to DB9 Signal Cable Connector is a highly reliable solution for transmitting data in subsea environments. Designed for underwater instrumentation, RS232/RS485 interfaces, and signal monitoring applications, this connector features a waterproof 6-pin female interface on one end and a standard DB9 SUB connector on the other. Constructed with durable materials and customizable cable lengths, it ensures long-lasting performance in harsh marine or industrial environments. With multiple DB9 cable hole sizes (5/6/7/10mm), it offers flexible cable sealing and secure data transfer for integrated underwater systems."
-	],
-	"product_parameter": [
-	  "Brand: HYSF",
-	  "Model Number: UC 1083",
-	  "Type: Underwater to DB9-SUB Signal Connector Cable",
-	  "Application: Data Transmission, Signal Monitoring, Underwater Instrumentation",
-	  "Underwater Connector: 6Pin Female or Custom",
-	  "DB9 Connector Size: 46*34*20mm",
-	  "DB9 Cable Hole Sizes: 5mm / 6mm / 7mm / 10mm",
-	  "Cable Length: Customizable",
-	  "Color: Black",
-	  "Waterproof Rating: IP68 (underwater end)",
-	  "Gender: Female",
-	  "Place of Origin: Shandong, China",
-	  "MOQ: 10 PCS",
-	  "Certification: CE, CCC"
-	],
-	"faq": [
-	  {
-		"question": "What is the primary use of the UC 1083 connector?",
-		"answer": "It’s used for data signal transmission between underwater systems and topside DB9-compatible control interfaces."
-	  },
-	  {
-		"question": "Is the cable length customizable?",
-		"answer": "Yes, cable length can be configured according to the requirements of your underwater application."
-	  },
-	  {
-		"question": "What connector type is used on the underwater side?",
-		"answer": "It comes standard with a waterproof 6-pin female connector, with custom options available."
-	  },
-	  {
-		"question": "Can this connector be used for RS232 or RS485 communication?",
-		"answer": "Absolutely. It is engineered for RS232/RS485/TTL level serial signal transmission in underwater applications."
-	  },
-	  {
-		"question": "What level of protection does the underwater connector provide?",
-		"answer": "The underwater end is rated IP68, suitable for immersion and extended use in wet or submerged environments."
-	  }
-	]
-  },
-  
-
-  
-
-
-
-
+	{
+	  "title": "LW-SXJ0D-200 2ピン同軸水中コネクタ",
+	  "focus": "LW-SXJ0D-200",
+	  "slug": "/lw-sxj0d-200-2pin-coaxial-underwater-connector",
+	  "collection": "Custom Underwater Connectors",
+	  "description": "LW-SXJ0D-200 2ピン同軸IP68水中コネクタは、工業用カメラ、漁業、ROV用途の海底ビデオ伝送に対応。ステンレス鋼ボディでHD同軸接続と防水信頼性をサポート。",
+	  "main_image": "https://image.underwaterelectricalconnectors.com/product/lw-sxj0d-200-2pin-coaxial-underwater-connector-1.jpg",
+	  "image_list": [
+		"https://image.underwaterelectricalconnectors.com/product/lw-sxj0d-200-2pin-coaxial-underwater-connector-2.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/lw-sxj0d-200-2pin-coaxial-underwater-connector-3.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/lw-sxj0d-200-2pin-coaxial-underwater-connector-4.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/lw-sxj0d-200-2pin-coaxial-underwater-connector-5.jpg"
+	  ],
+	  "product_description": [
+		"LW-SXJ0D-200同軸水中コネクタは、CCTV、漁業システム、工業用カメラ、海底ROV監視向けに設計された高性能Subconnスタイルのコネクタです。耐腐食性のステンレス鋼で作られ、IP68等級を備えたこの2ピン同軸コネクタは、過酷な海洋環境での長期信頼性を保証します。1920(H) x 1080(V)の解像度で1080P 25fps/30fpsの伝送をサポートし、コンパクトな32x32mmサイズでカメラハウジングに容易に統合できます。DC12V（±20%）の電源入力と65mAの消費電流を組み合わせ、湿った条件下でも最大60℃でクリアな同軸信号を提供します。"
+	  ],
+	  "product_parameter": [
+		"ブランド: HYSF",
+		"モデル番号: LW-SXJ0D-200",
+		"タイプ: 同軸Subconnスタイル防水コネクタ",
+		"用途: 水中カメラ、CCTV、漁業システム、工業監視機器、ROV",
+		"ピンの数: 2P同軸",
+		"解像度: 1920(H) x 1080(V)",
+		"フレームレート: 1080P@25fps / 30fps",
+		"シャッター: 自動",
+		"電源: DC12V（±20%）",
+		"消費電力: 65mA",
+		"素材: ステンレス鋼および金属",
+		"カラー: グレー",
+		"形状: 円形",
+		"IP等級: IP68",
+		"動作温度: -20℃ ～ +60℃",
+		"動作湿度: ≤90% RH",
+		"コネクタサイズ: 32mm x 32mm",
+		"性別: オス",
+		"原産地: 中国、山東省",
+		"認証: TUV、CE、CCC"
+	  ],
+	  "faq": [
+		{
+		  "question": "このコネクタはどのような水中機器に使用されますか？",
+		  "answer": "このコネクタは、漁業ビデオシステム、水中ROVカメラ、CCTV、工業海洋監視などのHD水中カメラに最適です。"
+		},
+		{
+		  "question": "ライブHDビデオストリーミングに適していますか？",
+		  "answer": "はい、LW-SXJ0D-200は1080P解像度で25fpsまたは30fpsをサポートし、安定した高品質の水中ビデオ伝送に最適です。"
+		},
+		{
+		  "question": "防水等級と素材は何ですか？",
+		  "answer": "IP68等級で、ステンレス鋼と海洋グレードの金属で作られており、腐食性の水中環境に適しています。"
+		},
+		{
+		  "question": "過酷な水中条件下で動作できますか？",
+		  "answer": "はい、-20℃から60℃、最大90%の相対湿度で動作するよう設計されており、海底や高圧環境向けに最適化されています。"
+		},
+		{
+		  "question": "これは標準のSubconnタイプのコネクタですか？",
+		  "answer": "はい、標準の海洋および工業用水中システムと互換性のあるSubconnスタイルの構成を採用しています。"
+		}
+	  ]
+	},
+	{
+	  "title": "MRUC RF同軸マイクロ水中コネクタ",
+	  "focus": "MRUC",
+	  "slug": "/mruc-rf-coaxial-micro-underwater-connector",
+	  "collection": "Micro Underwater Connectors",
+	  "description": "MRUCミニチュアBNCタイプIP68水中RFコネクタは、金メッキ真鍮接点で0～7.5GHzの同軸伝送をサポート。ROV、AUV、水中カメラシステムのHDビデオリンクに最適。",
+	  "main_image": "https://image.underwaterelectricalconnectors.com/product/mruc-rf-coaxial-micro-underwater-connector-1.jpg",
+	  "image_list": [
+		"https://image.underwaterelectricalconnectors.com/product/mruc-rf-coaxial-micro-underwater-connector-2.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/mruc-rf-coaxial-micro-underwater-connector-3.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/mruc-rf-coaxial-micro-underwater-connector-4.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/mruc-rf-coaxial-micro-underwater-connector-5.jpg"
+	  ],
+	  "product_description": [
+		"MRUC RF同軸マイクロ水中コネクタは、HDビデオおよびRF信号伝送用のコンパクトな高周波BNCスタイルのソリューションです。ROV、AUV、海洋カメラシステムに最適で、RG58同軸RFケーブル上で0～7.5GHzの動作周波数をサポートします。このコネクタは、優れた信号品質を保証する堅牢なステンレス鋼、海洋銅、またはチタン製シェルと金メッキ真鍮接点を備えています。IP68保護と100～3000mの深度評価により、過酷な海洋環境での信頼性の高い性能を確保します。ロックキャップ、スナップリング、Oリングなどの完全な取り付けアクセサリが付属しています。"
+	  ],
+	  "product_parameter": [
+		"ブランド: HYSF",
+		"モデル番号: MRUC",
+		"タイプ: マイクロBNCスタイル水中RFコネクタ",
+		"用途: ROV、AUV、水中HDビデオ、海洋RF信号システム",
+		"無線周波数範囲: 0～7.5GHz",
+		"接点素材: 金メッキ真鍮",
+		"シェル素材: ステンレス鋼、海洋銅、またはチタン",
+		"シーリング素材: ネオプレン",
+		"ケーブルタイプ: RG58同軸RFケーブル",
+		"ケーブル引張強度: 50kg",
+		"防水等級: IP68",
+		"動作深度: 100m～3000m",
+		"性別: オスおよびメス",
+		"標準アクセサリ: スナップリング、ロックキャップ、Oリング、ワッシャー、ナット",
+		"原産地: 中国、山東省",
+		"認証: TUV、CE、CCC",
+		"最小発注数量: 1セット"
+	  ],
+	  "faq": [
+		{
+		  "question": "このコネクタがサポートする最大RF周波数は？",
+		  "answer": "MRUC水中RFコネクタは0～7.5GHzの周波数をサポートし、高精細ビデオおよびRF信号伝送に最適です。"
+		},
+		{
+		  "question": "RG58同軸ケーブルと互換性がありますか？",
+		  "answer": "はい、水中通信およびビデオシステム向けにRG58同軸RFケーブルで動作するよう設計されています。"
+		},
+		{
+		  "question": "耐腐食性にはどのような素材が使用されていますか？",
+		  "answer": "コネクタは、海洋条件下での優れた耐久性と耐腐食性を確保するために、ステンレス鋼、海洋銅、またはチタンで作られています。"
+		},
+		{
+		  "question": "このコネクタはどのくらいの深さで動作できますか？",
+		  "answer": "100～3000mの深度での水中操作に対応し、IP68防水シーリングを安全にサポートします。"
+		},
+		{
+		  "question": "どのようなアクセサリが含まれていますか？",
+		  "answer": "標準構成には、スナップリング、ロックキャップ、オスおよびメス端、Oリング、ワッシャー、ナットが含まれ、確実な取り付けが可能です。"
+		}
+	  ]
+	},
+	{
+	  "title": "RTIE1-4M-DZ 4ピン水中コネクタ",
+	  "focus": "RTIE1-4M-DZ",
+	  "slug": "/rtie1-4m-dz-4pin-underwater-connector",
+	  "collection": "Bulkhead Underwater Connectors",
+	  "description": "RTIE1-4M-DZ 4ピンステンレス鋼水中コネクタは、Teledyne Impulse互換、IP68等級で、ROV、水中ランプ、海洋ロボットに使用。600V/3A仕様と10000psiの耐圧性で海底信頼性を確保。",
+	  "main_image": "https://image.underwaterelectricalconnectors.com/product/rtie1-4m-dz-4pin-underwater-connector-1.jpg",
+	  "image_list": [
+		"https://image.underwaterelectricalconnectors.com/product/rtie1-4m-dz-4pin-underwater-connector-2.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/rtie1-4m-dz-4pin-underwater-connector-3.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/rtie1-4m-dz-4pin-underwater-connector-4.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/rtie1-4m-dz-4pin-underwater-connector-5.jpg"
+	  ],
+	  "product_description": [
+		"RTIE1-4M-DZ 4ピン水中コネクタは、Teledyne Impulseスタイルのコネクタと互換性のある高精度海底ソリューションです。ROV、水中照明システム、海洋ロボット向けに設計され、堅牢なステンレス鋼ボディを備え、600V動作とピンあたり3Aの電流容量をサポートします。最大10000psiの水圧耐性とIP68シーリングにより、極端な水中環境での安全な電力分配を保証します。バルクヘッドまたはインライン構成で使用でき、長期的な海底展開において耐腐食性と電気的完全性を提供します。"
+	  ],
+	  "product_parameter": [
+		"ブランド: HYSF",
+		"モデル番号: RTIE1-4M-DZ",
+		"タイプ: Teledyne Impulse互換円形コネクタ",
+		"用途: ROV、水中照明、海洋ロボティクス、海底電力システム",
+		"ピンの数: 4P",
+		"定格電流: ピンあたり3A",
+		"定格電圧: 600V",
+		"接続タイプ: バルクヘッドおよびインライン",
+		"性別: オスおよびメス",
+		"シェル素材: ステンレス鋼",
+		"シーリングタイプ: IP68防水",
+		"耐水圧: 10000psi",
+		"原産地: 中国、山東省",
+		"認証: TUV、CE、CCC"
+	  ],
+	  "faq": [
+		{
+		  "question": "RTIE1-4M-DZコネクタはTeledyne Impulseシステムと互換性がありますか？",
+		  "answer": "はい、既存のROVおよび海底システムにシームレスに統合できるTeledyne Impulseスタイルの水中コネクタと互換性があります。"
+		},
+		{
+		  "question": "このコネクタの最大動作圧力評価は？",
+		  "answer": "最大10000psiの水圧に耐え、深海操作に適しています。"
+		},
+		{
+		  "question": "水中照明システムに使用できますか？",
+		  "answer": "はい、RTIE1-4M-DZは、防水接続が必要な水中ライト、ヘッドランプ、その他の海洋電気機器の電力供給に最適です。"
+		},
+		{
+		  "question": "どのような環境向けに設計されていますか？",
+		  "answer": "海底ロボット、海洋システム、ウェットメイト用途など、過酷な海洋環境向けに設計されています。"
+		},
+		{
+		  "question": "このコネクタの電気仕様は？",
+		  "answer": "最大600Vおよびピンあたり3Aをサポートし、低～中電力の海底電気接続に適しています。"
+		}
+	  ]
+	},
+	{
+	  "title": "ST-1 6ピン水中コネクタ",
+	  "focus": "ST-1",
+	  "slug": "/st-1-6pin-underwater-connector",
+	  "collection": "Bulkhead Underwater Connectors",
+	  "description": "ST-1 6ピンSubconnスタイルIP68防水コネクタは、ROV、水中ドローン、海洋カメラ向け。プラグ可能なウェットメイト設計で、最大7000mの深海操作をサポート。",
+	  "main_image": "https://image.underwaterelectricalconnectors.com/product/st-1-6pin-underwater-connector-1.jpg",
+	  "image_list": [
+		"https://image.underwaterelectricalconnectors.com/product/st-1-6pin-underwater-connector-2.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/st-1-6pin-underwater-connector-3.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/st-1-6pin-underwater-connector-4.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/st-1-6pin-underwater-connector-5.jpg"
+	  ],
+	  "product_description": [
+		"ST-1 6ピン水中コネクタは、ROV、ミニ水中ドローン、深海ロボット、海洋カメラシステム向けに設計されたSubconnスタイルのウェットプラグソリューションです。堅牢なIP68防水等級を備え、このコンパクトなコネクタは最大7000mの浸水深度で動作可能です。両端のオス-メスケーブルセットアップにより、狭い海底レイアウトでの柔軟な設置が可能です。316Lステンレス鋼構造により耐腐食性を確保し、6ピンの構成は要求の厳しい海洋環境での電力伝送または信号転送をサポートします。500回以上の嵌合サイクルに対応し、耐久性が不可欠な海底接続ソリューションとして信頼性があります。"
+	  ],
+	  "product_parameter": [
+		"ブランド: HYSF",
+		"モデル番号: ST-1",
+		"タイプ: Subconnスタイル円形水中コネクタ",
+		"用途: ROV、ミニドローン、深海ロボット、潜水艦光学システム、水中カメラ",
+		"ピンの数: 6P",
+		"定格電流: シングルコア（ピンごとのカスタムオプション）",
+		"接点素材: 銅合金（金メッキ）",
+		"シェル素材: 316Lステンレス鋼",
+		"カラー: ブラック",
+		"IP等級: IP68",
+		"耐水深: 最大7000m",
+		"嵌合サイクル: 500回以上",
+		"性別: オスおよびメス",
+		"原産地: 中国、山東省",
+		"認証: TUV、CE、CCC",
+		"最小発注数量: 1個"
+	  ],
+	  "faq": [
+		{
+		  "question": "ST-1 6ピンコネクタと互換性のあるデバイスは何ですか？",
+		  "answer": "水中ドローン、ROV、深海ロボット、防水カメラ、Subconnインターフェースを備えたその他の海洋システムと互換性があります。"
+		},
+		{
+		  "question": "このコネクタはどのくらいの深さに展開できますか？",
+		  "answer": "ST-1コネクタは、過酷な海底条件下で最大7000mの深さで動作するように設計されています。"
+		},
+		{
+		  "question": "複数回の潜水で再利用可能ですか？",
+		  "answer": "はい、500回以上の嵌合サイクルをサポートし、繰り返しの水中展開での信頼性を確保します。"
+		},
+		{
+		  "question": "水中耐性にはどのような素材が使用されていますか？",
+		  "answer": "コネクタは、優れた耐腐食性と耐圧性を提供する海洋グレードの316Lステンレス鋼で作られています。"
+		},
+		{
+		  "question": "これはウェットメイト可能な水中コネクタですか？",
+		  "answer": "はい、ST-1は湿った環境でプラグ可能であり、重要な海洋操作での水中嵌合向けに設計されています。"
+		}
+	  ]
+	},
+	{
+	  "title": "UC 1045 2ピンRMG-2FS水中溶接ケーブルコネクタ",
+	  "focus": "UC 1045",
+	  "slug": "/uc-1045-2pin-rmg-2fs-underwater-welding-cable-connector",
+	  "collection": "Custom Underwater Connectors",
+	  "description": "UC 1045 RMG-2FS 2ピン水中コネクタは、ROVおよび深海ロボットの溶接ケーブル向けに設計。IP68等級で、600Vで10Aの電力をサポートし、最大7000mの深さで動作、カスタマイズ可能な長さのネオプレンボディ。",
+	  "main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1045-2pin-rmg-2fs-underwater-welding-cable-connector-1.jpg",
+	  "image_list": [
+		"https://image.underwaterelectricalconnectors.com/product/uc-1045-2pin-rmg-2fs-underwater-welding-cable-connector-2.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1045-2pin-rmg-2fs-underwater-welding-cable-connector-3.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1045-2pin-rmg-2fs-underwater-welding-cable-connector-4.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1045-2pin-rmg-2fs-underwater-welding-cable-connector-5.jpg"
+	  ],
+	  "product_description": [
+		"UC 1045 2ピンRMG-2FS水中溶接ケーブルコネクタは、ROVロボットシステムおよび海底溶接作業向けに特化したソリューションです。Impulse RMG-2FS規格に相当し、成形されたネオプレンボディで優れた水中絶縁性と強度を提供します。コアあたり600Vで10Aの電流をサポートし、最大7000mの海洋深度での使用に適した優れたIP68シーリングを備えています。絶縁抵抗は200MΩを超え、接触抵抗は0.01Ω未満で、安定した電力供給を実現します。極端な海洋環境に適しており、海底統合ニーズに合わせてカスタマイズ可能なケーブル長が可能です。"
+	  ],
+	  "product_parameter": [
+		"ブランド: HYSF",
+		"モデル番号: UC 1045",
+		"タイプ: RMG-2FSスタイル水中溶接ケーブルコネクタ",
+		"用途: ROV、水中溶接、深海ロボティクス、海洋電力供給システム",
+		"接点数: 2ピン",
+		"定格電圧: 600V DC/AC",
+		"定格電流: シングルコア10A",
+		"絶縁抵抗: >200MΩ",
+		"接触抵抗: <0.01Ω",
+		"ボディ素材: ネオプレン",
+		"防水等級: IP68",
+		"動作深度: 最大7000m",
+		"温度範囲: -4℃ ～ +60℃",
+		"ワイヤー長: カスタマイズ可能",
+		"性別: オス",
+		"最小発注数量: 2セット",
+		"原産地: 中国、山東省",
+		"認証: TUV、CE、CCC"
+	  ],
+	  "faq": [
+		{
+		  "question": "UC 1045コネクタはImpulse RMG-2FS規格と互換性がありますか？",
+		  "answer": "はい、RMG-2FS仕様に適合する互換性のある代替ソリューションとして設計されており、水中溶接用途に適しています。"
+		},
+		{
+		  "question": "最大動作深度は？",
+		  "answer": "コネクタは最大7000mの深さで信頼性の高い性能を発揮し、完全なIP68防水保護を備えています。"
+		},
+		{
+		  "question": "異なる設置向けにワイヤー長をカスタマイズできますか？",
+		  "answer": "はい、ケーブル長は特定の水中統合要件に合わせてカスタマイズ可能です。"
+		},
+		{
+		  "question": "どのような電気的性能が期待できますか？",
+		  "answer": "UC 1045は600Vおよびピンあたり10Aをサポートし、絶縁抵抗は200MΩ以上、接触抵抗は0.01Ω未満で効率的な電力伝送を実現します。"
+		},
+		{
+		  "question": "このコネクタはどのような水中用途に適していますか？",
+		  "answer": "水中溶接、ROV電力システム、深海ロボティクス、密閉された高電流水中接続が必要な用途に最適です。"
+		}
+	  ]
+	},
+	{
+	  "title": "UC 1052 2ピン水中スプリットケーブルコネクタ",
+	  "focus": "UC 1052",
+	  "slug": "/uc-1052-2pin-underwater-split-cable-connector",
+	  "collection": "Custom Underwater Connectors",
+	  "description": "UC 1052 2ピンカスタマイズSubconnスタイルスプリット水中コネクタは、電力および海底機器向け。316ステンレス鋼製、IP68等級、300～600Vをサポートし、極端な条件下での防水接続を実現。",
+	  "main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1052-2pin-underwater-split-cable-connector-1.jpg",
+	  "image_list": [
+		"https://image.underwaterelectricalconnectors.com/product/uc-1052-2pin-underwater-split-cable-connector-2.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1052-2pin-underwater-split-cable-connector-3.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1052-2pin-underwater-split-cable-connector-4.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1052-2pin-underwater-split-cable-connector-5.jpg"
+	  ],
+	  "product_description": [
+		"UC 1052 2ピン水中スプリットケーブルコネクタは、海底機器およびROVシステム向けに特化したミニチュア円形コネクタです。316ステンレス鋼シェルとネオプレン製アウトレットテールを備えたこの防水コネクタは、2～16ピンの構成をサポートし、コンパクトな水中アセンブリに最適です。300V～600V DCの電圧を処理し、最大70MPaの圧力に耐える設計で、標準およびカスタム海洋環境に適しています。PEEKおよび金メッキ真鍮フェルールピンを採用し、-40℃～+80℃の動作範囲で、堅牢なSubconnスタイルのコネクタとして高性能と長期的な水中信頼性を保証します。"
+	  ],
+	  "product_parameter": [
+		"ブランド: HYSF",
+		"モデル番号: UC 1052",
+		"タイプ: ミニチュアSubconnスタイル円形スプリットケーブルコネクタ",
+		"用途: 電力、海底機器、ROV、水中ロボティクス",
+		"接点数: 2～16ピン",
+		"動作電圧: 300～600V DC",
+		"耐圧: 70MPa",
+		"シェル素材: 316ステンレス鋼",
+		"アウトレットテール導体: ネオプレン",
+		"フェルールピンの素材: PEEK、金メッキ真鍮",
+		"性別: オスからメス",
+		"動作温度: -40℃ ～ 80℃",
+		"防水等級: IP68",
+		"原産地: 中国、山東省",
+		"認証: TUV、CE、CCC",
+		"最小発注数量: 1セット"
+	  ],
+	  "faq": [
+		{
+		  "question": "UC 1052コネクタはどのような用途に設計されていますか？",
+		  "answer": "深海環境での防水電力分配が必要な海底機器、ROV、水中ロボティクス、システムに最適です。"
+		},
+		{
+		  "question": "深海用途向けに圧力評価されていますか？",
+		  "answer": "はい、UC 1052は最大70MPaに耐える評価を受けており、高圧海底展開に適しています。"
+		},
+		{
+		  "question": "最大耐久性のための素材は何ですか？",
+		  "answer": "コネクタは316ステンレス鋼シェル、PEEKおよび金メッキ真鍮の接点、確実なシーリングと柔軟性を提供するネオプレンテールを備えています。"
+		},
+		{
+		  "question": "異なるピンの構成で入手できますか？",
+		  "answer": "はい、UC 1052は2～16ピンの構成をサポートし、さまざまな海底電力および信号ニーズに対応します。"
+		},
+		{
+		  "question": "このコネクタは防水ですか？",
+		  "answer": "もちろんです。IP68等級で、過酷な海洋および工業環境での長期水中使用向けに設計されています。"
+		}
+	  ]
+	},
+	{
+	  "title": "UC 1053 8ピン水中コネクタ",
+	  "focus": "UC 1053",
+	  "slug": "/uc-1053-8pin-underwater-connector",
+	  "collection": "Bulkhead Underwater Connectors",
+	  "description": "UC 1053 8ピンSubconn G2スタイルIP68海洋コネクタは、深海ROVおよび海底機器向けに設計。ステンレス鋼ハウジング、ネオプレンシーリング、70MPaの耐圧性で最大7000mの深さの操作をサポート。",
+	  "main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1053-8pin-underwater-connector-1.jpg",
+	  "image_list": [
+		"https://image.underwaterelectricalconnectors.com/product/uc-1053-8pin-underwater-connector-2.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1053-8pin-underwater-connector-3.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1053-8pin-underwater-connector-4.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1053-8pin-underwater-connector-5.jpg"
+	  ],
+	  "product_description": [
+		"UC 1053 8ピン水中コネクタは、ROV、深海ロボット、水中システムでの海洋電力および信号伝送向けに設計された堅牢なSubconn G2スタイルの海底コネクタです。IP68防水シーリング、316ステンレス鋼シェル、ネオプレンケーブルテールを備え、最大70MPaの圧力に耐え、7000mの深さでの展開をサポートします。PEEKに収められた金メッキ真鍮接点は優れた導電性と耐腐食性を提供し、8ピンの構成はマルチチャンネルの電力またはデータ用途に対応します。安全で耐久性のある海洋接続が重要な過酷な海底環境に最適です。"
+	  ],
+	  "product_parameter": [
+		"ブランド: HYSF",
+		"モデル番号: UC 1053",
+		"タイプ: Subconn G2スタイルバルクヘッド水中コネクタ",
+		"用途: 電力、海底機器、ROV、深海ロボティクス",
+		"ピンの数: 8ピン",
+		"動作電圧: 300～600V DC",
+		"耐圧: 70MPa",
+		"シェル素材: 316ステンレス鋼",
+		"アウトレットテール導体: ネオプレン",
+		"フェルールピンの素材: PEEK + 金メッキ真鍮",
+		"防水等級: IP68",
+		"動作深度: 最大7000m",
+		"動作環境: -40℃ ～ 80℃",
+		"性別: オスおよびメス",
+		"原産地: 中国、山東省",
+		"認証: TUV、CE、CCC",
+		"最小発注数量: 1セット"
+	  ],
+	  "faq": [
+		{
+		  "question": "UC 1053水中コネクタはどのような用途に適していますか？",
+		  "answer": "海底電力システム、深海ロボット、海洋機器、ROV、その他のマルチピンの防水接続が必要な水中セットアップに最適です。"
+		},
+		{
+		  "question": "コネクタが耐えられる圧力は？",
+		  "answer": "UC 1053は最大70MPaの圧力に耐える評価を受けており、最大7000mの水中深度に適しています。"
+		},
+		{
+		  "question": "耐腐食保護にはどのような素材が使用されていますか？",
+		  "answer": "316ステンレス鋼シェル、PEEKピンハウジング、金メッキ真鍮接点を備え、優れた耐腐食性と耐圧性を確保します。"
+		},
+		{
+		  "question": "バルクヘッド構成で利用可能ですか？",
+		  "answer": "はい、UC 1053はバルクヘッドおよびインラインマウント用に設計されており、パネルやハウジングシステムにシームレスに統合できます。"
+		},
+		{
+		  "question": "何本の信号または電力ラインを処理できますか？",
+		  "answer": "8ピンをサポートし、海洋システム要件に応じて複数の信号および電力ラインの組み合わせが可能です。"
+		}
+	  ]
+	},
+	{
+	  "title": "UC 1057 1ピン水中コネクタ",
+	  "focus": "UC 1057",
+	  "slug": "/uc-1057-1pin-underwater-connector",
+	  "collection": "Micro Underwater Connectors",
+	  "description": "UC 1057 Subconnスタイル1ピン円形水中コネクタは、ROVおよび海底電力システム向けにIP68シーリング。コンパクトでプラグ可能、海洋スクーター、RF同軸ケーブル、湿った潜水艦電力供給に最適。",
+	  "main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1057-1pin-underwater-connector-1.jpg",
+	  "image_list": [
+		"https://image.underwaterelectricalconnectors.com/product/uc-1057-1pin-underwater-connector-2.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1057-1pin-underwater-connector-3.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1057-1pin-underwater-connector-4.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1057-1pin-underwater-connector-5.jpg"
+	  ],
+	  "product_description": [
+		"UC 1057 1ピン水中コネクタは、海洋パワースクーター、ROV、海底電力機器向けのSubconnスタイルのRFおよび電力インターフェースソリューションです。防水ポリウレタン（PU）ハウジングと銅メッキ金接点を備え、塩水および深海環境での長期性能を保証します。コンパクトな円形プロファイルとウェットプラグ機能を備え、水中ロボティクスやポータブル海洋電子機器での高信頼性の電力および同軸信号伝送に最適です。海洋グレードの耐久性とIP68シーリングに最適化されており、ROVや工業用水中用途の深度に適しています。"
+	  ],
+	  "product_parameter": [
+		"ブランド: HYSF",
+		"モデル番号: UC 1057",
+		"タイプ: 円形Subconnスタイル水中コネクタ",
+		"用途: ROV、海洋スクーター、RF同軸リンク、海底電力システム",
+		"ピンの数: 1ピン",
+		"接点素材: 銅メッキ金",
+		"ハウジング素材: ポリウレタン（PU）",
+		"形状: 円形",
+		"防水等級: IP68",
+		"機能: 海底機器の電力伝送",
+		"性別: オス/メス",
+		"定格電流: 用途ごとのカスタム",
+		"原産地: 中国、山東省",
+		"認証: TUV、CE、CCC",
+		"パッケージ: カートン",
+		"支払条件: 100% T/T、Mastercard、VISA、PayPal、e-Checking"
+	  ],
+	  "faq": [
+		{
+		  "question": "UC 1057コネクタはどのような水中デバイスと互換性がありますか？",
+		  "answer": "ROV、水中スクーター、電力モジュール、海洋および工業環境でのRF同軸信号分配に最適です。"
+		},
+		{
+		  "question": "ウェットプラグ操作をサポートしますか？",
+		  "answer": "はい、UC 1057はウェットメイト用途向けに設計されており、浸水中に安全な接続と切断が可能です。"
+		},
+		{
+		  "question": "シェルの構造素材は何ですか？",
+		  "answer": "海洋グレードのポリウレタン（PU）で作られており、圧力下での優れた耐久性とシーリング性能を提供します。"
+		},
+		{
+		  "question": "電気インターフェースはどのように処理されますか？",
+		  "answer": "最適な導電性と塩水環境での耐腐食性のために、高品質の銅接点に金をメッキしています。"
+		},
+		{
+		  "question": "電力および信号用途に適していますか？",
+		  "answer": "はい、シングルピンの構成は低電圧電力供給およびRF同軸信号伝送の両方に最適です。"
+		}
+	  ]
+	},
+	{
+	  "title": "UC 1058 同軸水中RFコネクタ",
+	  "focus": "UC 1058",
+	  "slug": "/uc-1058-coaxial-underwater-rf-connector",
+	  "collection": "Custom Underwater Connectors",
+	  "description": "UC 1058 IP68同軸水中RFコネクタは、ROV通信および海底機器向けにカスタムケーブル長をサポート。ステンレス鋼ハウジングにより、深海RFおよび信号用途での耐久性を確保。",
+	  "main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1058-coaxial-underwater-rf-connector-1.jpg",
+	  "image_list": [
+		"https://image.underwaterelectricalconnectors.com/product/uc-1058-coaxial-underwater-rf-connector-2.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1058-coaxial-underwater-rf-connector-3.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1058-coaxial-underwater-rf-connector-4.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1058-coaxial-underwater-rf-connector-5.jpg"
+	  ],
+	  "product_description": [
+		"UC 1058同軸水中RFコネクタは、ROVシステム、海底通信アレイ、水中電子モジュールなどの過酷な海洋環境での高周波信号伝送向けに設計されています。優れた耐腐食性を備えたステンレス鋼ハウジングを採用し、IP68シーリングを備え、さまざまな展開シナリオに適したカスタマイズされたケーブル長をサポートします。円形のコンパクトなフォームファクターとオス-メス構成により、Subconnスタイルのインターフェースと互換性があります。RFおよびデータ信号用途に最適で、高性能と長期耐久性を必要とする水中通信アプリケーションに信頼できる選択肢です。"
+	  ],
+	  "product_parameter": [
+		"ブランド: HYSF",
+		"モデル番号: UC 1058",
+		"タイプ: 同軸Subconnスタイル水中RFコネクタ",
+		"用途: RF通信、海底機器、水中ROVシステム",
+		"ハウジング素材: ステンレス鋼",
+		"防水レベル: IP68",
+		"形状: 円形",
+		"機能: 深海RF信号通信",
+		"ワイヤー長: カスタマイズ可能",
+		"性別: オスおよびメス",
+		"カラーオプション: シルバー、ブラック、ブルー",
+		"サイズ: 複数仕様（カスタム対応可能）",
+		"原産地: 中国、山東省",
+		"認証: TUV、CE、CCC",
+		"最小発注数量: 1セット",
+		"支払条件: 100% T/T、Mastercard、VISA、PayPal、e-Checking"
+	  ],
+	  "faq": [
+		{
+		  "question": "UC 1058は水中RF通信に適していますか？",
+		  "answer": "はい、UC 1058はROVや海底機器などの水中環境でのRF信号伝送向けに特化して設計されています。"
+		},
+		{
+		  "question": "このコネクタのケーブル長をカスタムできますか？",
+		  "answer": "もちろんです。特定の統合および展開ニーズを満たすために、カスタムワイヤー長をサポートしています。"
+		},
+		{
+		  "question": "UC 1058コネクタの防水等級は何ですか？",
+		  "answer": "IP68等級で、海洋および海底環境での浸水操作に適しています。"
+		},
+		{
+		  "question": "このコネクタの構造に使用されている素材は何ですか？",
+		  "answer": "コネクタは、長期水中使用向けに設計された耐腐食性のステンレス鋼ハウジングを備えています。"
+		},
+		{
+		  "question": "Subconnスタイルのシステムと互換性がありますか？",
+		  "answer": "はい、標準の水中通信インターフェースと互換性のあるSubconnスタイルの円形フォーマットを採用しています。"
+		}
+	  ]
+	},
+	{
+	  "title": "UC 1059 7ピンSeacon水中コネクタ",
+	  "focus": "UC 1059",
+	  "slug": "/uc-1059-7pin-seacon-underwater-connector",
+	  "collection": "Micro Underwater Connectors",
+	  "description": "UC 1059 Seaconスタイル7ピンマイクロ円形水中コネクタは、ROV電力および信号用途向けにIP68等級。金メッキ銅接点とPUハウジングにより、深海環境での信頼性の高い海洋操作を保証。",
+	  "main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1059-7pin-seacon-underwater-connector-1.jpg",
+	  "image_list": [
+		"https://image.underwaterelectricalconnectors.com/product/uc-1059-7pin-seacon-underwater-connector-2.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1059-7pin-seacon-underwater-connector-3.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1059-7pin-seacon-underwater-connector-4.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1059-7pin-seacon-underwater-connector-5.jpg"
+	  ],
+	  "product_description": [
+		"UC 1059 7ピンSeacon水中コネクタは、深海海底機器およびROV電力システム向けに特化して設計された高性能マイクロ円形コネクタです。堅牢なIP68防水等級を備え、このプラグ可能なウェットメイトコネクタは塩水環境での安定した性能を保証します。耐久性のある黒色ポリウレタン（PU）ハウジングに収められた7つの金メッキ銅接点ピンは、腐食、水の浸入、機械的ストレスに耐えます。水中電力分配、RCAケーブル、ロボット制御システム、海洋センサープラットフォームに最適です。安全で密封された信頼性の高い接続が必要な遠隔または極端な水中ゾーンでの展開に理想的です。"
+	  ],
+	  "product_parameter": [
+		"ブランド: HYSF",
+		"モデル番号: UC 1059",
+		"タイプ: マイクロ円形Seaconスタイル水中コネクタ",
+		"用途: 電力、深海機器、海洋ROVシステム、RCAケーブル用途",
+		"ピンの数: 7ピン",
+		"防水等級: IP68",
+		"接点素材: 銅メッキ金",
+		"ハウジング素材: ポリウレタン（PU）",
+		"機能: 海底機器の電力および信号供給",
+		"カラー: ブラック",
+		"性別: オスおよびメス",
+		"パッケージ: カートン",
+		"原産地: 中国、山東省",
+		"認証: TUV、CE、CCC",
+		"最小発注数量: 1個",
+		"支払条件: 100% T/T、Mastercard、VISA、PayPal、e-Checking"
+	  ],
+	  "faq": [
+		{
+		  "question": "UC 1059水中コネクタはどのような用途に適していますか？",
+		  "answer": "深海での電力および信号伝送、海洋ロボティクス、ROV、RCAケーブルシステム、海底センサー統合に設計されています。"
+		},
+		{
+		  "question": "深海条件下で防水ですか？",
+		  "answer": "はい、IP68等級で、完全なプラグ可能なウェットメイト機能を備え、水中環境での信頼性の高い性能を発揮します。"
+		},
+		{
+		  "question": "接点とシェルに使用されている素材は何ですか？",
+		  "answer": "優れた導電性と耐腐食性のために銅接点に金をメッキし、弾力性のあるポリウレタン（PU）外殻を採用しています。"
+		},
+		{
+		  "question": "RCAスタイルのケーブルに使用できますか？",
+		  "answer": "はい、RCAおよびその他の低電圧信号ケーブルに対応し、水中AVまたは制御システム用途に適しています。"
+		},
+		{
+		  "question": "高圧海底構築に適していますか？",
+		  "answer": "もちろんです。強力なシーリング、信頼性の高い電気性能、耐腐食性を備え、過酷な海底条件下に適しています。"
+		}
+	  ]
+	},
+	{
+	  "title": "UC 1061 30ピン水中電力コネクタ",
+	  "focus": "UC 1061",
+	  "slug": "/uc-1061-30pin-underwater-power-connector",
+	  "collection": "High-Current Underwater Connectors",
+	  "description": "UC 1061 30ピンIP68円形水中コネクタは、高密度海洋電力システムおよび海底カメラ向けに設計。深海ROVおよび水中ロボティクスに最適で、防水マルチ信号伝送を要求。",
+	  "main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1061-30pin-underwater-power-connector-1.jpg",
+	  "image_list": [
+		"https://image.underwaterelectricalconnectors.com/product/uc-1061-30pin-underwater-power-connector-2.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1061-30pin-underwater-power-connector-3.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1061-30pin-underwater-power-connector-4.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1061-30pin-underwater-power-connector-5.jpg"
+	  ],
+	  "product_description": [
+		"UC 1061 30ピン水中電力コネクタは、水中産業機器、ROVプラットフォーム、海洋カメラシステム向けに設計された高容量Subconnスタイルのソリューションです。堅牢な円形防水設計とIP68等級により、深海環境での安全で防水な信号および電力伝送を保証します。海洋グレードのPU素材で作られ、カスタマイズ可能なワイヤー長を備え、-20℃から60℃の動作温度に耐えます。バルク電力分配、信号ルーティング、完全なワイヤーハーネス統合に最適で、海底電力ネットワークでの安全な嵌合と途切れない通信をサポートします。"
+	  ],
+	  "product_parameter": [
+		"ブランド: HYSF",
+		"モデル番号: UC 1061",
+		"タイプ: 円形Subconnスタイル水中コネクタプラグ",
+		"用途: 海洋電力システム、ROV、水中DCカメラ、海底操作",
+		"ピンの数: 30ピン",
+		"形状: 円形",
+		"防水等級: IP68",
+		"素材: PU（ポリウレタン）外殻",
+		"温度範囲: -20℃ ～ +60℃",
+		"接点素材: 銅合金（リクエストに応じて金メッキ）",
+		"性別: メス",
+		"ワイヤー長: カスタマイズ可能",
+		"カラー: ブラック",
+		"原産地: 中国、山東省",
+		"認証: TUV、CE、CCC",
+		"最小発注数量: 1セット",
+		"パッケージ: カートン",
+		"支払条件: 100% T/T、Mastercard、VISA、PayPal、e-Checking"
+	  ],
+	  "faq": [
+		{
+		  "question": "UC 1061コネクタはどのようなデバイスに適していますか？",
+		  "answer": "ROV、海洋カメラシステム、水中DC電子機器、深海機器の電力分配に最適です。"
+		},
+		{
+		  "question": "UC 1061コネクタは何ピンをサポートしますか？",
+		  "answer": "UC 1061モデルは30ピンを備え、海洋システムでの高密度電力および信号用途に適しています。"
+		},
+		{
+		  "question": "この防水コネクタは過酷な水中環境で安全ですか？",
+		  "answer": "はい、UC 1061はIP68等級で、-20℃から60℃の温度耐性を持ち、水中環境での長期使用向けに設計されています。"
+		},
+		{
+		  "question": "このコネクタのワイヤー長をカスタマイズできますか？",
+		  "answer": "もちろんです。プロジェクトニーズと設置要件に応じてワイヤー長をカスタマイズできます。"
+		},
+		{
+		  "question": "信号と電力伝送の両方に適していますか？",
+		  "answer": "はい、30ピンと堅牢なシーリングにより、電力分配とマルチチャンネル信号伝送を同時に処理するのに最適です。"
+		}
+	  ]
+	},
+	{
+	  "title": "UC 1062 6ピン水中光ファイバーコネクタ",
+	  "focus": "UC 1062",
+	  "slug": "/uc-1062-6pin-underwater-fiber-optic-connector",
+	  "collection": "Custom Underwater Connectors",
+	  "description": "UC 1062 Subconnスタイル6ピン光ファイバー水中コネクタは、深海ネットワークおよび信号用途向け。シングルまたはマルチモードオプション、IP68防水、70MPaの耐圧性で海底データ通信をサポート。",
+	  "main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1062-6pin-underwater-fiber-optic-connector-1.jpg",
+	  "image_list": [
+		"https://image.underwaterelectricalconnectors.com/product/uc-1062-6pin-underwater-fiber-optic-connector-2.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1062-6pin-underwater-fiber-optic-connector-3.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1062-6pin-underwater-fiber-optic-connector-4.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1062-6pin-underwater-fiber-optic-connector-5.jpg"
+	  ],
+	  "product_description": [
+		"UC 1062 6ピン水中光ファイバーコネクタは、海底環境での高品質な光信号伝送向けに設計されています。深水ネットワークシステムへの統合を目的とし、このSubconnスタイルのコネクタはシングルモードおよびマルチモードファイバーのオプションをサポートします。IP68シーリングを備え、10～70MPaの圧力に耐え、重要な動作深度での信頼性の高い性能を発揮します。ステンレス鋼ハウジングとOリングシーリングにより長期的な耐腐食性を確保し、M27x2ねじ込みマウントは安全で安定した設置を提供します。潜水艦光ファイバー通信、海洋監視、ROVデータシステムに最適です。"
+	  ],
+	  "product_parameter": [
+		"ブランド: HYSF",
+		"モデル番号: UC 1062",
+		"タイプ: Subconnスタイル光ファイバー水中コネクタ",
+		"用途: 海底光ファイバーシステム、水中ネットワーク、海洋信号通信",
+		"ピンの数: 6ピン（光ファイバーインターフェース含む）",
+		"ファイバータイプ: シングルモード / マルチモード",
+		"防水レベル: IP68",
+		"深水耐圧: 10～70MPa",
+		"シェル素材: ステンレス鋼",
+		"シーリング素材: ニトリルブタジエンゴム / Oリング",
+		"取り付けねじ: M27x2",
+		"接続モード: 嵌合 / ナットロック",
+		"性別: メス",
+		"認証: CE、CQC",
+		"原産地: 中国、山東省",
+		"最小発注数量: 1個",
+		"支払条件: 100% T/T、Mastercard、Payoneer、e-Checking"
+	  ],
+	  "faq": [
+		{
+		  "question": "UC 1062ファイバーコネクタは深海環境に適していますか？",
+		  "answer": "はい、最大70MPaの水圧に耐え、オフショア、深海、海底ネットワーク操作の設置に最適です。"
+		},
+		{
+		  "question": "このコネクタはどのような光ファイバーモードをサポートしますか？",
+		  "answer": "UC 1062はシングルモードおよびマルチモード光ファイバーケーブルをサポートし、データ伝送ニーズに基づく柔軟な展開が可能です。"
+		},
+		{
+		  "question": "この光ファイバーコネクタはどのようなシーリング保護を提供しますか？",
+		  "answer": "IP68防水機能を備え、ニトリルブタジエンゴムOリングにより深海侵入に対する安全で信頼性の高いシーリングを実現します。"
+		},
+		{
+		  "question": "ネットワーク化された水中センサーシステムに使用できますか？",
+		  "answer": "もちろんです。水中センサーアレイ、監視システム、光ファイバー潜水艦ネットワークでの高容量データおよび信号通信向けに特化して設計されています。"
+		},
+		{
+		  "question": "コネクタはどのように設置され、固定されますか？",
+		  "answer": "コネクタはM27x2ねじ込みマウントとナットロック機構を使用し、振動や水圧下での信号損失を防ぐ安定した機械的結合を保証します。"
+		}
+	  ]
+	},
+	{
+	  "title": "UC 1063 1ピン同軸水中RFコネクタ",
+	  "focus": "UC 1063",
+	  "slug": "/uc-1063-1pin-coaxial-underwater-rf-connector",
+	  "collection": "Custom Underwater Connectors",
+	  "description": "UC 1063 Subconn互換1ピン防水IP68同軸RFコネクタは、ROVおよび潜水アンテナシステム向け。中性浮力ケーブルおよび海底通信用途の深海信号伝送に最適。",
+	  "main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1063-1pin-coaxial-underwater-rf-connector-1.jpg",
+	  "image_list": [
+		"https://image.underwaterelectricalconnectors.com/product/uc-1063-1pin-coaxial-underwater-rf-connector-2.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1063-1pin-coaxial-underwater-rf-connector-3.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1063-1pin-coaxial-underwater-rf-connector-4.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1063-1pin-coaxial-underwater-rf-connector-5.jpg"
+	  ],
+	  "product_description": [
+		"UC 1063 1ピン同軸水中RFコネクタは、中性浮力ROVケーブルおよび潜水アンテナシステム向けに設計されたSubconnスタイルの深海コネクタです。IP68防水等級と黒または青のオプション仕上げを備え、水中RF通信および電力用途での信頼性の高い信号伝送を保証します。シングルピンの同軸構造は、高圧環境でも高周波信号の完全性をサポートします。海底ロボティクス、アンテナインターフェース、長距離センサー通信に最適で、カスタマイズ可能なワイヤー長による柔軟な展開を備えた深海耐久性を提供します。"
+	  ],
+	  "product_parameter": [
+		"ブランド: HYSF",
+		"モデル番号: UC 1063",
+		"タイプ: 同軸Subconn互換水中RFコネクタ",
+		"用途: ROV、中性浮力ケーブル、海底アンテナ、深海センサー",
+		"ピンの数: 1ピン（同軸）",
+		"防水等級: IP68",
+		"形状: 円形",
+		"カラーオプション: ブラック、ブルー",
+		"用途: 深海信号およびRF電力通信",
+		"ワイヤー長: カスタマイズ可能",
+		"性別: メス",
+		"原産地: 中国、山東省",
+		"認証: TUV、CE、CCC",
+		"配送: DHL、UPS、FedEx、EMS、China Post、HongKong Post",
+		"最小発注数量: 1セット",
+		"支払条件: 100% T/T、MoneyGram、PayPal、クレジットカード"
+	  ],
+	  "faq": [
+		{
+		  "question": "UC 1063コネクタはどのような用途に設計されていますか？",
+		  "answer": "ROV、潜水アンテナ、中性浮力ケーブルシステム、水中RF通信機器に最適です。"
+		},
+		{
+		  "question": "このコネクタはどのような信号を伝送できますか？",
+		  "answer": "UC 1063は、アンテナおよび同軸通信ライン向けに水中条件下での高性能RF信号伝送用に設計されています。"
+		},
+		{
+		  "question": "このコネクタの防水等級は何ですか？",
+		  "answer": "IP68等級で、深海および海底展開に完全な保護を提供します。"
+		},
+		{
+		  "question": "ケーブル長をカスタマイズできますか？",
+		  "answer": "はい、特定のシステムレイアウトまたは展開要件に基づいてワイヤー長を完全にカスタマイズできます。"
+		},
+		{
+		  "question": "Subconnシステムと互換性がありますか？",
+		  "answer": "はい、UC 1063は既存の海底ネットワークにシームレスに統合できるSubconnスタイルのインターフェースと互換性があります。"
+		}
+	  ]
+	},
+	{
+	  "title": "UC 1065 6ピン水中光ファイバーコネクタ",
+	  "focus": "UC 1065",
+	  "slug": "/uc-1065-6pin-underwater-fiber-optic-connector",
+	  "collection": "Custom Underwater Connectors",
+	  "description": "UC 1065 6ピン光ファイバーコネクタは、深海信号および電力通信向けに設計。IP68防水等級、FC/SC/LC互換性、高い機械的安定性を備え、海底ロボット、ドローン、海洋LANシステムに最適。",
+	  "main_image": "https://image.underwaterelectricalconnectors.com/product/uc-1065-6pin-underwater-fiber-optic-connector-1.jpg",
+	  "image_list": [
+		"https://image.underwaterelectricalconnectors.com/product/uc-1065-6pin-underwater-fiber-optic-connector-2.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1065-6pin-underwater-fiber-optic-connector-3.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1065-6pin-underwater-fiber-optic-connector-4.jpg",
+		"https://image.underwaterelectricalconnectors.com/product/uc-1065-6pin-underwater-fiber-optic-connector-5.jpg"
+	  ],
+	  "product_description": [
+		"UC 1065 6ピン水中光ファイバーコネクタは、深海および海底ロボットシステムでの高性能光信号および電力伝送向けに設計された堅牢なIP68コネクタです。シングルモードおよびマルチモード構成でFC、SC、LCを含む複数のファイバータイプをサポートします。ステンレス鋼シェルとニトリルOリングシールにより、最大70MPaの水圧を処理し、過酷な海底環境での機械的安定性、長寿命耐久性、優れた防水保護を保証します。6ピンのファイバー統合と安全なM27x2ねじマウントを備え、ROV、水中ドローン、海洋LANまたは信号ネットワークに最適です。"
+	  ],
+	  "product_parameter": [
+		"ブランド: HYSF",
+		"モデル番号: UC 1065",
+		"タイプ: 光ファイバー海底コネクタ",
+		"用途: 海底電力および信号、海洋LAN、ROV、水中ドローン",
+		"ピンの数: 6ピン",
+		"ファイバー互換性: FC / SC / LC、シングルモードおよびマルチモード",
+		"シェル素材: ステンレス鋼",
+		"取り付けねじ: M27x2",
+		"シーリング素材: ニトリルブタジエンゴム / Oリング",
+		"防水等級: IP68",
+		"深水圧力: 10～70MPa",
+		"接続モード: 嵌合とナットロック",
+		"動作環境: 過酷な海洋および海底条件",
+		"性別: メス",
+		"原産地: 中国、山東省",
+		"認証: CQC、CE",
+		"最小発注数量: 1セット"
+	  ],
+	  "faq": [
+		{
+		  "question": "UC 1065コネクタはどのファイバータイプをサポートしますか？",
+		  "answer": "UC 1065は、シングルモードおよびマルチモードファイバー構成でFC、SC、LCコネクタタイプをサポートします。"
+		},
+		{
+		  "question": "UC 1065は深海信号用途に適していますか？",
+		  "answer": "はい、IP68までの防水シーリングと70MPaの耐圧性を備え、海洋センサーネットワークや海底光通信に最適です。"
+		},
+		{
+		  "question": "このコネクタはどのシステムと互換性がありますか？",
+		  "answer": "海底ロボット、水中ドローン、ROV、その他の海洋光信号およびデータ伝送システムと互換性があります。"
+		},
+		{
+		  "question": "コネクタはどのように安全に設置されますか？",
+		  "answer": "M27x2取り付けねじとナットロックを備え、振動や水圧下での信号損失を防ぐ安定した機械的結合を提供します。"
+		},
+		{
+		  "question": "OEMシステムに使用できますか？",
+		  "answer": "はい、カスタマイズされた水中通信ソリューションのOEM製造または統合に完全に適しています。"
+		}
+	  ]
+	}
 ];
